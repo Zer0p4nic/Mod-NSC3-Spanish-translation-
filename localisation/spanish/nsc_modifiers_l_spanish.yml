@@ -1,0 +1,102 @@
+﻿l_spanish:
+
+##################################################################################################################################################################################################################
+### MODIFIERS ###
+#################
+
+mod_ships_energy_produces_add: "Producción de Energía"
+mod_ships_physics_research_produces_add: "Investigación de Física"
+mod_ships_society_research_produces_add: "Investigación de Sociedad"
+mod_ships_engineering_research_produces_add: "Investigación de Ingeniería"
+mod_ships_alloys_produces_add: "Producción de Aleaciones"
+
+mod_ship_colossus_cost_mult: "Costo de Construcción del Coloso"
+mod_shipsize_colossus_build_speed_mult: "Velocidad de Construcción del Coloso"
+
+mod_ship_juggernaut_cost_mult: "Costo de Construcción del Gigante"
+mod_shipsize_juggernaut_build_speed_mult: "Velocidad de Construcción del Gigante"
+
+mod_shipsize_escortcarrier_upkeep_mult: "Mantenimiento del Portanaves de Escolta"
+mod_shipsize_escortcarrier_hull_mult: "Puntos de Casco del Portanaves de Escolta"
+mod_shipsize_escortcarrier_build_speed_mult: "Velocidad de Construcción del Portanaves de Escolta"
+mod_ship_escortcarrier_cost_mult: "Costo de Construcción del Portanaves de Escolta"
+
+mod_shipsize_Battlecruiser_upkeep_mult: "Mantenimiento del Crucero de Batalla"
+mod_shipsize_Battlecruiser_hull_mult: "Casco de Crucero de Batalla"
+mod_shipsize_Battlecruiser_build_speed_mult: "Velocidad de Construcción del Crucero de Batalla"
+mod_ship_Battlecruiser_cost_mult: "Costo de Construcción del Crucero de Batalla"
+
+mod_shipsize_Carrier_upkeep_mult: "Mantenimiento del Portanaves"
+mod_shipsize_Carrier_hull_mult: "Casco de Portanaves"
+mod_shipsize_Carrier_build_speed_mult: "Velocidad de Construcción del Portanaves"
+mod_ship_Carrier_cost_mult: "Costo de Construcción del Portanaves"
+
+mod_shipsize_Dreadnought_upkeep_mult: "Mantenimiento del Acorazado"
+mod_shipsize_Dreadnought_hull_mult: "Casco de Acorazado"
+mod_shipsize_Dreadnought_build_speed_mult: "Velocidad de Construcción del Acorazado"
+mod_ship_Dreadnought_cost_mult: "Costo de Construcción de Acorazado"
+
+mod_shipsize_titan_upkeep_mult: "Mantenimiento de Titán"
+mod_shipsize_titan_hull_mult: "Puntos de Casco de Titán"
+mod_shipsize_titan_build_speed_mult: "Velocidad de Construcción de Titán"
+mod_ship_titan_cost_mult: "Costo de Construcción de Titán"
+
+mod_shipsize_Flagship_upkeep_mult: "Mantenimiento de Nave Insignia"
+mod_shipsize_Flagship_hull_mult: "Casco de Nave Insignia"
+mod_shipsize_Flagship_build_speed_mult: "Velocidad de Construcción de Nave Insignia"
+mod_ship_Flagship_cost_mult: "Costo de Construcción de Nave Insignia"
+
+mod_shipsize_headquarters_build_speed_mult: "Velocidad de Construcción de Cuartel General"
+mod_ship_headquarters_cost_mult: "Costo de Construcción de Cuartel General"
+
+mod_shipsize_explorationship_build_speed_mult: "Velocidad de Construcción de Explorador"
+mod_ship_explorationship_cost_mult: "Costo de Construcción de Explorador"
+
+mod_country_resource_max_minerals_add: "Máx Minerales"
+mod_country_resource_max_energy_add: "Máx Energía"
+
+mod_leader_admirals_upkeep_mult: "Mantenimiento de Almirante"
+
+country_command_limit_mult: "Límite de Comando de Flota"
+
+mod_weapon_type_point_defense_weapon_damage_mult: "Daño de Arma de Defensa de Punto"
+
+mod_planet_livestock_produces_mult: "Producción de Ganado"
+
+mod_pop_category_purge_produces_mult: "Producción de Poblaciones de Purga"
+
+mod_deposit_blockers_time_cost_mult: "Tiempo de Eliminación de Bloqueador de Baldosa"
+
+mod_shipsize_military_station_medium_build_speed_mult: "Velocidad de Construcción de Estación de Defensa"
+
+mod_shipsize_military_station_large_build_speed_mult: "Velocidad de Construcción de Fortaleza de Defensa"
+
+mod_light_ship_focus: "Enfoque en Naves Ligeras"
+mod_light_ship_focus_desc: "Una política que se enfoca en una flota de naves de combate rápidas y ligeras. Proporciona +20% de velocidad de construcción y -20% de costo de construcción a Corbetas, Destructores y Cruceros, pero dado que nuestros astilleros estarán enfocados en estas naves específicas, las clases más grandes se construirán un 20% más lento y serán un 20% más caras."
+mod_versatility_focus: "Enfoque en Cruceros"
+mod_versatility_focus_desc: "Una política que se enfoca en una flota de naves de combate de tamaño medio. Proporciona +20% de velocidad de construcción y -20% de costo de construcción a Cruceros, Cruceros de Ataque y Cruceros de Batalla, pero dado que nuestros astilleros estarán enfocados en estas naves específicas, otras clases se construirán un 20% más lento y serán un 20% más caras."
+mod_capital_focus: "Enfoque en Naves Capitales"
+mod_capital_focus_desc: "Una política que se enfoca en una flota de naves de guerra grandes y poderosas. Proporciona +20% de velocidad de construcción y -20% de costo de construcción a Acorazados, Portanaves, Acorazados y Titanes, pero dado que nuestros astilleros estarán enfocados en estas naves específicas, las clases más pequeñas se construirán un 20% más lento y serán un 20% más caras."
+mod_carrier_focus: "Enfoque en Portanaves"
+mod_carrier_focus_desc: "Una política que se enfoca en una flota de Portanaves equipados con un gran número de naves de ataque. Proporciona +35% de velocidad de construcción y -35% de costo de construcción a Portanaves de Escolta y Portanaves, pero dado que nuestros astilleros estarán enfocados en estas naves específicas, otras clases se construirán un 20% más lento y serán un 20% más caras."
+
+mod_nsc_non_artificial_planet_slave_produces_mult: "$pop_cat_slave$ Producción de Recursos de Población en Mundos No Artificiales"
+mod_nsc_non_artificial_planet_worker_produces_mult: "$pop_cat_worker$ Producción de Recursos de Población en Mundos No Artificiales"
+mod_nsc_freebooter_jobs_produces_mult: "Producción de Recursos de Población en Hábitat, Mundos Reliquia"
+mod_nsc_freebooter_jobs_upkeep_mult: "Mantenimiento de Población en Hábitat, Mundos Reliquia"
+
+mod_shipsize_StrikeCruiser_hull_mult: "Casco de Crucero de Ataque"
+mod_shipsize_Battlecruiser_hull_mult: "Casco de Crucero de Batalla"
+mod_shipsize_Carrier_hull_mult: "Casco de Portanaves"
+mod_shipsize_Dreadnought_hull_mult: "Casco de Acorazado"
+mod_shipsize_Flagship_hull_mult: "Casco de Nave Insignia"
+
+mod_brawler_weapon_damage_mult: "Daño de Arma de Pelea"
+mod_gunship_weapon_damage_mult: "Daño de Arma de Nave de Guerra"
+mod_explosive_weapon_damage_mult: "Daño de Arma Explosiva"
+
+megastructures_nsc_flagship_shipyard: "Gran Astillero"
+mod_megastructures_nsc_flagship_shipyard_cost_mult: "Costo de Construcción de Gran Astillero"
+
+shipsize_military_station_medium_build_speed_mult: "Velocidad de Construcción de Estación de Defensa"
+shipsize_military_station_large_build_speed_mult: "Velocidad de Construcción de Fortaleza"

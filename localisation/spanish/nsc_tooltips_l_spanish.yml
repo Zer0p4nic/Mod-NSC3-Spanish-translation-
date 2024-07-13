@@ -1,0 +1,51 @@
+﻿l_spanish:
+
+##################################################################################################################################################################################################################
+### TOOLTIPS ###
+################
+
+requires_no_existing_nsc_factory: "Sólo puedes construir una Fábrica de Recursos Estratégicos."
+requires_no_existing_mall: "Sólo puedes construir un Centro Comercial Galáctico."
+requires_no_existing_hospital: "Sólo puedes construir un Hospital General Galáctico."
+requires_no_existing_nsc_headquarters: "Sólo puedes construir una Sede de Flota."
+
+TBA: "\n§g(- Descripción Añadir -)§!\n"
+
+starbase_management_limit: "§RSólo cinco §Y$sm_starbase_management$§! pueden existir por imperio.§!"
+starbase_management_machine_limit: "§RSólo cinco §Y$sm_starbase_management_machine$§! pueden existir por imperio.§!"
+starbase_management_hive_limit: "§RSólo cinco §Y$sm_starbase_management_hive$§! pueden existir por imperio.§!"
+requires_colony: "Requiere planeta colonizado"
+requires_stronghold: "Requiere Base Estelar Gran Ciudadela"
+
+requires_technology_hyperlane_generation: "$TRIGGER_FAIL$Requiere tecnología £physics  §Y$tech_hyperlane_generation$§!."
+
+requires_no_existing_generator_emisor: "$TRIGGER_FAIL$No se puede construir debido a la existencia de §YGenerador de Hipervía (Emisor)§! en el Imperio."
+requires_existing_generator_receptor: "$TRIGGER_FAIL$Requiere existente §YGenerador de Hipervía (Receptor)§! en el Imperio."
+requires_existing_generator_emisor: "$TRIGGER_FAIL$Requiere existente §YGenerador de Hipervía (Emisor)§! en el Imperio en un sistema no conectado por una Hipervía a §Y[Root.GetName]§!."
+requires_no_existing_system_generator_emisor: "$TRIGGER_FAIL$No se puede construir debido a la existencia de §YGenerador de Hipervía (Emisor)§! en el sistema."
+requires_no_existing_generator_receptor: "$TRIGGER_FAIL$No se puede construir debido a la existencia de §YGenerador de Hipervía (Receptor)§! en el Imperio."
+
+requires_no_existing_remover_emisor: "$TRIGGER_FAIL$No se puede construir debido a la existencia de §YEliminador Hipervía (Emisor)§! en el Imperio."
+requires_existing_remover_receptor: "$TRIGGER_FAIL$Requiere existente §YEliminador Hipervía (Receptor)§! en el Imperio."
+requires_existing_remover_emisor: "$TRIGGER_FAIL$Requiere existente §YEliminador Hipervía (Emisor)§! en el Imperio en un sistema conectado por una Hipervía a §Y[Root.GetName]§!."
+requires_no_existing_system_remover_emisor: "$TRIGGER_FAIL$No se puede construir debido a la existencia de §YEliminador Hipervía (Emisor)§! en el sistema."
+requires_no_existing_remover_receptor: "$TRIGGER_FAIL$No se puede construir debido a la existencia de §YEliminador Hipervía (Receptor)§! en el Imperio."
+
+nsc_headquarters_bonus: "Bonificación de Estación de Cuartel General"
+
+requires_technology_exploration_cruiser: "Requiere §HExplorador (Nivel 1)§!"
+requires_technology_automated_exploration: "Requiere §BAutomated Exploration Protocols§!"
+requires_discovery_tree: "Requiere completar la §MTradición de Descubrimiento§!"
+
+starbase_h_limit.tooltip.fail: "No puedes construir más de 6 bahías de hangares por base estelar."
+starbase_t_limit.tooltip.fail: "No puedes construir más de 2 armas Titánicas por base estelar."
+starbase_xl_limit.tooltip.fail: "No puedes construir más de 6 armas XL por base estelar."
+
+starbase_filler_limit.tooltip.fail: "No puedes construir más de 3 de estos módulos por base estelar."
+
+nsc.requires.asteroid: "Requiere asteroide en el sistema."
+
+CLOAKING_FRIGATE_TOOLTIP: "Bonificación de Velocidad de Nave: §G25%§!\nBonificación de Evasión de Fragata: §G15%§!"
+CLOAKING_BATTLECRUISER_TOOLTIP: "Reducción de Escudo de Crucero de Batalla: §R80%§!\nReducción de Velocidad de Crucero de Batalla §R50%§!"
+
+starbase_detection_limit.tooltip.fail: "No puedes construir más de 6 Sistema de Detección por base estelar."

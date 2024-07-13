@@ -1,0 +1,11 @@
+﻿l_spanish:
+
+##################################################################################################################################################################################################################
+### JOBS ###
+############
+
+job_diagnostician:0 "Diagnosticista"
+job_diagnostician_plural:0 "Diagnosticistas"
+job_diagnostician_desc:0 "Estos trabajadores especializados en el Hospital Galáctico son expertos en la fabricación de robots o en el aumento de la reproducción de la vida orgánica"
+
+mod_job_diagnostician_add:0 "Trabajos de $job_diagnostician$"

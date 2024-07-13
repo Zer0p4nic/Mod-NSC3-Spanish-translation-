@@ -1,0 +1,216 @@
+﻿l_spanish:
+
+
+##################################################################################################################################################################################################################
+### STARBASE MODULES & BUILDINGS ###
+####################################
+
+stb_shipyard: "Astillero"
+stb_shipyard_desc: "Una base estelar centrada en la construcción de naves.\n"
+
+sm_drydock: "Dique seco"
+sm_drydock_desc: "Esta instalación especialmente diseñada utiliza tecnología avanzada para mantener las presiones atmosféricas dentro de los Astilleros, permitiendo a los trabajadores construir, mantener, mejorar y reparar naves de guerra con mayor facilidad.\n"
+sm_drydock_desc_modifier: "Aumenta la capacidad de construcción de cada §Y$sm_shipyard$§! en §G1§!\n"
+
+sm_sensor_station: "Estación de Sensores"
+sm_sensor_station_desc: "La estación de sensores de la base estelar utiliza matrices de sensores avanzados para extender nuestras capacidades de recopilación de inteligencia a través de varios sistemas estelares, dándonos una advertencia avanzada de cualquier posible amenaza cerca de nuestras fronteras.\n"
+
+sm_solar_panel: "Panel Solar"
+sm_solar_panel_desc: "Este conjunto de paneles solares proporciona energía a la base estelar, ayudando a contrarrestar los costos de funcionamiento de la instalación y generando energía excedente.\n"
+
+sm_starbase_management: "Oficina de Administración de la Base Estelar"
+sm_starbase_management_desc: "Algunos sistemas son absolutamente críticos para el mantenimiento de las redes comerciales de nuestro imperio. Una Oficina de Administración de la Base Estelar es el asiento de un funcionario muy importante de nuestro Imperio, encargado de la protección de las rutas comerciales locales y la defensa de esta base estelar crítica.\n"
+
+sm_customs_office: "Oficina de Aduanas de la Base Estelar"
+sm_customs_office_desc: "Ubicación central para toda la inmigración del sistema.\n"
+
+sm_starbase_management_machine: "Centro de Red de la Base Estelar"
+sm_starbase_management_machine_desc: "01000101 01110010 01110010 01101111 01110010 00100000 00110100 00110000 00110100 0001010\n"
+
+sm_starbase_management_hive: "Guarida de la Base Estelar"
+sm_starbase_management_hive_desc: "Somos uno.\n"
+
+sm_mining_base: "Refinería de Minerales del Sistema"
+sm_mining_base_desc: "Algunos sistemas están especializados en la extracción de recursos minerales para alimentar nuestra economía. Una Refinería de Minerales del Sistema le da a una base estelar la capacidad de aumentar la eficiencia de las operaciones de extracción de minerales en todos los planetas dentro del sistema.\n"
+
+sm_farming_base: "Terminal de Agricultura del Sistema"
+sm_farming_base_desc: "Algunos sistemas están especializados en producir grandes cantidades de alimentos para sostener nuestra población en constante crecimiento. Una Terminal de Agricultura del Sistema coordina los esfuerzos de todas las empresas agrícolas en el sistema estelar, aumentando los rendimientos de los cultivos en todos los planetas afectados.\n"
+
+sm_power_station: "Red de Energía del Sistema"
+sm_power_station_desc: "Algunos sistemas están especializados en producir la energía bruta que todas las civilizaciones necesitan para funcionar. Una Red de Energía del Sistema supervisa todos los esfuerzos de generación de energía en todo el sistema, aumentando la eficiencia de nuestros técnicos en todos los planetas dentro del sistema estelar.\n"
+
+sm_artifact_silo: "Almacenamiento de Artefactos Menores"
+sm_artifact_silo_desc: "Este silo especializado se puede utilizar para almacenar Artefactos Menores en una base estelar.\n"
+
+sm_public_plaza: "Plaza Pública"
+sm_public_plaza_desc: "Una hermosa plaza donde la gente puede reunirse y relajarse."
+
+sm_fleet_club: "Club de Oficiales de la Flota"
+sm_fleet_club_desc: "Un lugar para el descanso y la relajación específicamente para los oficiales de la flota."
+
+sm_storage_room: "Sala de Almacenamiento"
+sm_storage_room_desc: "Un pequeño área de almacenamiento para varios recursos."
+
+sm_nightclub: "Club Nocturno"
+sm_nightclub_desc: "No hay fiesta como una fiesta de la Base Estelar porque una fiesta de la Base Estelar no se detiene."
+
+sm_public_market: "Mercado Público"
+sm_public_market_desc: "Un gran mercado de comercio accesible al público en general."
+
+
+
+##################################################################################################################################################################################################################
+### STARBASE EXTENDED ###
+#########################
+ 
+ sm_shield_module: "Generador de Escudos"
+ sm_shield_module_desc: "Añade más escudos a la Base Estelar.\n"
+
+ sm_armor_module: "Revestimiento del Blindaje"
+ sm_armor_module_desc: "Añade más blindaje a la Base Estelar.\n"
+
+ sm_pd_battery: "Sistema de Defensa de Punto"
+ sm_pd_battery_desc: "Añade cuatro ranuras de defensa de punto a la Base Estelar.\n"
+ 
+ sm_gun_battery: "Batería de Armas"
+ sm_gun_battery_desc: "Añade dos ranuras de armas medianas a la Base Estelar.\n"
+ 
+ sm_missile_battery: "Batería de Torpedos"
+ sm_missile_battery_desc: "Añade dos ranuras de armas de torpedos a la Base Estelar.\n"
+ 
+ sm_large_battery: "Batería Grande"
+ sm_large_battery_desc: "Añade dos ranuras de armas grandes a la Base Estelar.\n"
+ 
+ sm_xl_battery: "Batería Extra Grande"
+ sm_xl_battery_desc: "Añade una ranura de arma extra grande a la Base Estelar.\n\n§YADVERTENCIA: Hay un límite de construcción de 5 de estos por base estelar.§!\n"
+ 
+ sm_titanic_battery: "Batería Titánica"
+ sm_titanic_battery_desc: "Añade una ranura de arma titánica a la Base Estelar.\n\n§YADVERTENCIA: Hay un límite de construcción de 2 de estos por base estelar.§!\n"
+ 
+ sm_construction_office: "Oficina de Construcción de la Base Estelar"
+ sm_construction_office_desc: "Aumenta la eficiencia con la que la base estelar construye módulos, edificios y mejoras.\n"
+ 
+ sm_asteroid_mining: "Equipo de Minería de Asteroides"
+ sm_asteroid_mining_desc: "Un equipo que mina asteroides errantes que son demasiado pequeños para ser apuntados por una estación de minería estándar. Tener un §GAdministrador de Minería de Asteroides§! mejorará la producción en §Y2 Minerales§! £minerals.\n"
+
+ sm_mining_manager: "Administrador de Minería de Asteroides"
+ sm_mining_manager_desc: "Un Administrador que aumenta la eficiencia de cada equipo de minería de asteroides. Mejorará la producción de cada §GEquipo de Minería de Asteroides§! en §Y2 Minerales§! £minerals.\n"
+ 
+ sm_solar_capacitor: "Condensadores Solares"
+ sm_solar_capacitor_desc: "Un sistema de condensadores que aumenta la eficiencia de producción de energía de los Paneles Solares.\n\nProducción de §YPanel Solar§!: §G+2 Energía§! £energy\n\n\nMantenimiento de §YPanel Solar§!: §R+1 Minerales§! £minerals  (para Gestalt) y  §R+1 Bienes de Consumo§! £consumer_goods£  (para No-Gestalt)\n"
+
+ sm_reinforced_defenses: "Defensas Reforzadas de la Base Estelar"
+ sm_reinforced_defenses_desc: "Mejora los escudos y la blindaje de la Base Estelar.\n"
+
+ sm_strategic_defenses: "Defensas Estratégicas de la Base Estelar"
+ sm_strategic_defenses_desc: "Mejora los escudos y las armas de la Base Estelar.\n"
+
+ sm_adv_starbase_defenses: "Defensas Avanzadas de la Base Estelar"
+ sm_adv_starbase_defenses_desc: "Mejora la blindaje y las armas de la Base Estelar.\n"
+
+ sm_orbital_lab: "Laboratorio de Investigación Orbital"
+ sm_orbital_lab_desc: "Un laboratorio de investigación avanzado. Tener un §GLaboratorio de Soporte§! mejorará la producción de investigación.\n"
+
+ sm_orbital_physics_support_lab: "Laboratorio de Soporte de Física"
+ sm_orbital_physics_support_lab_desc: "Un laboratorio especializado en investigación de Física. Mejorará la producción de cada §GLaboratorio de Investigación Orbital§! en §Y2 Investigación de Física§!.\n"
+
+ sm_orbital_society_support_lab: "Laboratorio de Soporte de Sociedad"
+ sm_orbital_society_support_lab_desc: "Un laboratorio especializado en investigación de Sociedad. Mejorará la producción de cada §GLaboratorio de Investigación Orbital§! en §Y2 Investigación de Sociedad§!.\n"
+
+ sm_orbital_engineering_support_lab: "Laboratorio de Soporte de Ingeniería"
+ sm_orbital_engineering_support_lab_desc: "Un laboratorio especializado en investigación de Ingeniería. Mejorará la producción de cada §GLaboratorio de Investigación Orbital§! en §Y2 Investigación de Ingeniería§!.\n"
+
+ sm_ground_forces_academy: "Academia de Fuerzas Terrestres"
+ sm_ground_forces_academy_desc: "Aumenta la eficiencia con la que se reclutan y entrenan los ejércitos terrestres.\n"
+
+ sm_repair_module: "Instalación de Reparación"
+ sm_repair_module_desc: "Una instalación que se especializa en la reparación rápida de naves en órbita alrededor de la base estelar.\n"
+
+ sm_space_foundry: "Fundición Espacial"
+ sm_space_foundry_desc: "La fundición espacial refinará minerales en aleaciones. Tener §GManufactura en Línea de Ensamblaje§! mejorará la producción en §Y1 Aleación§!  £alloys.\n"
+
+ sm_space_factory: "Fábrica Espacial"
+ sm_space_factory_desc: "La fábrica espacial refinará minerales en bienes de consumo. Tener §GManufactura en Línea de Ensamblaje§! mejorará la producción en §Y2 Bienes de Consumo§!  £consumer_goods.\n"
+
+ sm_security_branch_office: "Oficina de Seguridad de Sucursal"
+ sm_security_branch_office_desc: "Una oficina de seguridad de sucursal se centrará en la defensa de sus rutas comerciales contra la piratería local.\n"
+
+ sm_administration_office: "Oficina de Administración"
+ sm_administration_office_desc: "Asiste en tareas de gestión a nivel de imperio, aumentando la capacidad de administración del imperio.\n"
+
+ sm_synthetic_crystal_fabricator: "Fabricante de Cristales Sintéticos"
+ sm_synthetic_crystal_fabricator_desc: "Una refinería especial que transforma minerales en cristales raros.\n"
+
+ sm_synthetic_volatile_motes_fabricator: "Fabricante de Motas Volátiles Sintéticas"
+ sm_synthetic_volatile_motes_fabricator_desc: "Una refinería especial que transforma minerales en motas volátiles.\n"
+
+ sm_synthetic_gase_fabricator: "Fabricante de Gases Exóticos Sintéticos"
+ sm_synthetic_gase_fabricator_desc: "Una refinería especial que transforma minerales en gases exóticos.\n"
+
+ sm_robot_assembly: "Instalación de Montaje de Robots"
+ sm_robot_assembly_desc: "Construye poblaciones de robots y las transfiere automáticamente a las colonias del sistema.\n"
+
+ sm_assembly_line_manufacturing: "Fabricación en línea de montaje"
+ sm_assembly_line_manufacturing_desc: "Ayuda en la producción de aleaciones y bienes de consumo tanto en el espacio como en los planetas. También mejorará la producción de cada §GFundición Espacial§! por §Y1 Aleación§!  £alloys  y §GFábrica Espacial§! por §Y2 Bienes de Consumo§!  £consumer_goods.\n" 
+
+ sm_federal_reserve_bank: "Banco de la Reserva Federal"
+ sm_federal_reserve_bank_desc: "Un gran banco financiero que ayuda a mejorar el comercio dentro del sistema.\n"
+
+ sm_cloning_facilities: "Instalaciones de clonación"
+ sm_cloning_facilities_desc: "Instalaciones que aumentan el crecimiento de la población en todo el sistema, a costa de la felicidad de la población.\n"
+
+ sm_navcom_ai: "IA Navcom"
+ sm_navcom_ai_desc: "Un sistema de navegación extremadamente avanzado que puede calcular rápidamente las coordenadas para saltos de emergencia. Aumenta la posibilidad de que las naves se desvinculen con éxito del combate.\n"
+
+ sm_starbase_ai: "Inteligencia Artificial de la Base Estelar"
+ sm_starbase_ai_desc: "Una computadora AI extremadamente avanzada capaz de mejorar las habilidades de ataque, defensa y protección comercial de una base estelar.\n"
+
+ sm_tv_studio: "Estudio de TV de Entretenimiento"
+ sm_tv_studio_desc: "Un estudio de televisión que produce programas de entretenimiento para los ciudadanos de todo el sistema, aumentando las comodidades planetarias.\n"
+
+ sm_real_estate_dev: "Desarrollador de Bienes Raíces"
+ sm_real_estate_dev_desc: "Una oficina donde los agentes de bienes raíces ayudan a los ciudadanos a encontrar ubicaciones adecuadas para nuevas viviendas. Aumenta la vivienda planetaria disponible.\n"
+
+ sm_tv_network: "Red de Noticias de TV"
+ sm_tv_network_desc: "Un estudio de televisión que produce programas de noticias para los ciudadanos de todo el sistema, aumentando la estabilidad planetaria. ¿Te gustaría saber más?\n"
+
+ POINT_DEFENCE_STARBASE: "Sistema de Defensa Automatizado"
+ POINT_DEFENCE_STARBASE_DESC: "Sistema de Defensa Automatizado"
+ CITADEL_DARK_MATTER_REACTOR: "Reactor de Materia Oscura"
+ CITADEL_DARK_MATTER_REACTOR_DESC: "Reactor de Materia Oscura"
+ STARBASE_AURA_SHIP_DISRUPTOR: "Disruptor de Nave"
+ STARBASE_AURA_SHIP_AMPLIFIER: "Amplificador de Nave"
+ aura_starbase_ship_disruptor: "$offensive_aura$ - $STARBASE_AURA_SHIP_DISRUPTOR$"
+ aura_starbase_ship_amplifier: "$defensive_aura$ - $STARBASE_AURA_SHIP_AMPLIFIER$"
+ 
+ TITANIC_STARBASE_SECTION: "Sección Titánica"
+ EXTRA_LARGE_STARBASE_SECTION: "Sección XL"
+ LARGE_STARBASE_SECTION: "Sección Grande"
+ PD_STARBASE_SECTION: "Sección de Defensa de Punto"
+ HANGAR_STARBASE_SECTION: "Sección de Hangar"
+ MISSILE_STARBASE_SECTION: "Sección de Misiles"
+ BATTERY_STARBASE_SECTION: "Sección Mediana"
+ 
+ 
+##################################################################################################################################################################################################################
+###  STARBASE TYPES   ###
+#########################
+
+smining: "Estación de Minería"
+sfactory: "Fábrica Orbital"
+sfarm: "Granja Orbital"
+srefinery: "Refinería Orbital"
+ssensor: "Observatorio"
+scolony: "Colonia Orbital"
+spower: "Estación de Energía"
+
+
+##################################################################################################################################################################################################################
+###    MISC STUFF     ###
+#########################
+
+
+ mod_pop_category_bio_trophy_unity_produces_mult: "Unidad de Bio-Trofeo"
+ mod_station_researchers_physics_research_produces_mult: "Estación de Investigación de Física £physics  Salida"
+ mod_station_researchers_society_research_produces_mult: "Estación de Investigación de Sociedad £society  Salida"
+ mod_station_researchers_engineering_research_produces_mult: "Estación de Investigación de Ingeniería £engineering  Salida"

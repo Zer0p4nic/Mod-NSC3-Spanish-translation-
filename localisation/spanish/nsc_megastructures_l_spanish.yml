@@ -1,0 +1,143 @@
+﻿l_spanish:
+
+##################################################################################################################################################################################################################
+### MEGASTRUCTURES ###
+######################
+
+hyperlane_creator_emisor_0: "Sitio de Construcción del Generador de Hipervías (Transmisor)"
+hyperlane_creator_emisor_0_DESC: "Crea una Nueva Hipervía - Paso 1: Construye esta estructura en el sistema donde quieres que comience la nueva Hipervía."
+hyperlane_creator_emisor_0_MEGASTRUCTURE_DETAILS: "Crea una Nueva Hipervía - Paso 1: Construye esta estructura en el sistema donde quieres que comience la nueva Hipervía."
+                                  
+hyperlane_creator_receptor_0: "Sitio de Construcción del Generador de Hipervías (Receptor)"
+hyperlane_creator_receptor_0_DESC: "Crea una Nueva Hipervía - Paso 2: Construye esta estructura en el sistema donde quieres que termine la nueva Hipervía."
+hyperlane_creator_receptor_0_MEGASTRUCTURE_DETAILS: "Crea una Nueva Hipervía - Paso 2: Construye esta estructura en el sistema donde quieres que termine la nueva Hipervía."
+
+hyperlane_creator_emisor_1: "Generador de Hipervías (Transmisor)"
+hyperlane_creator_emisor_1_DESC: "Crea una Nueva Hipervía - Paso 3: Mejora esta estructura para completar la construcción del transmisor del generador de Hipervías."
+
+hyperlane_creator_receptor_1: "Generador de Hipervías (Receptor)"
+hyperlane_creator_receptor_1_DESC: "Crea una Nueva Hipervía - Paso 4: Mejora esta estructura para completar la construcción del receptor del generador de Hipervías."
+
+hyperlane_creator_emisor_2: "Generador de Hipervías (Transmisor) - Activación"
+hyperlane_creator_emisor_2_DESC: "Crea una Nueva Hipervía - Paso 5: Mejora esta estructura para activar el transmisor y crear la nueva Hipervía."
+
+
+
+hyperlane_remover_emisor_0: "Sitio de Construcción del Removedor de Hipervías (Transmisor)"
+hyperlane_remover_emisor_0_DESC: "Elimina una Hipervía - Paso 1: Construye esta estructura en el sistema donde comienza la Hipervía que quieres eliminar."
+hyperlane_remover_emisor_0_MEGASTRUCTURE_DETAILS: "Elimina una Hipervía - Paso 1: Construye esta estructura en el sistema donde comienza la Hipervía que quieres eliminar."
+
+hyperlane_remover_receptor_0: "Sitio de Construcción del Removedor de Hipervías (Receptor)"
+hyperlane_remover_receptor_0_DESC: "Elimina una Hipervía - Paso 2: Construye esta estructura en el sistema donde termina la Hipervía que quieres eliminar."
+hyperlane_remover_receptor_0_MEGASTRUCTURE_DETAILS: "Elimina una Hipervía - Paso 2: Construye esta estructura en el sistema donde termina la Hipervía que quieres eliminar."
+
+hyperlane_remover_emisor_1: "Removedor de Hipervías (Transmisor)"
+hyperlane_remover_emisor_1_DESC: "Elimina una Hipervía - Paso 3: Mejora esta estructura para completar la construcción del transmisor del removedor de Hipervías."
+
+hyperlane_remover_receptor_1: "Removedor de Hipervías (Receptor)"
+hyperlane_remover_receptor_1_DESC: "Elimina una Hipervía - Paso 4: Mejora esta estructura para completar la construcción del receptor del removedor de Hipervías."
+
+hyperlane_remover_emisor_2: "Removedor de Hipervías (Transmisor) - Activación"
+hyperlane_remover_emisor_2_DESC: "Elimina una Hipervía - Paso 5: Mejora esta estructura para activar el transmisor y eliminar la Hipervía entre los dos sistemas."
+
+
+
+nsc_headquarters_0: "Sitio de Construcción de la Sede de la Flota"
+nsc_headquarters_0_DESC: "La Sede de la Flota es la estación de mando y control centralizada de tu imperio. Construir y mantener la Sede de la Flota proporciona bonificaciones significativas."
+nsc_headquarters_0_MEGASTRUCTURE_DETAILS: "La Sede de la Flota es la estación de mando y control centralizada de tu imperio. Construir y mantener la Sede de la Flota proporciona bonificaciones significativas."
+nsc_headquarters_0_CONSTRUCTION_INFO_DELAYED: "La Sede de la Flota es la estación de mando y control centralizada de tu imperio. Construir y mantener la Sede de la Flota proporciona bonificaciones significativas."
+
+nsc_headquarters_1: "Sede de la Flota"
+nsc_headquarters_1_DESC: "La Sede de la Flota es la estación de mando y control centralizada de tu imperio. Construir y mantener la Sede de la Flota proporciona bonificaciones significativas."
+nsc_headquarters_1_CONSTRUCTION_INFO_DELAYED: "La Sede de la Flota es la estación de mando y control centralizada de tu imperio. Construir y mantener la Sede de la Flota proporciona bonificaciones significativas."
+nsc_headquarters_1_MEGASTRUCTURE_DETAILS: "La Sede de la Flota es la estación de mando y control centralizada de tu imperio. Construir y mantener la Sede de la Flota proporciona bonificaciones significativas."
+
+
+
+nsc_strategic_resource_factory_0_MEGASTRUCTURE_DETAILS: "Un complejo industrial masivo que puede producir la mayoría de los recursos estratégicos, a costa de consumir grandes cantidades de minerales y energía."
+nsc_strategic_resource_factory_0: "Sitio de Construcción de la Fábrica de Recursos Estratégicos"
+nsc_strategic_resource_factory_0_DESC: "Un complejo industrial masivo que puede producir la mayoría de los recursos estratégicos, a costa de consumir grandes cantidades de minerales y energía."
+nsc_strategic_resource_factory_0_CONSTRUCTION_INFO_DELAYED: "Un complejo industrial masivo que puede producir la mayoría de los recursos estratégicos, a costa de consumir grandes cantidades de minerales y energía."
+
+nsc_strategic_resource_factory_1: "Fábrica de Recursos Estratégicos"
+nsc_strategic_resource_factory_1_DESC: "Un complejo industrial masivo que puede producir la mayoría de los recursos estratégicos, a costa de consumir grandes cantidades de minerales y energía."
+nsc_strategic_resource_factory_1_CONSTRUCTION_INFO_DELAYED: "Un complejo industrial masivo que puede producir la mayoría de los recursos estratégicos, a costa de consumir grandes cantidades de minerales y energía."
+nsc_strategic_resource_factory_1_MEGASTRUCTURE_DETAILS: "Un complejo industrial masivo que puede producir la mayoría de los recursos estratégicos, a costa de consumir grandes cantidades de minerales y energía."
+
+
+
+nsc_galactic_mall_0_MEGASTRUCTURE_DETAILS: "El centro comercial más grande de la galaxia, capaz de producir grandes cantidades de bienes de consumo, y la experiencia de compra definitiva."
+
+nsc_galactic_mall_0: "Sitio de Construcción del Centro Comercial Galáctico"
+nsc_galactic_mall_0_DESC: "El centro comercial más grande de la galaxia, capaz de producir grandes cantidades de bienes de consumo, y la experiencia de compra definitiva."
+nsc_galactic_mall_0_CONSTRUCTION_INFO_DELAYED: "El centro comercial más grande de la galaxia, capaz de producir grandes cantidades de bienes de consumo, y la experiencia de compra definitiva."
+nsc_galactic_mall_1: "Centro Comercial Galáctico"
+nsc_galactic_mall_1_DESC: "El centro comercial y centro de consumo más grande de la galaxia, capaz de producir §G500§! £consumer_goods §YBienes de Consumo§! y §G50§! £unity£ §YUnidad§!"
+nsc_galactic_mall_1_CONSTRUCTION_INFO_DELAYED: "El centro comercial y centro de consumo más grande de la galaxia, capaz de producir una impresionante cantidad de £consumer_goods a costa de £energy y £minerals"
+nsc_galactic_mall_1_MEGASTRUCTURE_DETAILS: "El centro comercial más grande de la galaxia, capaz de producir grandes cantidades de bienes de consumo, y la experiencia de compra definitiva."
+
+
+
+nsc_hospital_0_MEGASTRUCTURE_DETAILS: "Un hospital masivo dedicado al estudio de las xenorazas en la galaxia y al análisis y tratamiento de las enfermedades que afectan a estas especies."
+				       
+nsc_hospital_0: "Sitio de Construcción del Hospital General Galáctico"
+nsc_hospital_0_DESC: "Un hospital masivo dedicado al estudio de las xenorazas en la galaxia y al análisis y tratamiento de las enfermedades que afectan a estas especies."
+nsc_hospital_0_CONSTRUCTION_INFO_DELAYED: "Un hospital masivo dedicado al estudio de las xenorazas en la galaxia y al análisis y tratamiento de las enfermedades que afectan a estas especies."
+
+nsc_hospital_1: "Clínica Galáctica"
+nsc_hospital_1_DESC: "Una gran clínica médica espacial, dedicada al estudio de las diversas xenorazas en la galaxia, y al análisis y tratamiento de todas las enfermedades y condiciones que las afligen."
+nsc_hospital_1_CONSTRUCTION_INFO_DELAYED: "Una gran clínica médica espacial, dedicada al estudio de las diversas xenorazas en la galaxia, y al análisis y tratamiento de todas las enfermedades y condiciones que las afligen."
+nsc_hospital_1_MEGASTRUCTURE_DETAILS: "Una gran clínica médica espacial, dedicada al estudio de las diversas xenorazas en la galaxia, y al análisis y tratamiento de todas las enfermedades y condiciones que las afligen."
+
+nsc_hospital_2: "Centro Médico Galáctico"
+nsc_hospital_2_DESC: "Un enorme centro médico espacial, dedicado al estudio de las diversas xenorazas en la galaxia, y al análisis y tratamiento de todas las enfermedades y condiciones que las afligen."
+nsc_hospital_2_CONSTRUCTION_INFO_DELAYED: "Un enorme centro médico espacial, dedicado al estudio de las diversas xenorazas en la galaxia, y al análisis y tratamiento de todas las enfermedades y condiciones que las afligen."
+nsc_hospital_2_MEGASTRUCTURE_DETAILS: "Un enorme centro médico espacial, dedicado al estudio de las diversas xenorazas en la galaxia, y al análisis y tratamiento de todas las enfermedades y condiciones que las afligen."
+
+nsc_hospital_3: "Hospital General Galáctico"
+nsc_hospital_3_DESC: "Un hospital espacial de última generación y de tamaño descomunal, dedicado al estudio de las diversas xenorazas en la galaxia, y al análisis y tratamiento de todas las enfermedades y condiciones que las afligen."
+nsc_hospital_3_CONSTRUCTION_INFO_DELAYED: "Un hospital espacial de última generación y de tamaño descomunal, dedicado al estudio de las diversas xenorazas en la galaxia, y al análisis y tratamiento de todas las enfermedades y condiciones que las afligen."
+nsc_hospital_3_MEGASTRUCTURE_DETAILS: "Un hospital espacial de última generación y de tamaño descomunal, dedicado al estudio de las diversas xenorazas en la galaxia, y al análisis y tratamiento de todas las enfermedades y condiciones que las afligen."
+
+triggered_opinion_of_nsc_hopsital_1: "Hospital Galáctico"
+triggered_opinion_of_nsc_hopsital_2: "$triggered_opinion_of_nsc_hopsital_1$"
+triggered_opinion_of_nsc_hopsital_3: "$triggered_opinion_of_nsc_hopsital_1$"
+
+
+
+
+
+##################################################################################################################################################################################################################
+### HYPERLANE CREATION/REMOVAL ###
+##################################
+
+nsc_events_hyperlane_gen.1.name: "Hipervía Generada"
+nsc_events_hyperlane_gen.1.desc: "Nuestros esfuerzos para crear una nueva Hipervía entre §Y[hyperlane_creator_emisor.GetName]§! y §Y[hyperlane_creator_receptor.GetName]§! han tenido éxito."
+nsc_events_hyperlane_gen.a: "Excelente"
+
+nsc_events_hyperlane_gen.3.name: "Hipervía Removida"
+nsc_events_hyperlane_gen.3.desc: "Nuestros esfuerzos para eliminar la Hipervía existente entre §Y[hyperlane_remover_emisor.GetName]§! y §Y[hyperlane_remover_receptor.GetName]§! han tenido éxito."
+
+nsc_events_hyperlane_gen.5.name: "Construcción del Generador de Hipervías (Transmisor)"
+nsc_events_hyperlane_gen.5.desc: "Hemos terminado las primeras etapas de construcción de nuestro Generador de Hipervías (Transmisor) en §Y[hyperlane_generator_1.GetName]§!."
+
+nsc_events_hyperlane_gen.7.name: "Construcción del Generador de Hipervías (Receptor)"
+nsc_events_hyperlane_gen.7.desc: "Hemos terminado las primeras etapas de construcción de nuestro Generador de Hipervías (Receptor) en §Y[hyperlane_generator_2.GetName]§!."
+
+nsc_events_hyperlane_gen.9.name: "Construcción del Removedor de Hipervías (Transmisor)"
+nsc_events_hyperlane_gen.9.desc: "Hemos terminado las primeras etapas de construcción de nuestro Removedor de Hipervías (Transmisor) en §Y[hyperlane_generator_3.GetName]§!."
+
+nsc_events_hyperlane_gen.11.name: "Construcción del Removedor de Hipervías (Receptor)"
+nsc_events_hyperlane_gen.11.desc: "Hemos terminado las primeras etapas de construcción de nuestro Removedor de Hipervías (Receptor) en §Y[hyperlane_generator_4.GetName]§!."
+
+nsc_events_hyperlane_gen.6.name: "Generador de Hipervías (Transmisor) Completado"
+nsc_events_hyperlane_gen.6.desc: "Finalmente hemos terminado las últimas etapas de construcción de nuestro Generador de Hipervías (Transmisor) en §Y[From.From.GetName]§!."
+
+nsc_events_hyperlane_gen.8.name: "Generador de Hipervías (Receptor) Completado"
+nsc_events_hyperlane_gen.8.desc: "Finalmente hemos terminado las últimas etapas de construcción de nuestro Generador de Hipervías (Receptor) en §Y[From.From.GetName]§!."
+
+nsc_events_hyperlane_gen.10.name: "Removedor de Hipervías (Transmisor) Completado"
+nsc_events_hyperlane_gen.10.desc: "Finalmente hemos terminado las últimas etapas de construcción de nuestro Removedor de Hipervías (Transmisor) en §Y[From.From.GetName]§!."
+
+nsc_events_hyperlane_gen.12.name: "Removedor de Hipervías (Receptor) Completado"
+nsc_events_hyperlane_gen.12.desc: "Finalmente hemos terminado las últimas etapas de construcción de nuestro Removedor de Hipervías (Receptor) en §Y[From.From.GetName]§!."

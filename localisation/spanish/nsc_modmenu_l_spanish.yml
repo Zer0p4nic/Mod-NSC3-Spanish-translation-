@@ -1,0 +1,1106 @@
+﻿l_spanish:
+
+### 디시인사이드 스텔라리스 갤러리 '어ㅅㅂ' 제작 ###
+
+### ETC ###
+nsc_modmenu_game_content_disabled.fail:0 "\n£trigger_no£ §REste contenido está deshabilitado por el Menú del Mod NSC3.§!"
+
+### Edicts ###
+edict_nsc_modmenu:0 "§YMenú del Mod NSC3§!"
+edict_nsc_modmenu_desc:0 "Podemos controlar varios contenidos del mod New Ship Classes 2 aquí."
+edict_nsc_modmenu_tooltip:0 "§YHaz clic para abrir la interfaz de usuario de configuración del mod.§!"
+
+### Country Modifiers ###
+#Ship Classes
+nsc_modmenu_ship_class_Battlecruiser_build_cost_mod:0 "Menú del Mod NSC3"
+nsc_modmenu_ship_class_Battlecruiser_build_speed_mod:0 "$nsc_modmenu_ship_class_Battlecruiser_build_cost_mod$"
+nsc_modmenu_ship_class_Carrier_build_cost_mod:0 "$nsc_modmenu_ship_class_Battlecruiser_build_cost_mod$"
+nsc_modmenu_ship_class_Carrier_build_speed_mod:0 "$nsc_modmenu_ship_class_Battlecruiser_build_cost_mod$"
+nsc_modmenu_ship_class_Dreadnought_build_cost_mod:0 "$nsc_modmenu_ship_class_Battlecruiser_build_cost_mod$"
+nsc_modmenu_ship_class_Dreadnought_build_speed_mod:0 "$nsc_modmenu_ship_class_Battlecruiser_build_cost_mod$"
+nsc_modmenu_ship_class_Flagship_build_cost_mod:0 "$nsc_modmenu_ship_class_Battlecruiser_build_cost_mod$"
+nsc_modmenu_ship_class_Flagship_build_speed_mod:0 "$nsc_modmenu_ship_class_Battlecruiser_build_cost_mod$"
+nsc_modmenu_ship_class_explorationship_build_cost_mod:0 "$nsc_modmenu_ship_class_Battlecruiser_build_cost_mod$"
+nsc_modmenu_ship_class_explorationship_build_speed_mod:0 "$nsc_modmenu_ship_class_Battlecruiser_build_cost_mod$"
+nsc_modmenu_ship_class_corvette_build_cost_mod:0 "$nsc_modmenu_ship_class_Battlecruiser_build_cost_mod$"
+nsc_modmenu_ship_class_corvette_build_speed_mod:0 "$nsc_modmenu_ship_class_Battlecruiser_build_cost_mod$"
+nsc_modmenu_ship_class_frigate_build_cost_mod:0 "$nsc_modmenu_ship_class_Battlecruiser_build_cost_mod$"
+nsc_modmenu_ship_class_frigate_build_speed_mod:0 "$nsc_modmenu_ship_class_Battlecruiser_build_cost_mod$"
+nsc_modmenu_ship_class_destroyer_build_cost_mod:0 "$nsc_modmenu_ship_class_Battlecruiser_build_cost_mod$"
+nsc_modmenu_ship_class_destroyer_build_speed_mod:0 "$nsc_modmenu_ship_class_Battlecruiser_build_cost_mod$"
+nsc_modmenu_ship_class_cruiser_build_cost_mod:0 "$nsc_modmenu_ship_class_Battlecruiser_build_cost_mod$"
+nsc_modmenu_ship_class_cruiser_build_speed_mod:0 "$nsc_modmenu_ship_class_Battlecruiser_build_cost_mod$"
+nsc_modmenu_ship_class_battleship_build_cost_mod:0 "$nsc_modmenu_ship_class_Battlecruiser_build_cost_mod$"
+nsc_modmenu_ship_class_battleship_build_speed_mod:0 "$nsc_modmenu_ship_class_Battlecruiser_build_cost_mod$"
+nsc_modmenu_ship_class_titan_build_cost_mod:0 "$nsc_modmenu_ship_class_Battlecruiser_build_cost_mod$"
+nsc_modmenu_ship_class_titan_build_speed_mod:0 "$nsc_modmenu_ship_class_Battlecruiser_build_cost_mod$"
+nsc_modmenu_ship_class_colossus_build_cost_mod:0 "$nsc_modmenu_ship_class_Battlecruiser_build_cost_mod$"
+nsc_modmenu_ship_class_colossus_build_speed_mod:0 "$nsc_modmenu_ship_class_Battlecruiser_build_cost_mod$"
+nsc_modmenu_ship_class_juggernaut_build_cost_mod:0 "$nsc_modmenu_ship_class_Battlecruiser_build_cost_mod$"
+nsc_modmenu_ship_class_juggernaut_build_speed_mod:0 "$nsc_modmenu_ship_class_Battlecruiser_build_cost_mod$"
+
+#Starbase Levels
+nsc_modmenu_starbase_class_common_upgrade_cost_mod:0 "$nsc_modmenu_ship_class_Battlecruiser_build_cost_mod$"
+nsc_modmenu_starbase_class_common_upgrade_speed_mod:0 "$nsc_modmenu_ship_class_Battlecruiser_build_cost_mod$"
+nsc_modmenu_starbase_class_outpost_build_cost_mod:0 "$nsc_modmenu_ship_class_Battlecruiser_build_cost_mod$"
+nsc_modmenu_starbase_class_outpost_build_speed_mod:0 "$nsc_modmenu_ship_class_Battlecruiser_build_cost_mod$"
+
+#ETC AI Difficulties
+nsc_modmenu_etc_feature_ai_difficulty_economy_bonus_mod:0 "$nsc_modmenu_ship_class_Battlecruiser_build_cost_mod$"
+nsc_modmenu_etc_feature_ai_difficulty_technology_bonus_mod:0 "$nsc_modmenu_ship_class_Battlecruiser_build_cost_mod$"
+nsc_modmenu_etc_feature_ai_difficulty_military_bonus_mod:0 "$nsc_modmenu_ship_class_Battlecruiser_build_cost_mod$"
+
+### Fleet Modifiers ###
+nsc_modmenu_etc_feature_mothball_fleet_resource_upkeep_mod:0 "Flota Inactiva"
+nsc_modmenu_etc_feature_mothball_fleet_naval_capacity_upkeep_mod:0 "$nsc_modmenu_etc_feature_mothball_fleet_resource_upkeep_mod$"
+
+### Events ###
+nsc_modmenu.1.name:0 ""
+nsc_modmenu.1.desc:0 ""
+nsc_modmenu.1.a:0 ""
+
+nsc_modmenu.2.name:0 "Precaución"
+nsc_modmenu.2.desc:0 "§YNota Especial: Para reabrir este menú durante el juego, abre la pantalla de Gobiernos, ve a Políticas y Edictos, habilita el edicto del Menú del Mod NSC3.§!\n\n§REl Menú del Mod NSC3 te permite configurar el mod a tu gusto, sin embargo, es EXTREMADAMENTE importante que solo hagas estos cambios AL INICIO DE TU JUEGO!\n\nSi activas o desactivas funciones en medio de un juego, hay muchas posibilidades de que rompa completamente tu guardado.\n\nLo único que es relativamente seguro hacer en medio de un juego es aumentar los bonos de la IA, lo que debería ayudarles a crecer más rápido, pero una vez que su economía dependa de esos bonos, disminuirlos puede hacer que la IA deje de desarrollarse o incluso colapse completamente.\n\nUna vez más, NO CAMBIES LA CONFIGURACIÓN DEL MOD EN MEDIO DE UN JUEGO. Probablemente romperá tu guardado. ¡Has sido advertido!§!"
+nsc_modmenu.2.a:0 "$ACKNOWLEDGED$"
+
+### Custom GUI Common ###
+NSC_MODMENU_STOPPED_WORKING_DESC:0 "§RCierra cualquier otra interfaz de usuario para usar esta Customgui.§!"
+
+nsc_modmenu_setting_tab_expand_button_tooltip:0 "§HLista de Páginas de Configuración§!"
+nsc_modmenu_reset_all_settings_button_effect_tooltip:0 "§HRestablecer Todas las Configuraciones§!"
+nsc_steamworkshop_link_button_tooltip:0 "§HTaller de Steam§!"
+nsc_discord_link_button_tooltip:0 "§HServidor de Discord§!"
+
+nsc_modmenu_reset_all_settings_confirm_name:0 "Restablecer Todas las Configuraciones"
+nsc_modmenu_reset_all_settings_confirm_desc:0 "¿Estás seguro de que deseas §YRestablecer Todas las Configuraciones a los Valores Predeterminados§!? Esto no se puede deshacer."
+
+nsc_modmenu_setting_button_category_mod_name:0 "§EMod§!"
+nsc_modmenu_setting_button_mod_preset_name:0 "Preajustes"
+nsc_modmenu_setting_button_mod_introduction_name:0 "Introducción"
+nsc_modmenu_setting_button_mod_faq_name:0 "Preguntas Frecuentes"
+
+nsc_modmenu_setting_button_category_ship_name:0 "§BNave§!"
+nsc_modmenu_setting_button_ship_class_name:0 "Clases"
+nsc_modmenu_setting_button_ship_component_name:0 "Componentes"
+
+nsc_modmenu_setting_button_category_starbase_name:0 "§BEstación Espacial§!"
+nsc_modmenu_setting_button_starbase_class_name:0 "Niveles"
+nsc_modmenu_setting_button_starbase_module_name:0 "Módulos"
+nsc_modmenu_setting_button_starbase_building_name:0 "Edificios"
+
+nsc_modmenu_setting_button_category_etc_name:0 "§BETC§!"
+nsc_modmenu_setting_button_etc_feature_name:0 "Otras Características"
+nsc_modmenu_setting_button_etc_ai_difficulty_name:0 "Dificultades de la IA"
+
+nsc_modmenu_game_content_enable_effect_tooltip:0 "§GHaz clic para habilitar§! este Contenido. Actualmente está §Rdeshabilitado§!."
+nsc_modmenu_game_content_disable_effect_tooltip:0 "§RHaz clic para deshabilitar§! este Contenido. Actualmente está §Habilitado§!."
+nsc_modmenu_game_content_setting_trigger_tooltip.fail:0 "£trigger_no£ §REste Contenido está actualmente deshabilitado. Habilita esto para cambiar esta configuración.§!"
+nsc_modmenu_game_content_vanilla_not_possible_to_disable_trigger_tooltip.fail:0 "£trigger_no£ §RNo se puede deshabilitar el Contenido de Vanilla.§!"
+
+nsc_modmenu_setting_page_reset_effect_tooltip:0 "Haz clic para §Yrestablecer esta Página§!."
+nsc_modmenu_go_home_page_effect_tooltip:0 "Haz clic para §Yvolver a la Página Principal§!."
+
+nsc_modmenu_go_page_mod_preset_effect_tooltip:0 "Haz clic para ir a la página §Y$nsc_modmenu_setting_page_mod_category_preset_name$§!."
+nsc_modmenu_go_page_mod_introduction_effect_tooltip:0 "Haz clic para ir a la página §Y$nsc_modmenu_setting_page_mod_category_introduction_name$§!."
+nsc_modmenu_go_page_mod_faq_effect_tooltip:0 "Haz clic para ir a la página §Y$nsc_modmenu_setting_page_mod_category_faq_name$§!."
+nsc_modmenu_go_page_ship_class_effect_tooltip:0 "Haz clic para ir a la página §Y$nsc_modmenu_setting_page_ship_category_class_name$§!."
+nsc_modmenu_go_page_ship_component_effect_tooltip:0 "Haz clic para ir a la página §Y$nsc_modmenu_setting_page_ship_category_component_name$§!."
+nsc_modmenu_go_page_starbase_class_effect_tooltip:0 "Haz clic para ir a la página §Y$nsc_modmenu_setting_page_starbase_category_class_name$§!."
+nsc_modmenu_go_page_starbase_module_effect_tooltip:0 "Haz clic para ir a la página §Y$nsc_modmenu_setting_page_starbase_category_module_name$§!."
+nsc_modmenu_go_page_starbase_building_effect_tooltip:0 "Haz clic para ir a la página §Y$nsc_modmenu_setting_page_starbase_category_building_name$§!."
+nsc_modmenu_go_page_etc_feature_effect_tooltip:0 "Haz clic para ir a la página §Y$nsc_modmenu_setting_page_etc_category_feature_name$§!."
+nsc_modmenu_go_page_etc_ai_difficulty_effect_tooltip:0 "Haz clic para ir a la página §Y$nsc_modmenu_setting_page_etc_category_ai_difficulty_name$§!."
+
+nsc_modmenu_mp_host_trigger.fail:0 "£trigger_no£ §RSolo el Jugador Anfitrión puede cambiar la Configuración en el Menú del Mod.§!\n§YPuedes preguntar, "¿Por qué puedo ver esta interfaz si no puedo modificar sus ajustes?". La razón es permitirle comprobar los ajustes realizados por el Anfitrión.§!"
+
+### Custom GUI Category: Mod Presets ###
+#Common
+nsc_modmenu_setting_page_mod_category_preset_name:0 "$nsc_modmenu_setting_button_category_mod_name$ $nsc_modmenu_setting_button_mod_preset_name$"
+nsc_modmenu_setting_page_mod_category_preset_apply:0 "§YAplicar Preajuste§!"
+nsc_modmenu_setting_page_mod_category_preset_apply.fail:0 "£trigger_no£ §REste Preajuste ya está aplicado.§!"
+
+#preset_disable_all
+nsc_modmenu_setting_page_mod_category_preset_disable_all:0 "¿Por qué me suscribí a este mod?"
+nsc_modmenu_setting_page_mod_category_preset_disable_all_desc:0 "Incapaz de recordar la razón, decidiste simplemente apagar todos sus contenidos y características, por la renuencia a reiniciar el juego..."
+nsc_modmenu_setting_page_mod_category_preset_disable_all_name_desc:0 "§H$nsc_modmenu_setting_page_mod_category_preset_disable_all$§!\n$nsc_modmenu_setting_page_mod_category_preset_disable_all_desc$"
+nsc_modmenu_setting_page_mod_category_preset_disable_all_effect_tooltip:0 "§YDesactiva todos los Contenidos y Características de NSC3.§!"
+
+#preset_ship_classes_only
+nsc_modmenu_setting_page_mod_category_preset_ship_classes_only:0 "Buenos Viejos Tiempos"
+nsc_modmenu_setting_page_mod_category_preset_ship_classes_only_desc:0 "¿Extrañas los días cuando las cosas eran más simples? ¿Extrañas los días cuando este mod ofrecía solo nuevas clases de naves pero nada más? ¡Entonces este preajuste es solo para ti!"
+nsc_modmenu_setting_page_mod_category_preset_ship_classes_only_name_desc:0 "§H$nsc_modmenu_setting_page_mod_category_preset_ship_classes_only$§!\n$nsc_modmenu_setting_page_mod_category_preset_ship_classes_only_desc$"
+nsc_modmenu_setting_page_mod_category_preset_ship_classes_only_effect_tooltip:0 "§YHabilita solo las Clases de Naves de NSC3.§!"
+
+### Custom GUI Category: Mod Introduction ###
+nsc_modmenu_setting_page_mod_category_introduction_name:0 "$nsc_modmenu_setting_button_category_mod_name$ $nsc_modmenu_setting_button_mod_introduction_name$"
+nsc_modmenu_setting_page_mod_category_introduction_desc:0 "§EBienvenido al Menú Oficial del Mod NSC3!\n\nEste menú te permitirá personalizar el mod como elijas. Recomendamos encarecidamente que solo cambies estas configuraciones al iniciar un nuevo juego, actualmente se desconoce cómo afectará cambiar estas configuraciones a un juego guardado.\n\nTambién tenemos una sección de preguntas frecuentes en este menú que responderá a las preguntas comunes sobre el mod y una sección con instrucciones para ayudar a explicar cómo usar ciertas características del mod.\n\nSi tienes alguna pregunta que no se responde aquí, no dudes en unirte al servidor de Discord de NSC3 vinculado en la página de Steam del mod.§!"
+
+### Custom GUI Category: Mod FAQ ###
+nsc_modmenu_setting_page_mod_category_faq_name:0 "$nsc_modmenu_setting_button_category_mod_name$ $nsc_modmenu_setting_button_mod_faq_name$"
+nsc_modmenu_setting_page_mod_category_faq_desc:0 "§EBienvenido a la página de Preguntas Frecuentes de NSC3.\n\nAquí encontrarás las preguntas más comunes que nos hace la comunidad. Simplemente haz clic en los botones a ambos lados de este cuadro de texto.\n\nSe agregarán más preguntas en el futuro a medida que las veamos surgir. Si todavía tienes preguntas que no están en esta página, ¡no dudes en unirte al Discord de NSC3 y preguntar a nuestra comunidad!§!"
+
+nsc_modmenu_setting_page_mod_category_faq_question_list_1_name:0 "Lista de Preguntas Frecuentes"
+nsc_modmenu_setting_page_mod_category_faq_question_list_1_context_1_name:0 "NSC3 No Funciona"
+nsc_modmenu_setting_page_mod_category_faq_question_list_1_context_1_tooltip:0 "§EPregunta: ¿Qué hago si NSC3 no funciona correctamente?§!"
+nsc_modmenu_setting_page_mod_category_faq_question_list_1_context_1_desc:0 "§E$nsc_modmenu_setting_page_mod_category_faq_question_list_1_context_1_tooltip$\n\nEl primer paso para solucionar problemas de mods es verificar el orden de carga de tus mods en el Lanzador de Paradox. Tener mods en el orden incorrecto causará problemas.\n\nEl lanzador de Paradox funciona en LIOS - "Último en entrar, solo servido". Esto significa que cuando dos mods modifican la misma cosa, el mod que está más abajo en la lista sobrescribirá cualquier cosa que esté más arriba en la lista. Esto es súper importante porque muchos mods diferentes modifican las mismas cosas.\n\nUn mal orden de carga es lo que puede causar "bugs" comunes como estos:\n\n- Varios números, modificadores o estadísticas no son lo que deberían ser.\n- No poder investigar las nuevas clases de naves.\n- Tener el reactor de agujero negro disponible al inicio del juego.\n- No poder guardar diseños de naves debido al error SAVEFAIL (lugar de componente vacío).\n- No tener el número correcto de ranuras de construcción y módulos de base estelar.\n\nEl lanzador PDX carga los mods de ARRIBA A ABAJO, con los mods en la parte inferior de la lista sobrescribiendo todo lo que está por encima de ellos.\n\nPara solucionar los bugs de orden de carga: Abre tu lanzador, abre tu conjunto de mods actual y haz clic en la configuración de "Orden de carga" cerca de la parte superior derecha, y haz clic en la configuración de "Z a A". NSC3 generalmente necesita estar en o muy cerca del FONDO de tu orden de carga. Recuerda que cualquier mod debajo de NSC3 sobrescribirá los archivos de NSC3, lo que puede romper el mod de formas extrañas.\n\n¡También asegúrate de que no estás ejecutando mods desactualizados! Debes desactivar cualquier mod con el triángulo amarillo en el lanzador hasta que se actualice a la última versión de Stellaris y el triángulo desaparezca. No podemos ayudar a solucionar problemas si te niegas a apagar los mods desactualizados.\n\nUna vez que hayas establecido el orden de Z a A, asegúrate de reordenar manualmente tus parches y complementos para que estén debajo de los mods que parchean.§!"
+nsc_modmenu_setting_page_mod_category_faq_question_list_1_context_2_name:0 "Restablecer NSC3"
+nsc_modmenu_setting_page_mod_category_faq_question_list_1_context_2_tooltip:0 "§EPregunta: ¿Cómo puedo restablecer completamente los archivos del mod si no funciona correctamente?§!"
+nsc_modmenu_setting_page_mod_category_faq_question_list_1_context_2_desc:0 "§E$nsc_modmenu_setting_page_mod_category_faq_question_list_1_context_2_tooltip$\n\nSi tu copia de NSC3 (o cualquier otro mod) no funciona correctamente, intenta TODOS estos pasos en orden:\n\n1. VERIFICAR EL ORDEN DE CARGA DEL MOD\nLa mejor manera de asegurarte de que tus mods funcionen correctamente es ordenarlos en orden alfabético inverso, elige la opción de ordenación Z..A en el lanzador. Si necesitas ayuda detallada con la ordenación de mods, usa el comando del bot !loadorder. en cualquier canal.\n\n2. VERIFICAR LOS ARCHIVOS DEL JUEGO\nAbre Steam, ve a tu biblioteca de juegos y haz clic derecho en Stellaris. Haz clic en Propiedades y luego ve a la página de Archivos Locales, y elige la opción Verificar la integridad de los archivos del juego.\n\n3. REINICIAR NSC3 (O CUALQUIER OTRO MOD)\nBorra esta carpeta entera de tu PC: Steam/SteamApps/workshop/content/281990/683230077 y luego desuscríbete y vuelve a suscribirte al mod. Verifica que Steam está descargando el mod, y luego intenta ejecutarlo de nuevo.\n\n(Si tu problema no es con NSC3, sino con otro mod, puedes reemplazar el 683230077 con el número de ID del mod que quieres restablecer. Puedes encontrar el número de ID del mod abriendo su página en el taller de Steam, es el último conjunto de números que se muestra en la URL.)\n\n4. LIMPIAR LA CARPETA DE MODS DE STELLARIS\nBorra esta carpeta entera de tu PC: Steam/SteamApps/workshop/content/281990 y luego desuscríbete y vuelve a suscribirte a todos tus mods. Verifica que Steam está descargando los mods, y luego intenta ejecutar de nuevo.\n\n5. REINICIAR EL LANZADOR DE MODS DE PARADOX\nVe a Documentos/Paradox Interactive/Stellaris, borra launcher_v2.sqlite, entra en la carpeta de mods, borra todos los archivos .mod de ugc, luego verifica los archivos del juego en Steam y reconstruye tu orden de carga de mods.\n\n6. REINICIAR LA CARPETA DE STELLARIS\nSi los pasos anteriores no funcionan, haz una copia de seguridad de tus razas personalizadas y mods personales y borra toda la carpeta Documentos/Paradox Interactive/Stellaris y luego verifica los archivos del juego y reconstruye tu orden de carga de mods de nuevo.§!"
+#'\' here is changed to '/' because of the "[13:59:34][localization_reader.cpp:255]: Illegal break character (utf32=83)" errors
+nsc_modmenu_setting_page_mod_category_faq_question_list_1_context_3_name:0 "Creando/Quitando Hipervías"
+nsc_modmenu_setting_page_mod_category_faq_question_list_1_context_3_tooltip:0 "§EPregunta: ¿Cómo creo o quito Hipervías?§!"
+nsc_modmenu_setting_page_mod_category_faq_question_list_1_context_3_desc:0 "§E$nsc_modmenu_setting_page_mod_category_faq_question_list_1_context_3_tooltip$\n\nPara crear una nueva Hipervía, sigue estos pasos:\n\nPaso 1: Construye la megaestructura Generador de Hipervías (Transmisor) en el sistema donde quieres que comience la nueva Hipervía.\n\nPaso 2: Construye la megaestructura Generador de Hipervías (Receptor) en el sistema donde quieres que termine la nueva Hipervía.\n\nPaso 3: Mejora el Generador de Hipervías (Transmisor) en el sistema de inicio para completarlo.\n\nPaso 4: Mejora el Generador de Hipervías (Receptor) en el sistema final para completarlo.\n\nPaso 5: Finalmente, mejora nuevamente el Generador de Hipervías (Transmisor) para activar el transmisor y crear la nueva Hipervía.\n\nPara quitar una Hipervía, sigue estos pasos:\n\nPaso 1: Paso 1: Construye la megaestructura Removedor de Hipervías (Transmisor) en el sistema donde comienza la Hipervía que quieres quitar.\n\nPaso 2: Construye la megaestructura Removedor de Hipervías (Receptor) en el sistema donde termina la Hipervía que quieres quitar.\n\nPaso 3: Mejora el Removedor de Hipervías (Transmisor) en el sistema de inicio para completarlo.\n\nPaso 4: Mejora el Removedor de Hipervías (Receptor) en el sistema final para completarlo.\n\nPaso 5: Finalmente, mejora nuevamente el Removedor de Hipervías (Transmisor) para activar el removedor y destruir la Hipervía.§!"
+nsc_modmenu_setting_page_mod_category_faq_question_list_1_context_4_name:0 "Tecnologas para Caractersticas Desactivadas"
+nsc_modmenu_setting_page_mod_category_faq_question_list_1_context_4_tooltip:0 "§EPregunta: ¿Por qué todava veo la tecnologa para una caracterstica que he desactivado en el men de mods?§!"
+nsc_modmenu_setting_page_mod_category_faq_question_list_1_context_4_desc:0 "§E$nsc_modmenu_setting_page_mod_category_faq_question_list_1_context_4_tooltip$\n\nAlgunas de las tecnologas de NSC3 (como las megaestructuras) pueden ser desactivadas junto con su caracterstica sin problema. El Men de Mods de NSC3 lo har automáticamente cuando pueda.\n\nSin embargo, hay algunas tecnologas en NSC3 que requieren que se investiguen otras tecnologas para llegar a ellas, y por lo tanto no pueden ser desactivadas. Un ejemplo de esto son las tecnologas de clase de nave. Puedes desactivar una nave como el Crucero de Batalla, pero su tecnologa debe permanecer en el juego porque si se desactivara, nunca podras investigar los Acorazados o cualquiera de las clases de naves que deberan aparecer despus del Crucero de Batalla.\n\nAs que si desactivas una caracterstica a través del men de mods, su tecnologa puede seguir apareciendo para investigacin si esa tecnologa es requerida por algo más, y necesitars investigarla como de costumbre para obtener acceso a las tecnologas que vienen después de ella. La caracterstica seguirá estando desactivada y no aparecerá en el juego, pero aún necesitars investigar su tecnologa para evitar romper otras cosas.§!"
+nsc_modmenu_setting_page_mod_category_faq_question_list_1_context_5_name:0 "Nombre REPLACE_ME 5"
+nsc_modmenu_setting_page_mod_category_faq_question_list_1_context_5_tooltip:0 "§EPregunta: REPLACE_ME 5§!"
+nsc_modmenu_setting_page_mod_category_faq_question_list_1_context_5_desc:0 "§E Desc REPLACE_ME 5 §!"
+nsc_modmenu_setting_page_mod_category_faq_question_list_1_context_6_name:0 "Nombre REPLACE_ME 6"
+nsc_modmenu_setting_page_mod_category_faq_question_list_1_context_6_tooltip:0 "§EPregunta: REPLACE_ME 6§!"
+nsc_modmenu_setting_page_mod_category_faq_question_list_1_context_6_desc:0 "§E Desc REPLACE_ME 6 §!"
+nsc_modmenu_setting_page_mod_category_faq_question_list_1_context_7_name:0 "Nombre REPLACE_ME 7"
+nsc_modmenu_setting_page_mod_category_faq_question_list_1_context_7_tooltip:0 "§EPregunta: REPLACE_ME 7§!"
+nsc_modmenu_setting_page_mod_category_faq_question_list_1_context_7_desc:0 "§E Desc REPLACE_ME 7 §!"
+nsc_modmenu_setting_page_mod_category_faq_question_list_1_context_8_name:0 "Nombre REPLACE_ME 8"
+nsc_modmenu_setting_page_mod_category_faq_question_list_1_context_8_tooltip:0 "§EPregunta: REPLACE_ME 8§!"
+nsc_modmenu_setting_page_mod_category_faq_question_list_1_context_8_desc:0 "§E Desc REPLACE_ME 8 §!"
+nsc_modmenu_setting_page_mod_category_faq_question_list_1_context_9_name:0 "Nombre REPLACE_ME 9"
+nsc_modmenu_setting_page_mod_category_faq_question_list_1_context_9_tooltip:0 "§EPregunta: REPLACE_ME 9§!"
+nsc_modmenu_setting_page_mod_category_faq_question_list_1_context_9_desc:0 "§E Desc REPLACE_ME 9 §!"
+nsc_modmenu_setting_page_mod_category_faq_question_list_1_context_10_name:0 "Nombre REPLACE_ME 10"
+nsc_modmenu_setting_page_mod_category_faq_question_list_1_context_10_tooltip:0 "§EPregunta: REPLACE_ME 10§!"
+nsc_modmenu_setting_page_mod_category_faq_question_list_1_context_10_desc:0 "§E Desc REPLACE_ME 10 §!"
+
+nsc_modmenu_setting_page_mod_category_faq_question_list_2_name:0 "$nsc_modmenu_setting_page_mod_category_faq_question_list_1_name$"
+nsc_modmenu_setting_page_mod_category_faq_question_list_2_context_1_name:0 "Mejoras de Naves"
+nsc_modmenu_setting_page_mod_category_faq_question_list_2_context_1_tooltip:0 "§EPregunta: ¿Cómo accedo a las mejoras de clase de nave como el Portanaves Pesado y el Acorazado Spitfire?§!"
+nsc_modmenu_setting_page_mod_category_faq_question_list_2_context_1_desc:0 "§E$nsc_modmenu_setting_page_mod_category_faq_question_list_2_context_1_tooltip$\n\nLas tecnologas de mejora de naves dan acceso a nuevas secciones de naves, no a clases totalmente nuevas. Una vez que investigues una mejora de nave, mira en el diseñador de naves para ver las nuevas opciones de sección disponibles para la nave.§!"
+nsc_modmenu_setting_page_mod_category_faq_question_list_2_context_2_name:0 "Tácticas de Combate Avanzadas"
+nsc_modmenu_setting_page_mod_category_faq_question_list_2_context_2_tooltip:0 "§EPregunta: ¿Cómo funcionan las Tácticas de Combate Avanzadas?§!"
+nsc_modmenu_setting_page_mod_category_faq_question_list_2_context_2_desc:0 "§E$nsc_modmenu_setting_page_mod_category_faq_question_list_2_context_2_tooltip$\n\nLas Tácticas de Combate Avanzadas son una segunda computadora de combate en NSC3 para la mayoría de las clases de naves. Estas tácticas determinan cómo se comporta la nave en combate y tienen varias opciones.\n\nSi quieres usar las tácticas avanzadas, selecciona una computadora de combate normal en la ranura superior y luego elige una táctica avanzada para ella en la segunda ranura. (elige la computadora de "Comportamiento predeterminado" para revertir esto)\n\nPasa el cursor sobre cada táctica avanzada para ver una descripción detallada de lo que hace el comportamiento.§!"
+nsc_modmenu_setting_page_mod_category_faq_question_list_2_context_3_name:0 "Inactivando Flotas"
+nsc_modmenu_setting_page_mod_category_faq_question_list_2_context_3_tooltip:0 "§EPregunta: ¿Cómo inactivo una flota?§!"
+nsc_modmenu_setting_page_mod_category_faq_question_list_2_context_3_desc:0 "§E$nsc_modmenu_setting_page_mod_category_faq_question_list_2_context_3_tooltip$\n\nPara inactivar una flota, muévela en órbita sobre uno de tus planetas colonizados. Asegúrate de que sea un planeta que no planeas tener otras flotas orbitando, porque una vez que actives el sistema de inactivación, todas las flotas que entren en órbita se inactivarán automáticamente.\n\nUna vez que la flota esté en órbita, abre la ventana de decisiones planetarias y elige la opción de Inactivar.§!"
+nsc_modmenu_setting_page_mod_category_faq_question_list_2_context_4_name:0 "Nombre REPLACE_ME 4"
+nsc_modmenu_setting_page_mod_category_faq_question_list_2_context_4_tooltip:0 "§EPregunta: REPLACE_ME 4§!"
+nsc_modmenu_setting_page_mod_category_faq_question_list_2_context_4_desc:0 "§E Desc REPLACE_ME 4 §!"
+nsc_modmenu_setting_page_mod_category_faq_question_list_2_context_5_name:0 "Nombre REPLACE_ME 5"
+nsc_modmenu_setting_page_mod_category_faq_question_list_2_context_5_tooltip:0 "§EPregunta: REPLACE_ME 5§!"
+nsc_modmenu_setting_page_mod_category_faq_question_list_2_context_5_desc:0 "§E Desc REPLACE_ME 5 §!"
+nsc_modmenu_setting_page_mod_category_faq_question_list_2_context_6_name:0 "Nombre REPLACE_ME 6"
+nsc_modmenu_setting_page_mod_category_faq_question_list_2_context_6_tooltip:0 "§EPregunta: REPLACE_ME 6§!"
+nsc_modmenu_setting_page_mod_category_faq_question_list_2_context_6_desc:0 "§E Desc REPLACE_ME 6 §!"
+nsc_modmenu_setting_page_mod_category_faq_question_list_2_context_7_name:0 "Nombre REPLACE_ME 7"
+nsc_modmenu_setting_page_mod_category_faq_question_list_2_context_7_tooltip:0 "§EPregunta: REPLACE_ME 7§!"
+nsc_modmenu_setting_page_mod_category_faq_question_list_2_context_7_desc:0 "§E Desc REPLACE_ME 7 §!"
+nsc_modmenu_setting_page_mod_category_faq_question_list_2_context_8_name:0 "Nombre REPLACE_ME 8"
+nsc_modmenu_setting_page_mod_category_faq_question_list_2_context_8_tooltip:0 "§EPregunta: REPLACE_ME 8§!"
+nsc_modmenu_setting_page_mod_category_faq_question_list_2_context_8_desc:0 "§E Desc REPLACE_ME 8 §!"
+nsc_modmenu_setting_page_mod_category_faq_question_list_2_context_9_name:0 "Nombre REPLACE_ME 9"
+nsc_modmenu_setting_page_mod_category_faq_question_list_2_context_9_tooltip:0 "§EPregunta: REPLACE_ME 9§!"
+nsc_modmenu_setting_page_mod_category_faq_question_list_2_context_9_desc:0 "§E Desc REPLACE_ME 9 §!"
+nsc_modmenu_setting_page_mod_category_faq_question_list_2_context_10_name:0 "Nombre REPLACE_ME 10"
+nsc_modmenu_setting_page_mod_category_faq_question_list_2_context_10_tooltip:0 "§EPregunta: REPLACE_ME 10§!"
+nsc_modmenu_setting_page_mod_category_faq_question_list_2_context_10_desc:0 "§E Desc REPLACE_ME 10 §!"
+
+### Custom GUI Category: Ship Classes ###
+#Common
+nsc_modmenu_setting_page_ship_category_class_name:0 "$nsc_modmenu_setting_button_category_ship_name$ $nsc_modmenu_setting_button_ship_class_name$"
+
+nsc_modmenu_ship_class_build_cost_down_effect_tooltip:0 "Haz clic para cambiar el Costo de Construcción de esta Clase de Nave por §G-5%§!.\n§YCon la actualización v3.7, la reducción de costos de Vanilla está limitada al -90%.§!"
+nsc_modmenu_ship_class_build_cost_up_effect_tooltip:0 "Haz clic para cambiar el Costo de Construcción de esta Clase de Nave por §R+5%§!."
+nsc_modmenu_ship_class_build_speed_down_effect_tooltip:0 "Haz clic para cambiar la Velocidad de Construcción de esta Clase de Nave por §R-5%§!."
+nsc_modmenu_ship_class_build_speed_up_effect_tooltip:0 "Haz clic para cambiar la Velocidad de Construcción de esta Clase de Nave por §G+5%§!."
+
+nsc_modmenu_ship_class_build_cost_down_trigger_tooltip.fail:0 "$nsc_modmenu_ship_class_build_cost_down_effect_tooltip$\n£trigger_no£ §RLímite Mínimo Alcanzado§!"
+nsc_modmenu_ship_class_build_cost_up_trigger_tooltip.fail:0 "$nsc_modmenu_ship_class_build_cost_up_effect_tooltip$\n£trigger_no£ §RLímite Máximo Alcanzado§!"
+nsc_modmenu_ship_class_build_speed_down_trigger_tooltip.fail:0 "$nsc_modmenu_ship_class_build_speed_down_effect_tooltip$\n£trigger_no£ §RLímite Mínimo Alcanzado§!"
+nsc_modmenu_ship_class_build_speed_up_trigger_tooltip.fail:0 "$nsc_modmenu_ship_class_build_speed_up_effect_tooltip$\n£trigger_no£ §RLímite Máximo Alcanzado§!"
+
+#Battlecruiser
+nsc_modmenu_setting_page_ship_category_class_Battlecruiser_name_desc:0 "§H$BATTLECRUISER$§!\n$SHIP_GRAPHICS_BATTLECRUISER_DESC$"
+nsc_modmenu_setting_page_ship_category_class_Battlecruiser_enabled_desc:0 "$BATTLECRUISER$: §GHabilitado§!"
+nsc_modmenu_setting_page_ship_category_class_Battlecruiser_disabled_desc:0 "$BATTLECRUISER$: §RDesactivado§!"
+nsc_modmenu_setting_page_ship_category_class_Battlecruiser_build_cost_desc_neutral:0 "Costo de Construcción: §Y[This.nsc_modmenu_ship_class_Battlecruiser_build_cost_var]%§!"
+nsc_modmenu_setting_page_ship_category_class_Battlecruiser_build_cost_desc_minus:0 "Costo de Construcción: §G[This.nsc_modmenu_ship_class_Battlecruiser_build_cost_var]%§!"
+nsc_modmenu_setting_page_ship_category_class_Battlecruiser_build_cost_desc_plus:0 "Costo de Construcción: §R+[This.nsc_modmenu_ship_class_Battlecruiser_build_cost_var]%§!"
+nsc_modmenu_setting_page_ship_category_class_Battlecruiser_build_speed_desc_neutral:0 "Velocidad de Construcción: §Y[This.nsc_modmenu_ship_class_Battlecruiser_build_speed_var]%§!"
+nsc_modmenu_setting_page_ship_category_class_Battlecruiser_build_speed_desc_minus:0 "Velocidad de Construcción: §R[This.nsc_modmenu_ship_class_Battlecruiser_build_speed_var]%§!"
+nsc_modmenu_setting_page_ship_category_class_Battlecruiser_build_speed_desc_plus:0 "Velocidad de Construcción: §G+[This.nsc_modmenu_ship_class_Battlecruiser_build_speed_var]%§!"
+
+#Carrier
+nsc_modmenu_setting_page_ship_category_class_Carrier_name_desc:0 "§H$CARRIER$§!\n$SHIP_GRAPHICS_CARRIER_DESC$"
+nsc_modmenu_setting_page_ship_category_class_Carrier_enabled_desc:0 "$CARRIER$: §GHabilitado§!"
+nsc_modmenu_setting_page_ship_category_class_Carrier_disabled_desc:0 "$CARRIER$: §RDesactivado§!"
+nsc_modmenu_setting_page_ship_category_class_Carrier_build_cost_desc_neutral:0 "Costo de Construcción: §Y[This.nsc_modmenu_ship_class_Carrier_build_cost_var]%§!"
+nsc_modmenu_setting_page_ship_category_class_Carrier_build_cost_desc_minus:0 "Costo de Construcción: §G[This.nsc_modmenu_ship_class_Carrier_build_cost_var]%§!"
+nsc_modmenu_setting_page_ship_category_class_Carrier_build_cost_desc_plus:0 "Costo de Construcción: §R+[This.nsc_modmenu_ship_class_Carrier_build_cost_var]%§!"
+nsc_modmenu_setting_page_ship_category_class_Carrier_build_speed_desc_neutral:0 "Velocidad de Construcción: §Y[This.nsc_modmenu_ship_class_Carrier_build_speed_var]%§!"
+nsc_modmenu_setting_page_ship_category_class_Carrier_build_speed_desc_minus:0 "Velocidad de Construcción: §R[This.nsc_modmenu_ship_class_Carrier_build_speed_var]%§!"
+nsc_modmenu_setting_page_ship_category_class_Carrier_build_speed_desc_plus:0 "Velocidad de Construcción: §G+[This.nsc_modmenu_ship_class_Carrier_build_speed_var]%§!"
+
+#Dreadnought
+nsc_modmenu_setting_page_ship_category_class_Dreadnought_name_desc:0 "§H$DREADNOUGHT$§!\n$SHIP_GRAPHICS_DREADNOUGHT_DESC$"
+nsc_modmenu_setting_page_ship_category_class_Dreadnought_enabled_desc:0 "$DREADNOUGHT$: §GHabilitado§!"
+nsc_modmenu_setting_page_ship_category_class_Dreadnought_disabled_desc:0 "$DREADNOUGHT$: §RDesactivado§!"
+nsc_modmenu_setting_page_ship_category_class_Dreadnought_build_cost_desc_neutral:0 "Costo de Construcción: §Y[This.nsc_modmenu_ship_class_Dreadnought_build_cost_var]%§!"
+nsc_modmenu_setting_page_ship_category_class_Dreadnought_build_cost_desc_minus:0 "Costo de Construcción: §G[This.nsc_modmenu_ship_class_Dreadnought_build_cost_var]%§!"
+nsc_modmenu_setting_page_ship_category_class_Dreadnought_build_cost_desc_plus:0 "Costo de Construcción: §R+[This.nsc_modmenu_ship_class_Dreadnought_build_cost_var]%§!"
+nsc_modmenu_setting_page_ship_category_class_Dreadnought_build_speed_desc_neutral:0 "Velocidad de Construcción: §Y[This.nsc_modmenu_ship_class_Dreadnought_build_speed_var]%§!"
+nsc_modmenu_setting_page_ship_category_class_Dreadnought_build_speed_desc_minus:0 "Velocidad de Construcción: §R[This.nsc_modmenu_ship_class_Dreadnought_build_speed_var]%§!"
+nsc_modmenu_setting_page_ship_category_class_Dreadnought_build_speed_desc_plus:0 "Velocidad de Construcción: §G+[This.nsc_modmenu_ship_class_Dreadnought_build_speed_var]%§!"
+
+#Flagship
+nsc_modmenu_setting_page_ship_category_class_Flagship_name_desc:0 "§H$FLAGSHIP$§!\n$SHIP_GRAPHICS_FLAGSHIP_DESC$"
+nsc_modmenu_setting_page_ship_category_class_Flagship_enabled_desc:0 "$FLAGSHIP$: §GHabilitado§!"
+nsc_modmenu_setting_page_ship_category_class_Flagship_disabled_desc:0 "$FLAGSHIP$: §RDesactivado§!"
+nsc_modmenu_setting_page_ship_category_class_Flagship_build_cost_desc_neutral:0 "Costo de Construcción: §Y[This.nsc_modmenu_ship_class_Flagship_build_cost_var]%§!"
+nsc_modmenu_setting_page_ship_category_class_Flagship_build_cost_desc_minus:0 "Costo de Construcción: §G[This.nsc_modmenu_ship_class_Flagship_build_cost_var]%§!"
+nsc_modmenu_setting_page_ship_category_class_Flagship_build_cost_desc_plus:0 "Costo de Construcción: §R+[This.nsc_modmenu_ship_class_Flagship_build_cost_var]%§!"
+nsc_modmenu_setting_page_ship_category_class_Flagship_build_speed_desc_neutral:0 "Velocidad de Construcción: §Y[This.nsc_modmenu_ship_class_Flagship_build_speed_var]%§!"
+nsc_modmenu_setting_page_ship_category_class_Flagship_build_speed_desc_minus:0 "Velocidad de Construcción: §R[This.nsc_modmenu_ship_class_Flagship_build_speed_var]%§!"
+nsc_modmenu_setting_page_ship_category_class_Flagship_build_speed_desc_plus:0 "Velocidad de Construcción: §G+[This.nsc_modmenu_ship_class_Flagship_build_speed_var]%§!"
+
+#explorationship
+nsc_modmenu_setting_page_ship_category_class_explorationship_name_desc:0 "§H$EXPLORATIONSHIP$§!\n$SHIP_GRAPHICS_EXPLORATIONSHIP_DESC$"
+nsc_modmenu_setting_page_ship_category_class_explorationship_enabled_desc:0 "$EXPLORATIONSHIP$: §GHabilitado§!"
+nsc_modmenu_setting_page_ship_category_class_explorationship_disabled_desc:0 "$EXPLORATIONSHIP$: §RDesactivado§!"
+nsc_modmenu_setting_page_ship_category_class_explorationship_build_cost_desc_neutral:0 "Costo de Construcción: §Y[This.nsc_modmenu_ship_class_explorationship_build_cost_var]%§!"
+nsc_modmenu_setting_page_ship_category_class_explorationship_build_cost_desc_minus:0 "Costo de Construcción: §G[This.nsc_modmenu_ship_class_explorationship_build_cost_var]%§!"
+nsc_modmenu_setting_page_ship_category_class_explorationship_build_cost_desc_plus:0 "Costo de Construcción: §R+[This.nsc_modmenu_ship_class_explorationship_build_cost_var]%§!"
+nsc_modmenu_setting_page_ship_category_class_explorationship_build_speed_desc_neutral:0 "Velocidad de Construcción: §Y[This.nsc_modmenu_ship_class_explorationship_build_speed_var]%§!"
+nsc_modmenu_setting_page_ship_category_class_explorationship_build_speed_desc_minus:0 "Velocidad de Construcción: §R[This.nsc_modmenu_ship_class_explorationship_build_speed_var]%§!"
+nsc_modmenu_setting_page_ship_category_class_explorationship_build_speed_desc_plus:0 "Velocidad de Construcción: §G+[This.nsc_modmenu_ship_class_explorationship_build_speed_var]%§!"
+
+#corvette
+nsc_modmenu_setting_page_ship_category_class_corvette_name_desc:0 "§H$corvette$§!\n$SHIP_GRAPHICS_CORVETTE_DESC$"
+nsc_modmenu_setting_page_ship_category_class_corvette_enabled_desc:0 "$corvette$: §GHabilitado§!"
+nsc_modmenu_setting_page_ship_category_class_corvette_disabled_desc:0 "$corvette$: §RDesactivado§!"
+nsc_modmenu_setting_page_ship_category_class_corvette_build_cost_desc_neutral:0 "Costo de Construcción: §Y[This.nsc_modmenu_ship_class_corvette_build_cost_var]%§!"
+nsc_modmenu_setting_page_ship_category_class_corvette_build_cost_desc_minus:0 "Costo de Construcción: §G[This.nsc_modmenu_ship_class_corvette_build_cost_var]%§!"
+nsc_modmenu_setting_page_ship_category_class_corvette_build_cost_desc_plus:0 "Costo de Construcción: §R+[This.nsc_modmenu_ship_class_corvette_build_cost_var]%§!"
+nsc_modmenu_setting_page_ship_category_class_corvette_build_speed_desc_neutral:0 "Velocidad de Construcción: §Y[This.nsc_modmenu_ship_class_corvette_build_speed_var]%§!"
+nsc_modmenu_setting_page_ship_category_class_corvette_build_speed_desc_minus:0 "Velocidad de Construcción: §R[This.nsc_modmenu_ship_class_corvette_build_speed_var]%§!"
+nsc_modmenu_setting_page_ship_category_class_corvette_build_speed_desc_plus:0 "Velocidad de Construcción: §G+[This.nsc_modmenu_ship_class_corvette_build_speed_var]%§!"
+
+#frigate
+nsc_modmenu_setting_page_ship_category_class_frigate_name_desc:0 "§H$frigate$§!\n$SHIP_GRAPHICS_FRIGATE_DESC$"
+nsc_modmenu_setting_page_ship_category_class_frigate_enabled_desc:0 "$frigate$: §GHabilitado§!"
+nsc_modmenu_setting_page_ship_category_class_frigate_disabled_desc:0 "$frigate$: §RDesactivado§!"
+nsc_modmenu_setting_page_ship_category_class_frigate_build_cost_desc_neutral:0 "Costo de Construcción: §Y[This.nsc_modmenu_ship_class_frigate_build_cost_var]%§!"
+nsc_modmenu_setting_page_ship_category_class_frigate_build_cost_desc_minus:0 "Costo de Construcción: §G[This.nsc_modmenu_ship_class_frigate_build_cost_var]%§!"
+nsc_modmenu_setting_page_ship_category_class_frigate_build_cost_desc_plus:0 "Costo de Construcción: §R+[This.nsc_modmenu_ship_class_frigate_build_cost_var]%§!"
+nsc_modmenu_setting_page_ship_category_class_frigate_build_speed_desc_neutral:0 "Velocidad de Construcción: §Y[This.nsc_modmenu_ship_class_frigate_build_speed_var]%§!"
+nsc_modmenu_setting_page_ship_category_class_frigate_build_speed_desc_minus:0 "Velocidad de Construcción: §R[This.nsc_modmenu_ship_class_frigate_build_speed_var]%§!"
+nsc_modmenu_setting_page_ship_category_class_frigate_build_speed_desc_plus:0 "Velocidad de Construcción: §G+[This.nsc_modmenu_ship_class_frigate_build_speed_var]%§!"
+
+#destroyer
+nsc_modmenu_setting_page_ship_category_class_destroyer_name_desc:0 "§H$destroyer$§!\n$SHIP_GRAPHICS_DESTROYER_DESC$"
+nsc_modmenu_setting_page_ship_category_class_destroyer_enabled_desc:0 "$destroyer$: §GHabilitado§!"
+nsc_modmenu_setting_page_ship_category_class_destroyer_disabled_desc:0 "$destroyer$: §RDesactivado§!"
+nsc_modmenu_setting_page_ship_category_class_destroyer_build_cost_desc_neutral:0 "Costo de Construcción: §Y[This.nsc_modmenu_ship_class_destroyer_build_cost_var]%§!"
+nsc_modmenu_setting_page_ship_category_class_destroyer_build_cost_desc_minus:0 "Costo de Construcción: §G[This.nsc_modmenu_ship_class_destroyer_build_cost_var]%§!"
+nsc_modmenu_setting_page_ship_category_class_destroyer_build_cost_desc_plus:0 "Costo de Construcción: §R+[This.nsc_modmenu_ship_class_destroyer_build_cost_var]%§!"
+nsc_modmenu_setting_page_ship_category_class_destroyer_build_speed_desc_neutral:0 "Velocidad de Construcción: §Y[This.nsc_modmenu_ship_class_destroyer_build_speed_var]%§!"
+nsc_modmenu_setting_page_ship_category_class_destroyer_build_speed_desc_minus:0 "Velocidad de Construcción: §R[This.nsc_modmenu_ship_class_destroyer_build_speed_var]%§!"
+nsc_modmenu_setting_page_ship_category_class_destroyer_build_speed_desc_plus:0 "Velocidad de Construcción: §G+[This.nsc_modmenu_ship_class_destroyer_build_speed_var]%§!"
+
+#cruiser
+nsc_modmenu_setting_page_ship_category_class_cruiser_name_desc:0 "§H$cruiser$§!\n$SHIP_GRAPHICS_CRUISER_DESC$"
+nsc_modmenu_setting_page_ship_category_class_cruiser_enabled_desc:0 "$cruiser$: §GHabilitado§!"
+nsc_modmenu_setting_page_ship_category_class_cruiser_disabled_desc:0 "$cruiser$: §RDesactivado§!"
+nsc_modmenu_setting_page_ship_category_class_cruiser_build_cost_desc_neutral:0 "Costo de Construcción: §Y[This.nsc_modmenu_ship_class_cruiser_build_cost_var]%§!"
+nsc_modmenu_setting_page_ship_category_class_cruiser_build_cost_desc_minus:0 "Costo de Construcción: §G[This.nsc_modmenu_ship_class_cruiser_build_cost_var]%§!"
+nsc_modmenu_setting_page_ship_category_class_cruiser_build_cost_desc_plus:0 "Costo de Construcción: §R+[This.nsc_modmenu_ship_class_cruiser_build_cost_var]%§!"
+nsc_modmenu_setting_page_ship_category_class_cruiser_build_speed_desc_neutral:0 "Velocidad de Construcción: §Y[This.nsc_modmenu_ship_class_cruiser_build_speed_var]%§!"
+nsc_modmenu_setting_page_ship_category_class_cruiser_build_speed_desc_minus:0 "Velocidad de Construcción: §R[This.nsc_modmenu_ship_class_cruiser_build_speed_var]%§!"
+nsc_modmenu_setting_page_ship_category_class_cruiser_build_speed_desc_plus:0 "Velocidad de Construcción: §G+[This.nsc_modmenu_ship_class_cruiser_build_speed_var]%§!"
+
+#battleship
+nsc_modmenu_setting_page_ship_category_class_battleship_name_desc:0 "§H$battleship$§!\n$SHIP_GRAPHICS_BATTLESHIP_DESC$"
+nsc_modmenu_setting_page_ship_category_class_battleship_enabled_desc:0 "$battleship$: §GHabilitado§!"
+nsc_modmenu_setting_page_ship_category_class_battleship_disabled_desc:0 "$battleship$: §RDesactivado§!"
+nsc_modmenu_setting_page_ship_category_class_battleship_build_cost_desc_neutral:0 "Costo de Construcción: §Y[This.nsc_modmenu_ship_class_battleship_build_cost_var]%§!"
+nsc_modmenu_setting_page_ship_category_class_battleship_build_cost_desc_minus:0 "Costo de Construcción: §G[This.nsc_modmenu_ship_class_battleship_build_cost_var]%§!"
+nsc_modmenu_setting_page_ship_category_class_battleship_build_cost_desc_plus:0 "Costo de Construcción: §R+[This.nsc_modmenu_ship_class_battleship_build_cost_var]%§!"
+nsc_modmenu_setting_page_ship_category_class_battleship_build_speed_desc_neutral:0 "Velocidad de Construcción: §Y[This.nsc_modmenu_ship_class_battleship_build_speed_var]%§!"
+nsc_modmenu_setting_page_ship_category_class_battleship_build_speed_desc_minus:0 "Velocidad de Construcción: §R[This.nsc_modmenu_ship_class_battleship_build_speed_var]%§!"
+nsc_modmenu_setting_page_ship_category_class_battleship_build_speed_desc_plus:0 "Velocidad de Construcción: §G+[This.nsc_modmenu_ship_class_battleship_build_speed_var]%§!"
+
+#titan
+nsc_modmenu_setting_page_ship_category_class_titan_name_desc:0 "§H$titan$§!\n$SHIP_GRAPHICS_TITAN_DESC$"
+nsc_modmenu_setting_page_ship_category_class_titan_enabled_desc:0 "$titan$: §GHabilitado§!"
+nsc_modmenu_setting_page_ship_category_class_titan_disabled_desc:0 "$titan$: §RDesactivado§!"
+nsc_modmenu_setting_page_ship_category_class_titan_build_cost_desc_neutral:0 "Costo de Construcción: §Y[This.nsc_modmenu_ship_class_titan_build_cost_var]%§!"
+nsc_modmenu_setting_page_ship_category_class_titan_build_cost_desc_minus:0 "Costo de Construcción: §G[This.nsc_modmenu_ship_class_titan_build_cost_var]%§!"
+nsc_modmenu_setting_page_ship_category_class_titan_build_cost_desc_plus:0 "Costo de Construcción: §R+[This.nsc_modmenu_ship_class_titan_build_cost_var]%§!"
+nsc_modmenu_setting_page_ship_category_class_titan_build_speed_desc_neutral:0 "Velocidad de Construcción: §Y[This.nsc_modmenu_ship_class_titan_build_speed_var]%§!"
+nsc_modmenu_setting_page_ship_category_class_titan_build_speed_desc_minus:0 "Velocidad de Construcción: §R[This.nsc_modmenu_ship_class_titan_build_speed_var]%§!"
+nsc_modmenu_setting_page_ship_category_class_titan_build_speed_desc_plus:0 "Velocidad de Construcción: §G+[This.nsc_modmenu_ship_class_titan_build_speed_var]%§!"
+
+#colossus
+nsc_modmenu_setting_page_ship_category_class_colossus_name_desc:0 "§H$colossus$§!\n$SHIP_GRAPHICS_COLOSSUS_DESC$"
+nsc_modmenu_setting_page_ship_category_class_colossus_enabled_desc:0 "$colossus$: §GHabilitado§!"
+nsc_modmenu_setting_page_ship_category_class_colossus_disabled_desc:0 "$colossus$: §RDesactivado§!"
+nsc_modmenu_setting_page_ship_category_class_colossus_build_cost_desc_neutral:0 "Costo de Construcción: §Y[This.nsc_modmenu_ship_class_colossus_build_cost_var]%§!"
+nsc_modmenu_setting_page_ship_category_class_colossus_build_cost_desc_minus:0 "Costo de Construcción: §G[This.nsc_modmenu_ship_class_colossus_build_cost_var]%§!"
+nsc_modmenu_setting_page_ship_category_class_colossus_build_cost_desc_plus:0 "Costo de Construcción: §R+[This.nsc_modmenu_ship_class_colossus_build_cost_var]%§!"
+nsc_modmenu_setting_page_ship_category_class_colossus_build_speed_desc_neutral:0 "Velocidad de Construcción: §Y[This.nsc_modmenu_ship_class_colossus_build_speed_var]%§!"
+nsc_modmenu_setting_page_ship_category_class_colossus_build_speed_desc_minus:0 "Velocidad de Construcción: §R[This.nsc_modmenu_ship_class_colossus_build_speed_var]%§!"
+nsc_modmenu_setting_page_ship_category_class_colossus_build_speed_desc_plus:0 "Velocidad de Construcción: §G+[This.nsc_modmenu_ship_class_colossus_build_speed_var]%§!"
+
+#juggernaut
+nsc_modmenu_setting_page_ship_category_class_juggernaut_name_desc:0 "§H$juggernaut$§!\n$SHIP_GRAPHICS_JUGGERNAUT_DESC$"
+nsc_modmenu_setting_page_ship_category_class_juggernaut_enabled_desc:0 "$juggernaut$: §GHabilitado§!"
+nsc_modmenu_setting_page_ship_category_class_juggernaut_disabled_desc:0 "$juggernaut$: §RDesactivado§!"
+nsc_modmenu_setting_page_ship_category_class_juggernaut_build_cost_desc_neutral:0 "Costo de Construcción: §Y[This.nsc_modmenu_ship_class_juggernaut_build_cost_var]%§!"
+nsc_modmenu_setting_page_ship_category_class_juggernaut_build_cost_desc_minus:0 "Costo de Construcción: §G[This.nsc_modmenu_ship_class_juggernaut_build_cost_var]%§!"
+nsc_modmenu_setting_page_ship_category_class_juggernaut_build_cost_desc_plus:0 "Costo de Construcción: §R+[This.nsc_modmenu_ship_class_juggernaut_build_cost_var]%§!"
+nsc_modmenu_setting_page_ship_category_class_juggernaut_build_speed_desc_neutral:0 "Velocidad de Construcción: §Y[This.nsc_modmenu_ship_class_juggernaut_build_speed_var]%§!"
+nsc_modmenu_setting_page_ship_category_class_juggernaut_build_speed_desc_minus:0 "Velocidad de Construcción: §R[This.nsc_modmenu_ship_class_juggernaut_build_speed_var]%§!"
+nsc_modmenu_setting_page_ship_category_class_juggernaut_build_speed_desc_plus:0 "Velocidad de Construcción: §G+[This.nsc_modmenu_ship_class_juggernaut_build_speed_var]%§!"
+
+### Custom GUI Category: Ship Components ###
+#Common
+nsc_modmenu_setting_page_ship_category_component_name:0 "$nsc_modmenu_setting_button_category_ship_name$ $nsc_modmenu_setting_button_ship_component_name$"
+
+#NSC_REACTOR_BOOSTER_1
+nsc_modmenu_setting_page_ship_category_component_NSC_REACTOR_BOOSTER_1_name_desc:0 "§H$NSC_REACTOR_BOOSTER_1$§!\n$NSC_REACTOR_BOOSTER_1_DESC$"
+nsc_modmenu_setting_page_ship_category_component_NSC_REACTOR_BOOSTER_1_enabled_desc:0 "$NSC_REACTOR_BOOSTER_1$: §GHabilitado§!"
+nsc_modmenu_setting_page_ship_category_component_NSC_REACTOR_BOOSTER_1_disabled_desc:0 "$NSC_REACTOR_BOOSTER_1$: §RDesactivado§!"
+
+#NSC_REACTOR_BOOSTER_2
+nsc_modmenu_setting_page_ship_category_component_NSC_REACTOR_BOOSTER_2_name_desc:0 "§H$NSC_REACTOR_BOOSTER_2$§!\n$NSC_REACTOR_BOOSTER_2_DESC$"
+nsc_modmenu_setting_page_ship_category_component_NSC_REACTOR_BOOSTER_2_enabled_desc:0 "$NSC_REACTOR_BOOSTER_2$: §GHabilitado§!"
+nsc_modmenu_setting_page_ship_category_component_NSC_REACTOR_BOOSTER_2_disabled_desc:0 "$NSC_REACTOR_BOOSTER_2$: §RDesactivado§!"
+
+#NSC_REACTOR_BOOSTER_3
+nsc_modmenu_setting_page_ship_category_component_NSC_REACTOR_BOOSTER_3_name_desc:0 "§H$NSC_REACTOR_BOOSTER_3$§!\n$NSC_REACTOR_BOOSTER_3_DESC$"
+nsc_modmenu_setting_page_ship_category_component_NSC_REACTOR_BOOSTER_3_enabled_desc:0 "$NSC_REACTOR_BOOSTER_3$: §GHabilitado§!"
+nsc_modmenu_setting_page_ship_category_component_NSC_REACTOR_BOOSTER_3_disabled_desc:0 "$NSC_REACTOR_BOOSTER_3$: §RDesactivado§!"
+
+#NSC_BOMBARDMENT_1
+nsc_modmenu_setting_page_ship_category_component_NSC_BOMBARDMENT_1_name_desc:0 "§H$NSC_BOMBARDMENT_1$§!\n$NSC_BOMBARDMENT_1_DESC$"
+nsc_modmenu_setting_page_ship_category_component_NSC_BOMBARDMENT_1_enabled_desc:0 "$NSC_BOMBARDMENT_1$: §GHabilitado§!"
+nsc_modmenu_setting_page_ship_category_component_NSC_BOMBARDMENT_1_disabled_desc:0 "$NSC_BOMBARDMENT_1$: §RDesactivado§!"
+
+#NSC_BOMBARDMENT_2
+nsc_modmenu_setting_page_ship_category_component_NSC_BOMBARDMENT_2_name_desc:0 "§H$NSC_BOMBARDMENT_2$§!\n$NSC_BOMBARDMENT_2_DESC$"
+nsc_modmenu_setting_page_ship_category_component_NSC_BOMBARDMENT_2_enabled_desc:0 "$NSC_BOMBARDMENT_2$: §GHabilitado§!"
+nsc_modmenu_setting_page_ship_category_component_NSC_BOMBARDMENT_2_disabled_desc:0 "$NSC_BOMBARDMENT_2$: §RDesactivado§!"
+
+#NSC_BOMBARDMENT_3
+nsc_modmenu_setting_page_ship_category_component_NSC_BOMBARDMENT_3_name_desc:0 "§H$NSC_BOMBARDMENT_3$§!\n$NSC_BOMBARDMENT_3_DESC$"
+nsc_modmenu_setting_page_ship_category_component_NSC_BOMBARDMENT_3_enabled_desc:0 "$NSC_BOMBARDMENT_3$: §GHabilitado§!"
+nsc_modmenu_setting_page_ship_category_component_NSC_BOMBARDMENT_3_disabled_desc:0 "$NSC_BOMBARDMENT_3$: §RDesactivado§!"
+
+#SPECIAL_SLOT_MULTIPHASIC_SENSORS
+nsc_modmenu_setting_page_ship_category_component_SPECIAL_SLOT_MULTIPHASIC_SENSORS_name_desc:0 "§H$SPECIAL_SLOT_MULTIPHASIC_SENSORS$§!\n$SPECIAL_SLOT_MULTIPHASIC_SENSORS_DESC$"
+nsc_modmenu_setting_page_ship_category_component_SPECIAL_SLOT_MULTIPHASIC_SENSORS_enabled_desc:0 "$SPECIAL_SLOT_MULTIPHASIC_SENSORS$: §GHabilitado§!"
+nsc_modmenu_setting_page_ship_category_component_SPECIAL_SLOT_MULTIPHASIC_SENSORS_disabled_desc:0 "$SPECIAL_SLOT_MULTIPHASIC_SENSORS$: §RDesactivado§!"
+
+#SPECIAL_SLOT_DAMAGE_CONTROL
+nsc_modmenu_setting_page_ship_category_component_SPECIAL_SLOT_DAMAGE_CONTROL_name_desc:0 "§H$SPECIAL_SLOT_DAMAGE_CONTROL$§!\n$SPECIAL_SLOT_DAMAGE_CONTROL_DESC$"
+nsc_modmenu_setting_page_ship_category_component_SPECIAL_SLOT_DAMAGE_CONTROL_enabled_desc:0 "$SPECIAL_SLOT_DAMAGE_CONTROL$: §GHabilitado§!"
+nsc_modmenu_setting_page_ship_category_component_SPECIAL_SLOT_DAMAGE_CONTROL_disabled_desc:0 "$SPECIAL_SLOT_DAMAGE_CONTROL$: §RDesactivado§!"
+
+#SPECIAL_SLOT_READY_ROOM
+nsc_modmenu_setting_page_ship_category_component_SPECIAL_SLOT_READY_ROOM_name_desc:0 "§H$SPECIAL_SLOT_READY_ROOM$§!\n$SPECIAL_SLOT_READY_ROOM_DESC$"
+nsc_modmenu_setting_page_ship_category_component_SPECIAL_SLOT_READY_ROOM_enabled_desc:0 "$SPECIAL_SLOT_READY_ROOM$: §GHabilitado§!"
+nsc_modmenu_setting_page_ship_category_component_SPECIAL_SLOT_READY_ROOM_disabled_desc:0 "$SPECIAL_SLOT_READY_ROOM$: §RDesactivado§!"
+
+#SPECIAL_SLOT_CREW_LOUNGE
+nsc_modmenu_setting_page_ship_category_component_SPECIAL_SLOT_CREW_LOUNGE_name_desc:0 "§H$SPECIAL_SLOT_CREW_LOUNGE$§!\n$SPECIAL_SLOT_CREW_LOUNGE_DESC$"
+nsc_modmenu_setting_page_ship_category_component_SPECIAL_SLOT_CREW_LOUNGE_enabled_desc:0 "$SPECIAL_SLOT_CREW_LOUNGE$: §GHabilitado§!"
+nsc_modmenu_setting_page_ship_category_component_SPECIAL_SLOT_CREW_LOUNGE_disabled_desc:0 "$SPECIAL_SLOT_CREW_LOUNGE$: §RDesactivado§!"
+
+#SPECIAL_SLOT_FIRE_CONTROL
+nsc_modmenu_setting_page_ship_category_component_SPECIAL_SLOT_FIRE_CONTROL_name_desc:0 "§H$SPECIAL_SLOT_FIRE_CONTROL$§!\n$SPECIAL_SLOT_FIRE_CONTROL_DESC$"
+nsc_modmenu_setting_page_ship_category_component_SPECIAL_SLOT_FIRE_CONTROL_enabled_desc:0 "$SPECIAL_SLOT_FIRE_CONTROL$: §GHabilitado§!"
+nsc_modmenu_setting_page_ship_category_component_SPECIAL_SLOT_FIRE_CONTROL_disabled_desc:0 "$SPECIAL_SLOT_FIRE_CONTROL$: §RDesactivado§!"
+
+#SPECIAL_SLOT_STRUCTURAL_INTEGRITY
+nsc_modmenu_setting_page_ship_category_component_SPECIAL_SLOT_STRUCTURAL_INTEGRITY_name_desc:0 "§H$SPECIAL_SLOT_STRUCTURAL_INTEGRITY$§!\n$SPECIAL_SLOT_STRUCTURAL_INTEGRITY_DESC$"
+nsc_modmenu_setting_page_ship_category_component_SPECIAL_SLOT_STRUCTURAL_INTEGRITY_enabled_desc:0 "$SPECIAL_SLOT_STRUCTURAL_INTEGRITY$: §GHabilitado§!"
+nsc_modmenu_setting_page_ship_category_component_SPECIAL_SLOT_STRUCTURAL_INTEGRITY_disabled_desc:0 "$SPECIAL_SLOT_STRUCTURAL_INTEGRITY$: §RDesactivado§!"
+
+#SPECIAL_SLOT_AUXILIARY_SHIELDS
+nsc_modmenu_setting_page_ship_category_component_SPECIAL_SLOT_AUXILIARY_SHIELDS_name_desc:0 "§H$SPECIAL_SLOT_AUXILIARY_SHIELDS$§!\n$SPECIAL_SLOT_AUXILIARY_SHIELDS_DESC$"
+nsc_modmenu_setting_page_ship_category_component_SPECIAL_SLOT_AUXILIARY_SHIELDS_enabled_desc:0 "$SPECIAL_SLOT_AUXILIARY_SHIELDS$: §GHabilitado§!"
+nsc_modmenu_setting_page_ship_category_component_SPECIAL_SLOT_AUXILIARY_SHIELDS_disabled_desc:0 "$SPECIAL_SLOT_AUXILIARY_SHIELDS$: §RDesactivado§!"
+
+#SPECIAL_SLOT_QUANTUM_THRUSTERS
+nsc_modmenu_setting_page_ship_category_component_SPECIAL_SLOT_QUANTUM_THRUSTERS_name_desc:0 "§H$SPECIAL_SLOT_QUANTUM_THRUSTERS$§!\n$SPECIAL_SLOT_QUANTUM_THRUSTERS_DESC$"
+nsc_modmenu_setting_page_ship_category_component_SPECIAL_SLOT_QUANTUM_THRUSTERS_enabled_desc:0 "$SPECIAL_SLOT_QUANTUM_THRUSTERS$: §GHabilitado§!"
+nsc_modmenu_setting_page_ship_category_component_SPECIAL_SLOT_QUANTUM_THRUSTERS_disabled_desc:0 "$SPECIAL_SLOT_QUANTUM_THRUSTERS$: §RDesactivado§!"
+
+#SPECIAL_SLOT_DEFLECTOR_ARRAY
+nsc_modmenu_setting_page_ship_category_component_SPECIAL_SLOT_DEFLECTOR_ARRAY_name_desc:0 "§H$SPECIAL_SLOT_DEFLECTOR_ARRAY$§!\n$SPECIAL_SLOT_DEFLECTOR_ARRAY_DESC$"
+nsc_modmenu_setting_page_ship_category_component_SPECIAL_SLOT_DEFLECTOR_ARRAY_enabled_desc:0 "$SPECIAL_SLOT_DEFLECTOR_ARRAY$: §GHabilitado§!"
+nsc_modmenu_setting_page_ship_category_component_SPECIAL_SLOT_DEFLECTOR_ARRAY_disabled_desc:0 "$SPECIAL_SLOT_DEFLECTOR_ARRAY$: §RDesactivado§!"
+
+#SPECIAL_SLOT_NAVIGATIONAL_ARRAY
+nsc_modmenu_setting_page_ship_category_component_SPECIAL_SLOT_NAVIGATIONAL_ARRAY_name_desc:0 "§H$SPECIAL_SLOT_NAVIGATIONAL_ARRAY$§!\n$SPECIAL_SLOT_NAVIGATIONAL_ARRAY_DESC$"
+nsc_modmenu_setting_page_ship_category_component_SPECIAL_SLOT_NAVIGATIONAL_ARRAY_enabled_desc:0 "$SPECIAL_SLOT_NAVIGATIONAL_ARRAY$: §GHabilitado§!"
+nsc_modmenu_setting_page_ship_category_component_SPECIAL_SLOT_NAVIGATIONAL_ARRAY_disabled_desc:0 "$SPECIAL_SLOT_NAVIGATIONAL_ARRAY$: §RDesactivado§!"
+
+#SPECIAL_SLOT_KITCHEN_SINK
+nsc_modmenu_setting_page_ship_category_component_SPECIAL_SLOT_KITCHEN_SINK_name_desc:0 "§H$SPECIAL_SLOT_KITCHEN_SINK$§!\n$SPECIAL_SLOT_KITCHEN_SINK_DESC$"
+nsc_modmenu_setting_page_ship_category_component_SPECIAL_SLOT_KITCHEN_SINK_enabled_desc:0 "$SPECIAL_SLOT_KITCHEN_SINK$: §GHabilitado§!"
+nsc_modmenu_setting_page_ship_category_component_SPECIAL_SLOT_KITCHEN_SINK_disabled_desc:0 "$SPECIAL_SLOT_KITCHEN_SINK$: §RDesactivado§!"
+
+#SPECIAL_SLOT_STELLAR_CARTOGRAPHY
+nsc_modmenu_setting_page_ship_category_component_SPECIAL_SLOT_STELLAR_CARTOGRAPHY_name_desc:0 "§H$SPECIAL_SLOT_STELLAR_CARTOGRAPHY$§!\n$SPECIAL_SLOT_STELLAR_CARTOGRAPHY_DESC$"
+nsc_modmenu_setting_page_ship_category_component_SPECIAL_SLOT_STELLAR_CARTOGRAPHY_enabled_desc:0 "$SPECIAL_SLOT_STELLAR_CARTOGRAPHY$: §GHabilitado§!"
+nsc_modmenu_setting_page_ship_category_component_SPECIAL_SLOT_STELLAR_CARTOGRAPHY_disabled_desc:0 "$SPECIAL_SLOT_STELLAR_CARTOGRAPHY$: §RDesactivado§!"
+
+#SPECIAL_SLOT_MARS_WEAPON_SYSTEM
+nsc_modmenu_setting_page_ship_category_component_SPECIAL_SLOT_MARS_WEAPON_SYSTEM_name_desc:0 "§H$SPECIAL_SLOT_MARS_WEAPON_SYSTEM$§!\n$SPECIAL_SLOT_MARS_WEAPON_SYSTEM_DESC$"
+nsc_modmenu_setting_page_ship_category_component_SPECIAL_SLOT_MARS_WEAPON_SYSTEM_enabled_desc:0 "$SPECIAL_SLOT_MARS_WEAPON_SYSTEM$: §GHabilitado§!"
+nsc_modmenu_setting_page_ship_category_component_SPECIAL_SLOT_MARS_WEAPON_SYSTEM_disabled_desc:0 "$SPECIAL_SLOT_MARS_WEAPON_SYSTEM$: §RDesactivado§!"
+
+#SPECIAL_SLOT_STRIKE_CRAFT
+nsc_modmenu_setting_page_ship_category_component_SPECIAL_SLOT_STRIKE_CRAFT_name_desc:0 "§H$SPECIAL_SLOT_STRIKE_CRAFT$§!\n$SPECIAL_SLOT_STRIKE_CRAFT_DESC$"
+nsc_modmenu_setting_page_ship_category_component_SPECIAL_SLOT_STRIKE_CRAFT_enabled_desc:0 "$SPECIAL_SLOT_STRIKE_CRAFT$: §GHabilitado§!"
+nsc_modmenu_setting_page_ship_category_component_SPECIAL_SLOT_STRIKE_CRAFT_disabled_desc:0 "$SPECIAL_SLOT_STRIKE_CRAFT$: §RDesactivado§!"
+
+#EXPLORATION_SLOT_ANOMALY_LAB
+nsc_modmenu_setting_page_ship_category_component_EXPLORATION_SLOT_ANOMALY_LAB_name_desc:0 "§H$EXPLORATION_SLOT_ANOMALY_LAB$§!\n$EXPLORATION_SLOT_ANOMALY_LAB_DESC$"
+nsc_modmenu_setting_page_ship_category_component_EXPLORATION_SLOT_ANOMALY_LAB_enabled_desc:0 "$EXPLORATION_SLOT_ANOMALY_LAB$: §GHabilitado§!"
+nsc_modmenu_setting_page_ship_category_component_EXPLORATION_SLOT_ANOMALY_LAB_disabled_desc:0 "$EXPLORATION_SLOT_ANOMALY_LAB$: §RDesactivado§!"
+
+#EXPLORATION_SLOT_SURVEY_LAB
+nsc_modmenu_setting_page_ship_category_component_EXPLORATION_SLOT_SURVEY_LAB_name_desc:0 "§H$EXPLORATION_SLOT_SURVEY_LAB$§!\n$EXPLORATION_SLOT_SURVEY_LAB_DESC$"
+nsc_modmenu_setting_page_ship_category_component_EXPLORATION_SLOT_SURVEY_LAB_enabled_desc:0 "$EXPLORATION_SLOT_SURVEY_LAB$: §GHabilitado§!"
+nsc_modmenu_setting_page_ship_category_component_EXPLORATION_SLOT_SURVEY_LAB_disabled_desc:0 "$EXPLORATION_SLOT_SURVEY_LAB$: §RDesactivado§!"
+
+#EXPLORATION_SLOT_ANALYSIS_LAB
+nsc_modmenu_setting_page_ship_category_component_EXPLORATION_SLOT_ANALYSIS_LAB_name_desc:0 "§H$EXPLORATION_SLOT_ANALYSIS_LAB$§!\n$EXPLORATION_SLOT_ANALYSIS_LAB_DESC$"
+nsc_modmenu_setting_page_ship_category_component_EXPLORATION_SLOT_ANALYSIS_LAB_enabled_desc:0 "$EXPLORATION_SLOT_ANALYSIS_LAB$: §GHabilitado§!"
+nsc_modmenu_setting_page_ship_category_component_EXPLORATION_SLOT_ANALYSIS_LAB_disabled_desc:0 "$EXPLORATION_SLOT_ANALYSIS_LAB$: §RDesactivado§!"
+
+#EXPLORATION_SLOT_DEBRIS_LAB
+nsc_modmenu_setting_page_ship_category_component_EXPLORATION_SLOT_DEBRIS_LAB_name_desc:0 "§H$EXPLORATION_SLOT_DEBRIS_LAB$§!\n$EXPLORATION_SLOT_DEBRIS_LAB_DESC$"
+nsc_modmenu_setting_page_ship_category_component_EXPLORATION_SLOT_DEBRIS_LAB_enabled_desc:0 "$EXPLORATION_SLOT_DEBRIS_LAB$: §GHabilitado§!"
+nsc_modmenu_setting_page_ship_category_component_EXPLORATION_SLOT_DEBRIS_LAB_disabled_desc:0 "$EXPLORATION_SLOT_DEBRIS_LAB$: §RDesactivado§!"
+
+#EXPLORATION_SLOT_PHYSICS_LAB
+nsc_modmenu_setting_page_ship_category_component_EXPLORATION_SLOT_PHYSICS_LAB_name_desc:0 "§H$EXPLORATION_SLOT_PHYSICS_LAB$§!\n$EXPLORATION_SLOT_PHYSICS_LAB_DESC$"
+nsc_modmenu_setting_page_ship_category_component_EXPLORATION_SLOT_PHYSICS_LAB_enabled_desc:0 "$EXPLORATION_SLOT_PHYSICS_LAB$: §GHabilitado§!"
+nsc_modmenu_setting_page_ship_category_component_EXPLORATION_SLOT_PHYSICS_LAB_disabled_desc:0 "$EXPLORATION_SLOT_PHYSICS_LAB$: §RDesactivado§!"
+
+#EXPLORATION_SLOT_SOCIETY_LAB
+nsc_modmenu_setting_page_ship_category_component_EXPLORATION_SLOT_SOCIETY_LAB_name_desc:0 "§H$EXPLORATION_SLOT_SOCIETY_LAB$§!\n$EXPLORATION_SLOT_SOCIETY_LAB_DESC$"
+nsc_modmenu_setting_page_ship_category_component_EXPLORATION_SLOT_SOCIETY_LAB_enabled_desc:0 "$EXPLORATION_SLOT_SOCIETY_LAB$: §GHabilitado§!"
+nsc_modmenu_setting_page_ship_category_component_EXPLORATION_SLOT_SOCIETY_LAB_disabled_desc:0 "$EXPLORATION_SLOT_SOCIETY_LAB$: §RDesactivado§!"
+
+#EXPLORATION_SLOT_ENGINEERING_LAB
+nsc_modmenu_setting_page_ship_category_component_EXPLORATION_SLOT_ENGINEERING_LAB_name_desc:0 "§H$EXPLORATION_SLOT_ENGINEERING_LAB$§!\n$EXPLORATION_SLOT_ENGINEERING_LAB_DESC$"
+nsc_modmenu_setting_page_ship_category_component_EXPLORATION_SLOT_ENGINEERING_LAB_enabled_desc:0 "$EXPLORATION_SLOT_ENGINEERING_LAB$: §GHabilitado§!"
+nsc_modmenu_setting_page_ship_category_component_EXPLORATION_SLOT_ENGINEERING_LAB_disabled_desc:0 "$EXPLORATION_SLOT_ENGINEERING_LAB$: §RDesactivado§!"
+
+#EXPLORATION_SLOT_STELLAR_CARTOGRAPHY
+nsc_modmenu_setting_page_ship_category_component_EXPLORATION_SLOT_STELLAR_CARTOGRAPHY_name_desc:0 "§H$EXPLORATION_SLOT_STELLAR_CARTOGRAPHY$§!\n$EXPLORATION_SLOT_STELLAR_CARTOGRAPHY_DESC$"
+nsc_modmenu_setting_page_ship_category_component_EXPLORATION_SLOT_STELLAR_CARTOGRAPHY_enabled_desc:0 "$EXPLORATION_SLOT_STELLAR_CARTOGRAPHY$: §GHabilitado§!"
+nsc_modmenu_setting_page_ship_category_component_EXPLORATION_SLOT_STELLAR_CARTOGRAPHY_disabled_desc:0 "$EXPLORATION_SLOT_STELLAR_CARTOGRAPHY$: §RDesactivado§!"
+
+#EXPLORATION_SLOT_QUANTUM_THRUSTERS
+nsc_modmenu_setting_page_ship_category_component_EXPLORATION_SLOT_QUANTUM_THRUSTERS_name_desc:0 "§H$EXPLORATION_SLOT_QUANTUM_THRUSTERS$§!\n$EXPLORATION_SLOT_QUANTUM_THRUSTERS_DESC$"
+nsc_modmenu_setting_page_ship_category_component_EXPLORATION_SLOT_QUANTUM_THRUSTERS_enabled_desc:0 "$EXPLORATION_SLOT_QUANTUM_THRUSTERS$: §GHabilitado§!"
+nsc_modmenu_setting_page_ship_category_component_EXPLORATION_SLOT_QUANTUM_THRUSTERS_disabled_desc:0 "$EXPLORATION_SLOT_QUANTUM_THRUSTERS$: §RDesactivado§!"
+
+#EXPLORATION_SLOT_NAVIGATIONAL_ARRAY
+nsc_modmenu_setting_page_ship_category_component_EXPLORATION_SLOT_NAVIGATIONAL_ARRAY_name_desc:0 "§H$EXPLORATION_SLOT_NAVIGATIONAL_ARRAY$§!\n$EXPLORATION_SLOT_NAVIGATIONAL_ARRAY_DESC$"
+nsc_modmenu_setting_page_ship_category_component_EXPLORATION_SLOT_NAVIGATIONAL_ARRAY_enabled_desc:0 "$EXPLORATION_SLOT_NAVIGATIONAL_ARRAY$: §GHabilitado§!"
+nsc_modmenu_setting_page_ship_category_component_EXPLORATION_SLOT_NAVIGATIONAL_ARRAY_disabled_desc:0 "$EXPLORATION_SLOT_NAVIGATIONAL_ARRAY$: §RDesactivado§!"
+
+#EXPLORATION_SLOT_MINING_FACILITY
+nsc_modmenu_setting_page_ship_category_component_EXPLORATION_SLOT_MINING_FACILITY_name_desc:0 "§H$EXPLORATION_SLOT_MINING_FACILITY$§!\n$EXPLORATION_SLOT_MINING_FACILITY_DESC$"
+nsc_modmenu_setting_page_ship_category_component_EXPLORATION_SLOT_MINING_FACILITY_enabled_desc:0 "$EXPLORATION_SLOT_MINING_FACILITY$: §GHabilitado§!"
+nsc_modmenu_setting_page_ship_category_component_EXPLORATION_SLOT_MINING_FACILITY_disabled_desc:0 "$EXPLORATION_SLOT_MINING_FACILITY$: §RDesactivado§!"
+
+#EXPLORATION_SLOT_SOLAR_ARRAY
+nsc_modmenu_setting_page_ship_category_component_EXPLORATION_SLOT_SOLAR_ARRAY_name_desc:0 "§H$EXPLORATION_SLOT_SOLAR_ARRAY$§!\n$EXPLORATION_SLOT_SOLAR_ARRAY_DESC$"
+nsc_modmenu_setting_page_ship_category_component_EXPLORATION_SLOT_SOLAR_ARRAY_enabled_desc:0 "$EXPLORATION_SLOT_SOLAR_ARRAY$: §GHabilitado§!"
+nsc_modmenu_setting_page_ship_category_component_EXPLORATION_SLOT_SOLAR_ARRAY_disabled_desc:0 "$EXPLORATION_SLOT_SOLAR_ARRAY$: §RDesactivado§!"
+
+#EXPLORATION_SLOT_ALLOY_REFINERY
+nsc_modmenu_setting_page_ship_category_component_EXPLORATION_SLOT_ALLOY_REFINERY_name_desc:0 "§H$EXPLORATION_SLOT_ALLOY_REFINERY$§!\n$EXPLORATION_SLOT_ALLOY_REFINERY_DESC$"
+nsc_modmenu_setting_page_ship_category_component_EXPLORATION_SLOT_ALLOY_REFINERY_enabled_desc:0 "$EXPLORATION_SLOT_ALLOY_REFINERY$: §GHabilitado§!"
+nsc_modmenu_setting_page_ship_category_component_EXPLORATION_SLOT_ALLOY_REFINERY_disabled_desc:0 "$EXPLORATION_SLOT_ALLOY_REFINERY$: §RDesactivado§!"
+
+#BATTLESHIP_SNIPER_GUN_1
+nsc_modmenu_setting_page_ship_category_component_BATTLESHIP_SNIPER_GUN_1_name_desc:0 "§H$BATTLESHIP_SNIPER_GUN_1$§!\n$BATTLESHIP_SNIPER_GUN_1_DESC$"
+nsc_modmenu_setting_page_ship_category_component_BATTLESHIP_SNIPER_GUN_1_enabled_desc:0 "$BATTLESHIP_SNIPER_GUN_1$: §GHabilitado§!"
+nsc_modmenu_setting_page_ship_category_component_BATTLESHIP_SNIPER_GUN_1_disabled_desc:0 "$BATTLESHIP_SNIPER_GUN_1$: §RDesactivado§!"
+
+#BATTLESHIP_SNIPER_GUN_2
+nsc_modmenu_setting_page_ship_category_component_BATTLESHIP_SNIPER_GUN_2_name_desc:0 "§H$BATTLESHIP_SNIPER_GUN_2$§!\n$BATTLESHIP_SNIPER_GUN_2_DESC$"
+nsc_modmenu_setting_page_ship_category_component_BATTLESHIP_SNIPER_GUN_2_enabled_desc:0 "$BATTLESHIP_SNIPER_GUN_2$: §GHabilitado§!"
+nsc_modmenu_setting_page_ship_category_component_BATTLESHIP_SNIPER_GUN_2_disabled_desc:0 "$BATTLESHIP_SNIPER_GUN_2$: §RDesactivado§!"
+
+#TOMAHAWK_CRUISE_MISSILE
+nsc_modmenu_setting_page_ship_category_component_TOMAHAWK_CRUISE_MISSILE_name_desc:0 "§H$TOMAHAWK_CRUISE_MISSILE$§!\n$TOMAHAWK_CRUISE_MISSILE_DESC$"
+nsc_modmenu_setting_page_ship_category_component_TOMAHAWK_CRUISE_MISSILE_enabled_desc:0 "$TOMAHAWK_CRUISE_MISSILE$: §GHabilitado§!"
+nsc_modmenu_setting_page_ship_category_component_TOMAHAWK_CRUISE_MISSILE_disabled_desc:0 "$TOMAHAWK_CRUISE_MISSILE$: §RDesactivado§!"
+
+#FRIGATE_TORPEDO_1
+nsc_modmenu_setting_page_ship_category_component_FRIGATE_TORPEDO_1_name_desc:0 "§H$FRIGATE_TORPEDO_1$§!\n$FRIGATE_TORPEDO_1_DESC$"
+nsc_modmenu_setting_page_ship_category_component_FRIGATE_TORPEDO_1_enabled_desc:0 "$FRIGATE_TORPEDO_1$: §GHabilitado§!"
+nsc_modmenu_setting_page_ship_category_component_FRIGATE_TORPEDO_1_disabled_desc:0 "$FRIGATE_TORPEDO_1$: §RDesactivado§!"
+
+#BATTLECRUISER_TORPEDO_1
+nsc_modmenu_setting_page_ship_category_component_BATTLECRUISER_TORPEDO_1_name_desc:0 "§H$BATTLECRUISER_TORPEDO_1$§!\n$BATTLECRUISER_TORPEDO_1_DESC$"
+nsc_modmenu_setting_page_ship_category_component_BATTLECRUISER_TORPEDO_1_enabled_desc:0 "$BATTLECRUISER_TORPEDO_1$: §GHabilitado§!"
+nsc_modmenu_setting_page_ship_category_component_BATTLECRUISER_TORPEDO_1_disabled_desc:0 "$BATTLECRUISER_TORPEDO_1$: §RDesactivado§!"
+
+#NSC_PD_MISSILE
+nsc_modmenu_setting_page_ship_category_component_NSC_PD_MISSILE_name_desc:0 "§H$NSC_PD_MISSILE$§!\n$NSC_PD_MISSILE_DESC$"
+nsc_modmenu_setting_page_ship_category_component_NSC_PD_MISSILE_enabled_desc:0 "$NSC_PD_MISSILE$: §GHabilitado§!"
+nsc_modmenu_setting_page_ship_category_component_NSC_PD_MISSILE_disabled_desc:0 "$NSC_PD_MISSILE$: §RDesactivado§!"
+
+#GRAVITON_REACTOR
+nsc_modmenu_setting_page_ship_category_component_GRAVITON_REACTOR_name_desc:0 "§H$GRAVITON_REACTOR$§!\n$GRAVITON_REACTOR_DESC$"
+nsc_modmenu_setting_page_ship_category_component_GRAVITON_REACTOR_enabled_desc:0 "$GRAVITON_REACTOR$: §GHabilitado§!"
+nsc_modmenu_setting_page_ship_category_component_GRAVITON_REACTOR_disabled_desc:0 "$GRAVITON_REACTOR$: §RDesactivado§!"
+
+#NAQUADRIA_REACTOR
+nsc_modmenu_setting_page_ship_category_component_NAQUADRIA_REACTOR_name_desc:0 "§H$NAQUADRIA_REACTOR$§!\n$NAQUADRIA_REACTOR_DESC$"
+nsc_modmenu_setting_page_ship_category_component_NAQUADRIA_REACTOR_enabled_desc:0 "$NAQUADRIA_REACTOR$: §GHabilitado§!"
+nsc_modmenu_setting_page_ship_category_component_NAQUADRIA_REACTOR_disabled_desc:0 "$NAQUADRIA_REACTOR$: §RDesactivado§!"
+
+#SINGULARITY_REACTOR
+nsc_modmenu_setting_page_ship_category_component_SINGULARITY_REACTOR_name_desc:0 "§H$SINGULARITY_REACTOR$§!\n$SINGULARITY_REACTOR_DESC$"
+nsc_modmenu_setting_page_ship_category_component_SINGULARITY_REACTOR_enabled_desc:0 "$SINGULARITY_REACTOR$: §GHabilitado§!"
+nsc_modmenu_setting_page_ship_category_component_SINGULARITY_REACTOR_disabled_desc:0 "$SINGULARITY_REACTOR$: §RDesactivado§!"
+
+#MULTIDIMENSIONAL_REACTOR
+nsc_modmenu_setting_page_ship_category_component_MULTIDIMENSIONAL_REACTOR_name_desc:0 "§H$MULTIDIMENSIONAL_REACTOR$§!\n$MULTIDIMENSIONAL_REACTOR_DESC$"
+nsc_modmenu_setting_page_ship_category_component_MULTIDIMENSIONAL_REACTOR_enabled_desc:0 "$MULTIDIMENSIONAL_REACTOR$: §GHabilitado§!"
+nsc_modmenu_setting_page_ship_category_component_MULTIDIMENSIONAL_REACTOR_disabled_desc:0 "$MULTIDIMENSIONAL_REACTOR$: §RDesactivado§!"
+
+#OPTIMIZED_ENIGMATIC_REACTOR
+nsc_modmenu_setting_page_ship_category_component_OPTIMIZED_ENIGMATIC_REACTOR_name_desc:0 "§H$OPTIMIZED_ENIGMATIC_REACTOR$§!\n$OPTIMIZED_ENIGMATIC_REACTOR_DESC$"
+nsc_modmenu_setting_page_ship_category_component_OPTIMIZED_ENIGMATIC_REACTOR_enabled_desc:0 "$OPTIMIZED_ENIGMATIC_REACTOR$: §GHabilitado§!"
+nsc_modmenu_setting_page_ship_category_component_OPTIMIZED_ENIGMATIC_REACTOR_disabled_desc:0 "$OPTIMIZED_ENIGMATIC_REACTOR$: §RDesactivado§!"
+
+### Custom GUI Category: Starbase Levels ###
+#Common
+nsc_modmenu_setting_page_starbase_category_class_name:0 "$nsc_modmenu_setting_button_category_starbase_name$ $nsc_modmenu_setting_button_starbase_class_name$"
+
+nsc_modmenu_starbase_class_upgrade_cost_down_effect_tooltip:0 "Haz clic para cambiar el Costo de Mejora de todos los Niveles de Estación Estelar por §G-5%§!.\n§YDebido a Límites Técnicos, todos los Niveles de Estación Estelar comparten las mismas Configuraciones de Costo y Velocidad de Mejora.§!\n§YCon la actualización v3.7, la Reducción de Costos de Vanilla está limitada al -90%.§!"
+nsc_modmenu_starbase_class_upgrade_cost_up_effect_tooltip:0 "Haz clic para cambiar el Costo de Mejora de todos los Niveles de Estación Estelar por §R+5%§!.\n§YDebido a Límites Técnicos, todos los Niveles de Estación Estelar comparten las mismas Configuraciones de Costo y Velocidad de Mejora.§!"
+nsc_modmenu_starbase_class_upgrade_speed_down_effect_tooltip:0 "Haz clic para cambiar la Velocidad de Mejora de todos los Niveles de Estación Estelar por §R-5%§!.\n§YDebido a Límites Técnicos, todos los Niveles de Estación Estelar comparten las mismas Configuraciones de Costo y Velocidad de Mejora.§!"
+nsc_modmenu_starbase_class_upgrade_speed_up_effect_tooltip:0 "Haz clic para cambiar la Velocidad de Mejora de todos los Niveles de Estación Estelar por §G+5%§!.\n§YDebido a Límites Técnicos, todos los Niveles de Estación Estelar comparten las mismas Configuraciones de Costo y Velocidad de Mejora.§!"
+
+nsc_modmenu_starbase_class_upgrade_cost_down_trigger_tooltip.fail:0 "$nsc_modmenu_starbase_class_upgrade_cost_down_effect_tooltip$\n£trigger_no£ §RLímite Mínimo Alcanzado§!"
+nsc_modmenu_starbase_class_upgrade_cost_up_trigger_tooltip.fail:0 "$nsc_modmenu_starbase_class_upgrade_cost_up_effect_tooltip$\n£trigger_no£ §RLímite Máximo Alcanzado§!"
+nsc_modmenu_starbase_class_upgrade_speed_down_trigger_tooltip.fail:0 "$nsc_modmenu_starbase_class_upgrade_speed_down_effect_tooltip$\n£trigger_no£ §RLímite Mínimo Alcanzado§!"
+nsc_modmenu_starbase_class_upgrade_speed_up_trigger_tooltip.fail:0 "$nsc_modmenu_starbase_class_upgrade_speed_up_effect_tooltip$\n£trigger_no£ §RLímite Máximo Alcanzado§!"
+
+nsc_modmenu_setting_page_starbase_category_class_common_upgrade_cost_desc_neutral:0 "Costo de Mejora: §Y[This.nsc_modmenu_starbase_class_common_upgrade_cost_var]%§!"
+nsc_modmenu_setting_page_starbase_category_class_common_upgrade_cost_desc_minus:0 "Costo de Mejora: §G[This.nsc_modmenu_starbase_class_common_upgrade_cost_var]%§!"
+nsc_modmenu_setting_page_starbase_category_class_common_upgrade_cost_desc_plus:0 "Costo de Mejora: §R+[This.nsc_modmenu_starbase_class_common_upgrade_cost_var]%§!"
+nsc_modmenu_setting_page_starbase_category_class_common_upgrade_speed_desc_neutral:0 "Velocidad de Mejora: §Y[This.nsc_modmenu_starbase_class_common_upgrade_speed_var]%§!"
+nsc_modmenu_setting_page_starbase_category_class_common_upgrade_speed_desc_minus:0 "Velocidad de Mejora: §R[This.nsc_modmenu_starbase_class_common_upgrade_speed_var]%§!"
+nsc_modmenu_setting_page_starbase_category_class_common_upgrade_speed_desc_plus:0 "Velocidad de Mejora: §G+[This.nsc_modmenu_starbase_class_common_upgrade_speed_var]%§!"
+
+#stronghold
+nsc_modmenu_setting_page_starbase_category_class_stronghold_name_desc:0 "$TECH_UNLOCK_STRONGHOLD_CONSTRUCTION_DESC$"
+nsc_modmenu_setting_page_starbase_category_class_stronghold_enabled_desc:0 "$starbase_stronghold$: §GHabilitado§!"
+nsc_modmenu_setting_page_starbase_category_class_stronghold_disabled_desc:0 "$starbase_stronghold$: §RDesactivado§!"
+
+#headquarters
+nsc_modmenu_setting_page_starbase_category_class_headquarters_name_desc:0 "$TECH_UNLOCK_HEADQUARTERS_CONSTRUCTION_DESC$"
+nsc_modmenu_setting_page_starbase_category_class_headquarters_enabled_desc:0 "$starbase_headquarters$: §GHabilitado§!"
+nsc_modmenu_setting_page_starbase_category_class_headquarters_disabled_desc:0 "$starbase_headquarters$: §RDesactivado§!"
+
+#outpost
+nsc_modmenu_setting_page_starbase_category_class_outpost_name_desc:0 "$TECH_UNLOCK_OUTPOST_CONSTRUCTION_DESC$\n§YEsta configuración cambia los números de TODOS los niveles de estación estelar en el juego, tanto los de vanilla como los añadidos por NSC3.§!"
+nsc_modmenu_setting_page_starbase_category_class_outpost_enabled_desc:0 "$starbase_outpost$: §GHabilitado§!"
+nsc_modmenu_setting_page_starbase_category_class_outpost_disabled_desc:0 "$starbase_outpost$: §RDesactivado§!"
+nsc_modmenu_setting_page_starbase_category_class_outpost_build_cost_desc_neutral:0 "Costo de Construcción: §Y[This.nsc_modmenu_starbase_class_outpost_build_cost_var]%§!"
+nsc_modmenu_setting_page_starbase_category_class_outpost_build_cost_desc_minus:0 "Costo de Construcción: §G[This.nsc_modmenu_starbase_class_outpost_build_cost_var]%§!"
+nsc_modmenu_setting_page_starbase_category_class_outpost_build_cost_desc_plus:0 "Costo de Construcción: §R+[This.nsc_modmenu_starbase_class_outpost_build_cost_var]%§!"
+nsc_modmenu_setting_page_starbase_category_class_outpost_build_speed_desc_neutral:0 "Velocidad de Construcción: §Y[This.nsc_modmenu_starbase_class_outpost_build_speed_var]%§!"
+nsc_modmenu_setting_page_starbase_category_class_outpost_build_speed_desc_minus:0 "Velocidad de Construcción: §R[This.nsc_modmenu_starbase_class_outpost_build_speed_var]%§!"
+nsc_modmenu_setting_page_starbase_category_class_outpost_build_speed_desc_plus:0 "Velocidad de Construcción: §G+[This.nsc_modmenu_starbase_class_outpost_build_speed_var]%§!"
+
+nsc_modmenu_starbase_class_outpost_build_cost_down_effect_tooltip:0 "Haz clic para cambiar el Costo de Construcción de este Nivel de Estación Estelar por §G-5%§!.\n§YCon la actualización v3.7, la Reducción de Costos de Vanilla está limitada al -90%.§!"
+nsc_modmenu_starbase_class_outpost_build_cost_up_effect_tooltip:0 "Haz clic para cambiar el Costo de Construcción de este Nivel de Estación Estelar por §R+5%§!."
+nsc_modmenu_starbase_class_outpost_build_speed_down_effect_tooltip:0 "Haz clic para cambiar la Velocidad de Construcción de este Nivel de Estación Estelar por §R-5%§!."
+nsc_modmenu_starbase_class_outpost_build_speed_up_effect_tooltip:0 "Haz clic para cambiar la Velocidad de Construcción de este Nivel de Estación Estelar por §G+5%§!."
+
+nsc_modmenu_starbase_class_outpost_build_cost_down_trigger_tooltip.fail:0 "$nsc_modmenu_starbase_class_outpost_build_cost_down_effect_tooltip$\n£trigger_no£ §RLímite Mínimo Alcanzado§!"
+nsc_modmenu_starbase_class_outpost_build_cost_up_trigger_tooltip.fail:0 "$nsc_modmenu_starbase_class_outpost_build_cost_up_effect_tooltip$\n£trigger_no£ §RLímite Máximo Alcanzado§!"
+nsc_modmenu_starbase_class_outpost_build_speed_down_trigger_tooltip.fail:0 "$nsc_modmenu_starbase_class_outpost_build_speed_down_effect_tooltip$\n£trigger_no£ §RLímite Mínimo Alcanzado§!"
+nsc_modmenu_starbase_class_outpost_build_speed_up_trigger_tooltip.fail:0 "$nsc_modmenu_starbase_class_outpost_build_speed_up_effect_tooltip$\n£trigger_no£ §RLímite Máximo Alcanzado§!"
+
+### Custom GUI Category: Starbase Modules ###
+#Common
+nsc_modmenu_setting_page_starbase_category_module_name:0 "$nsc_modmenu_setting_button_category_starbase_name$ $nsc_modmenu_setting_button_starbase_module_name$"
+
+#pd_battery
+nsc_modmenu_setting_page_starbase_category_module_pd_battery_name_desc:0 "§H$sm_pd_battery$§!\n$sm_pd_battery_desc$"
+nsc_modmenu_setting_page_starbase_category_module_pd_battery_enabled_desc:0 "$sm_pd_battery$: §GHabilitado§!"
+nsc_modmenu_setting_page_starbase_category_module_pd_battery_disabled_desc:0 "$sm_pd_battery$: §RDesactivado§!"
+
+#large_battery
+nsc_modmenu_setting_page_starbase_category_module_large_battery_name_desc:0 "§H$sm_large_battery$§!\n$sm_large_battery_desc$"
+nsc_modmenu_setting_page_starbase_category_module_large_battery_enabled_desc:0 "$sm_large_battery$: §GHabilitado§!"
+nsc_modmenu_setting_page_starbase_category_module_large_battery_disabled_desc:0 "$sm_large_battery$: §RDesactivado§!"
+
+#xl_battery
+nsc_modmenu_setting_page_starbase_category_module_xl_battery_name_desc:0 "§H$sm_xl_battery$§!\n$sm_xl_battery_desc$"
+nsc_modmenu_setting_page_starbase_category_module_xl_battery_enabled_desc:0 "$sm_xl_battery$: §GHabilitado§!"
+nsc_modmenu_setting_page_starbase_category_module_xl_battery_disabled_desc:0 "$sm_xl_battery$: §RDesactivado§!"
+
+#titanic_battery
+nsc_modmenu_setting_page_starbase_category_module_titanic_battery_name_desc:0 "§H$sm_titanic_battery$§!\n$sm_titanic_battery_desc$"
+nsc_modmenu_setting_page_starbase_category_module_titanic_battery_enabled_desc:0 "$sm_titanic_battery$: §GHabilitado§!"
+nsc_modmenu_setting_page_starbase_category_module_titanic_battery_disabled_desc:0 "$sm_titanic_battery$: §RDesactivado§!"
+
+#shield_module
+nsc_modmenu_setting_page_starbase_category_module_shield_module_name_desc:0 "§H$sm_shield_module$§!\n$sm_shield_module_desc$"
+nsc_modmenu_setting_page_starbase_category_module_shield_module_enabled_desc:0 "$sm_shield_module$: §GHabilitado§!"
+nsc_modmenu_setting_page_starbase_category_module_shield_module_disabled_desc:0 "$sm_shield_module$: §RDesactivado§!"
+
+#armor_module
+nsc_modmenu_setting_page_starbase_category_module_armor_module_name_desc:0 "§H$sm_armor_module$§!\n$sm_armor_module_desc$"
+nsc_modmenu_setting_page_starbase_category_module_armor_module_enabled_desc:0 "$sm_armor_module$: §GHabilitado§!"
+nsc_modmenu_setting_page_starbase_category_module_armor_module_disabled_desc:0 "$sm_armor_module$: §RDesactivado§!"
+
+#asteroid_mining
+nsc_modmenu_setting_page_starbase_category_module_asteroid_mining_name_desc:0 "§H$sm_asteroid_mining$§!\n$sm_asteroid_mining_desc$"
+nsc_modmenu_setting_page_starbase_category_module_asteroid_mining_enabled_desc:0 "$sm_asteroid_mining$: §GHabilitado§!"
+nsc_modmenu_setting_page_starbase_category_module_asteroid_mining_disabled_desc:0 "$sm_asteroid_mining$: §RDesactivado§!"
+
+#space_foundry
+nsc_modmenu_setting_page_starbase_category_module_space_foundry_name_desc:0 "§H$sm_space_foundry$§!\n$sm_space_foundry_desc$"
+nsc_modmenu_setting_page_starbase_category_module_space_foundry_enabled_desc:0 "$sm_space_foundry$: §GHabilitado§!"
+nsc_modmenu_setting_page_starbase_category_module_space_foundry_disabled_desc:0 "$sm_space_foundry$: §RDesactivado§!"
+
+#space_factory
+nsc_modmenu_setting_page_starbase_category_module_space_factory_name_desc:0 "§H$sm_space_factory$§!\n$sm_space_factory_desc$"
+nsc_modmenu_setting_page_starbase_category_module_space_factory_enabled_desc:0 "$sm_space_factory$: §GHabilitado§!"
+nsc_modmenu_setting_page_starbase_category_module_space_factory_disabled_desc:0 "$sm_space_factory$: §RDesactivado§!"
+
+#security_branch_office
+nsc_modmenu_setting_page_starbase_category_module_security_branch_office_name_desc:0 "§H$sm_security_branch_office$§!\n$sm_security_branch_office_desc$"
+nsc_modmenu_setting_page_starbase_category_module_security_branch_office_enabled_desc:0 "$sm_security_branch_office$: §GHabilitado§!"
+nsc_modmenu_setting_page_starbase_category_module_security_branch_office_disabled_desc:0 "$sm_security_branch_office$: §RDesactivado§!"
+
+#solar_panel
+nsc_modmenu_setting_page_starbase_category_module_solar_panel_name_desc:0 "§H$sm_solar_panel$§!\n$sm_solar_panel_desc$"
+nsc_modmenu_setting_page_starbase_category_module_solar_panel_enabled_desc:0 "$sm_solar_panel$: §GHabilitado§!"
+nsc_modmenu_setting_page_starbase_category_module_solar_panel_disabled_desc:0 "$sm_solar_panel$: §RDesactivado§!"
+
+#public_plaza
+nsc_modmenu_setting_page_starbase_category_module_public_plaza_name_desc:0 "§H$sm_public_plaza$§!\n$sm_public_plaza_desc$"
+nsc_modmenu_setting_page_starbase_category_module_public_plaza_enabled_desc:0 "$sm_public_plaza$: §GHabilitado§!"
+nsc_modmenu_setting_page_starbase_category_module_public_plaza_disabled_desc:0 "$sm_public_plaza$: §RDesactivado§!"
+
+#fleet_club
+nsc_modmenu_setting_page_starbase_category_module_fleet_club_name_desc:0 "§H$sm_fleet_club$§!\n$sm_fleet_club_desc$"
+nsc_modmenu_setting_page_starbase_category_module_fleet_club_enabled_desc:0 "$sm_fleet_club$: §GHabilitado§!"
+nsc_modmenu_setting_page_starbase_category_module_fleet_club_disabled_desc:0 "$sm_fleet_club$: §RDesactivado§!"
+
+#storage_room
+nsc_modmenu_setting_page_starbase_category_module_storage_room_name_desc:0 "§H$sm_storage_room$§!\n$sm_storage_room_desc$"
+nsc_modmenu_setting_page_starbase_category_module_storage_room_enabled_desc:0 "$sm_storage_room$: §GHabilitado§!"
+nsc_modmenu_setting_page_starbase_category_module_storage_room_disabled_desc:0 "$sm_storage_room$: §RDesactivado§!"
+
+#nightclub
+nsc_modmenu_setting_page_starbase_category_module_nightclub_name_desc:0 "§H$sm_nightclub$§!\n$sm_nightclub_desc$"
+nsc_modmenu_setting_page_starbase_category_module_nightclub_enabled_desc:0 "$sm_nightclub$: §GHabilitado§!"
+nsc_modmenu_setting_page_starbase_category_module_nightclub_disabled_desc:0 "$sm_nightclub$: §RDesactivado§!"
+
+#public_market
+nsc_modmenu_setting_page_starbase_category_module_public_market_name_desc:0 "§H$sm_public_market$§!\n$sm_public_market_desc$"
+nsc_modmenu_setting_page_starbase_category_module_public_market_enabled_desc:0 "$sm_public_market$: §GHabilitado§!"
+nsc_modmenu_setting_page_starbase_category_module_public_market_disabled_desc:0 "$sm_public_market$: §RDesactivado§!"
+
+### Custom GUI Category: Starbase Buildings ###
+#Common
+nsc_modmenu_setting_page_starbase_category_building_name:0 "$nsc_modmenu_setting_button_category_starbase_name$ $nsc_modmenu_setting_button_starbase_building_name$"
+
+#drydock
+nsc_modmenu_setting_page_starbase_category_building_drydock_name_desc:0 "§H$sm_drydock$§!\n$sm_drydock_desc$"
+nsc_modmenu_setting_page_starbase_category_building_drydock_enabled_desc:0 "$sm_drydock$: §GHabilitado§!"
+nsc_modmenu_setting_page_starbase_category_building_drydock_disabled_desc:0 "$sm_drydock$: §RDesactivado§!"
+
+#sensor_station
+nsc_modmenu_setting_page_starbase_category_building_sensor_station_name_desc:0 "§H$sm_sensor_station$§!\n$sm_sensor_station_desc$"
+nsc_modmenu_setting_page_starbase_category_building_sensor_station_enabled_desc:0 "$sm_sensor_station$: §GHabilitado§!"
+nsc_modmenu_setting_page_starbase_category_building_sensor_station_disabled_desc:0 "$sm_sensor_station$: §RDesactivado§!"
+
+#starbase_management
+nsc_modmenu_setting_page_starbase_category_building_starbase_management_name_desc:0 "§H$sm_starbase_management$§!\n$sm_starbase_management_desc$"
+nsc_modmenu_setting_page_starbase_category_building_starbase_management_enabled_desc:0 "$sm_starbase_management$: §GHabilitado§!"
+nsc_modmenu_setting_page_starbase_category_building_starbase_management_disabled_desc:0 "$sm_starbase_management$: §RDesactivado§!"
+
+#mining_base
+nsc_modmenu_setting_page_starbase_category_building_mining_base_name_desc:0 "§H$sm_mining_base$§!\n$sm_mining_base_desc$"
+nsc_modmenu_setting_page_starbase_category_building_mining_base_enabled_desc:0 "$sm_mining_base$: §GHabilitado§!"
+nsc_modmenu_setting_page_starbase_category_building_mining_base_disabled_desc:0 "$sm_mining_base$: §RDesactivado§!"
+
+#power_station
+nsc_modmenu_setting_page_starbase_category_building_power_station_name_desc:0 "§H$sm_power_station$§!\n$sm_power_station_desc$"
+nsc_modmenu_setting_page_starbase_category_building_power_station_enabled_desc:0 "$sm_power_station$: §GHabilitado§!"
+nsc_modmenu_setting_page_starbase_category_building_power_station_disabled_desc:0 "$sm_power_station$: §RDesactivado§!"
+
+#farming_base
+nsc_modmenu_setting_page_starbase_category_building_farming_base_name_desc:0 "§H$sm_farming_base$§!\n$sm_farming_base_desc$"
+nsc_modmenu_setting_page_starbase_category_building_farming_base_enabled_desc:0 "$sm_farming_base$: §GHabilitado§!"
+nsc_modmenu_setting_page_starbase_category_building_farming_base_disabled_desc:0 "$sm_farming_base$: §RDesactivado§!"
+
+#customs_office
+nsc_modmenu_setting_page_starbase_category_building_customs_office_name_desc:0 "§H$sm_customs_office$§!\n$sm_customs_office_desc$"
+nsc_modmenu_setting_page_starbase_category_building_customs_office_enabled_desc:0 "$sm_customs_office$: §GHabilitado§!"
+nsc_modmenu_setting_page_starbase_category_building_customs_office_disabled_desc:0 "$sm_customs_office$: §RDesactivado§!"
+
+#nsc_nanite_field
+nsc_modmenu_setting_page_starbase_category_building_nsc_nanite_field_name_desc:0 "§H$sm_nsc_nanite_field$§!\n$sm_nsc_nanite_field_desc$"
+nsc_modmenu_setting_page_starbase_category_building_nsc_nanite_field_enabled_desc:0 "$sm_nsc_nanite_field$: §GHabilitado§!"
+nsc_modmenu_setting_page_starbase_category_building_nsc_nanite_field_disabled_desc:0 "$sm_nsc_nanite_field$: §RDesactivado§!"
+
+#solar_capacitor
+nsc_modmenu_setting_page_starbase_category_building_solar_capacitor_name_desc:0 "§H$sm_solar_capacitor$§!\n$sm_solar_capacitor_desc$"
+nsc_modmenu_setting_page_starbase_category_building_solar_capacitor_enabled_desc:0 "$sm_solar_capacitor$: §GHabilitado§!"
+nsc_modmenu_setting_page_starbase_category_building_solar_capacitor_disabled_desc:0 "$sm_solar_capacitor$: §RDesactivado§!"
+
+#artifact_silo
+nsc_modmenu_setting_page_starbase_category_building_artifact_silo_name_desc:0 "§H$sm_artifact_silo$§!\n$sm_artifact_silo_desc$"
+nsc_modmenu_setting_page_starbase_category_building_artifact_silo_enabled_desc:0 "$sm_artifact_silo$: §GHabilitado§!"
+nsc_modmenu_setting_page_starbase_category_building_artifact_silo_disabled_desc:0 "$sm_artifact_silo$: §RDesactivado§!"
+
+#construction_office
+nsc_modmenu_setting_page_starbase_category_building_construction_office_name_desc:0 "§H$sm_construction_office$§!\n$sm_construction_office_desc$"
+nsc_modmenu_setting_page_starbase_category_building_construction_office_enabled_desc:0 "$sm_construction_office$: §GHabilitado§!"
+nsc_modmenu_setting_page_starbase_category_building_construction_office_disabled_desc:0 "$sm_construction_office$: §RDesactivado§!"
+
+#mining_manager
+nsc_modmenu_setting_page_starbase_category_building_mining_manager_name_desc:0 "§H$sm_mining_manager$§!\n$sm_mining_manager_desc$"
+nsc_modmenu_setting_page_starbase_category_building_mining_manager_enabled_desc:0 "$sm_mining_manager$: §GHabilitado§!"
+nsc_modmenu_setting_page_starbase_category_building_mining_manager_disabled_desc:0 "$sm_mining_manager$: §RDesactivado§!"
+
+#reinforced_defenses
+nsc_modmenu_setting_page_starbase_category_building_reinforced_defenses_name_desc:0 "§H$sm_reinforced_defenses$§!\n$sm_reinforced_defenses_desc$"
+nsc_modmenu_setting_page_starbase_category_building_reinforced_defenses_enabled_desc:0 "$sm_reinforced_defenses$: §GHabilitado§!"
+nsc_modmenu_setting_page_starbase_category_building_reinforced_defenses_disabled_desc:0 "$sm_reinforced_defenses$: §RDesactivado§!"
+
+#strategic_defenses
+nsc_modmenu_setting_page_starbase_category_building_strategic_defenses_name_desc:0 "§H$sm_strategic_defenses$§!\n$sm_strategic_defenses_desc$"
+nsc_modmenu_setting_page_starbase_category_building_strategic_defenses_enabled_desc:0 "$sm_strategic_defenses$: §GHabilitado§!"
+nsc_modmenu_setting_page_starbase_category_building_strategic_defenses_disabled_desc:0 "$sm_strategic_defenses$: §RDesactivado§!"
+
+#adv_starbase_defenses
+nsc_modmenu_setting_page_starbase_category_building_adv_starbase_defenses_name_desc:0 "§H$sm_adv_starbase_defenses$§!\n$sm_adv_starbase_defenses_desc$"
+nsc_modmenu_setting_page_starbase_category_building_adv_starbase_defenses_enabled_desc:0 "$sm_adv_starbase_defenses$: §GHabilitado§!"
+nsc_modmenu_setting_page_starbase_category_building_adv_starbase_defenses_disabled_desc:0 "$sm_adv_starbase_defenses$: §RDesactivado§!"
+
+#repair_module
+nsc_modmenu_setting_page_starbase_category_building_repair_module_name_desc:0 "§H$sm_repair_module$§!\n$sm_repair_module_desc$"
+nsc_modmenu_setting_page_starbase_category_building_repair_module_enabled_desc:0 "$sm_repair_module$: §GHabilitado§!"
+nsc_modmenu_setting_page_starbase_category_building_repair_module_disabled_desc:0 "$sm_repair_module$: §RDesactivado§!"
+
+#ground_forces_academy
+nsc_modmenu_setting_page_starbase_category_building_ground_forces_academy_name_desc:0 "§H$sm_ground_forces_academy$§!\n$sm_ground_forces_academy_desc$"
+nsc_modmenu_setting_page_starbase_category_building_ground_forces_academy_enabled_desc:0 "$sm_ground_forces_academy$: §GHabilitado§!"
+nsc_modmenu_setting_page_starbase_category_building_ground_forces_academy_disabled_desc:0 "$sm_ground_forces_academy$: §RDesactivado§!"
+
+#synthetic_crystal_fabricator
+nsc_modmenu_setting_page_starbase_category_building_synthetic_crystal_fabricator_name_desc:0 "§H$sm_synthetic_crystal_fabricator$§!\n$sm_synthetic_crystal_fabricator_desc$"
+nsc_modmenu_setting_page_starbase_category_building_synthetic_crystal_fabricator_enabled_desc:0 "$sm_synthetic_crystal_fabricator$: §GHabilitado§!"
+nsc_modmenu_setting_page_starbase_category_building_synthetic_crystal_fabricator_disabled_desc:0 "$sm_synthetic_crystal_fabricator$: §RDesactivado§!"
+
+#synthetic_volatile_motes_fabricator
+nsc_modmenu_setting_page_starbase_category_building_synthetic_volatile_motes_fabricator_name_desc:0 "§H$sm_synthetic_volatile_motes_fabricator$§!\n$sm_synthetic_volatile_motes_fabricator_desc$"
+nsc_modmenu_setting_page_starbase_category_building_synthetic_volatile_motes_fabricator_enabled_desc:0 "$sm_synthetic_volatile_motes_fabricator$: §GHabilitado§!"
+nsc_modmenu_setting_page_starbase_category_building_synthetic_volatile_motes_fabricator_disabled_desc:0 "$sm_synthetic_volatile_motes_fabricator$: §RDesactivado§!"
+
+#synthetic_gase_fabricator
+nsc_modmenu_setting_page_starbase_category_building_synthetic_gase_fabricator_name_desc:0 "§H$sm_synthetic_gase_fabricator$§!\n$sm_synthetic_gase_fabricator_desc$"
+nsc_modmenu_setting_page_starbase_category_building_synthetic_gase_fabricator_enabled_desc:0 "$sm_synthetic_gase_fabricator$: §GHabilitado§!"
+nsc_modmenu_setting_page_starbase_category_building_synthetic_gase_fabricator_disabled_desc:0 "$sm_synthetic_gase_fabricator$: §RDesactivado§!"
+
+#robot_assembly
+nsc_modmenu_setting_page_starbase_category_building_robot_assembly_name_desc:0 "§H$sm_robot_assembly$§!\n$sm_robot_assembly_desc$"
+nsc_modmenu_setting_page_starbase_category_building_robot_assembly_enabled_desc:0 "$sm_robot_assembly$: §GHabilitado§!"
+nsc_modmenu_setting_page_starbase_category_building_robot_assembly_disabled_desc:0 "$sm_robot_assembly$: §RDesactivado§!"
+
+#assembly_line_manufacturing
+nsc_modmenu_setting_page_starbase_category_building_assembly_line_manufacturing_name_desc:0 "§H$sm_assembly_line_manufacturing$§!\n$sm_assembly_line_manufacturing_desc$"
+nsc_modmenu_setting_page_starbase_category_building_assembly_line_manufacturing_enabled_desc:0 "$sm_assembly_line_manufacturing$: §GHabilitado§!"
+nsc_modmenu_setting_page_starbase_category_building_assembly_line_manufacturing_disabled_desc:0 "$sm_assembly_line_manufacturing$: §RDesactivado§!"
+
+#federal_reserve_bank
+nsc_modmenu_setting_page_starbase_category_building_federal_reserve_bank_name_desc:0 "§H$sm_federal_reserve_bank$§!\n$sm_federal_reserve_bank_desc$"
+nsc_modmenu_setting_page_starbase_category_building_federal_reserve_bank_enabled_desc:0 "$sm_federal_reserve_bank$: §GHabilitado§!"
+nsc_modmenu_setting_page_starbase_category_building_federal_reserve_bank_disabled_desc:0 "$sm_federal_reserve_bank$: §RDesactivado§!"
+
+#cloning_facilities
+nsc_modmenu_setting_page_starbase_category_building_cloning_facilities_name_desc:0 "§H$sm_cloning_facilities$§!\n$sm_cloning_facilities_desc$"
+nsc_modmenu_setting_page_starbase_category_building_cloning_facilities_enabled_desc:0 "$sm_cloning_facilities$: §GHabilitado§!"
+nsc_modmenu_setting_page_starbase_category_building_cloning_facilities_disabled_desc:0 "$sm_cloning_facilities$: §RDesactivado§!"
+
+#navcom_ai
+nsc_modmenu_setting_page_starbase_category_building_navcom_ai_name_desc:0 "§H$sm_navcom_ai$§!\n$sm_navcom_ai_desc$"
+nsc_modmenu_setting_page_starbase_category_building_navcom_ai_enabled_desc:0 "$sm_navcom_ai$: §GHabilitado§!"
+nsc_modmenu_setting_page_starbase_category_building_navcom_ai_disabled_desc:0 "$sm_navcom_ai$: §RDesactivado§!"
+
+#starbase_ai
+nsc_modmenu_setting_page_starbase_category_building_starbase_ai_name_desc:0 "§H$sm_starbase_ai$§!\n$sm_starbase_ai_desc$"
+nsc_modmenu_setting_page_starbase_category_building_starbase_ai_enabled_desc:0 "$sm_starbase_ai$: §GHabilitado§!"
+nsc_modmenu_setting_page_starbase_category_building_starbase_ai_disabled_desc:0 "$sm_starbase_ai$: §RDesactivado§!"
+
+#real_estate_dev
+nsc_modmenu_setting_page_starbase_category_building_real_estate_dev_name_desc:0 "§H$sm_real_estate_dev$§!\n$sm_real_estate_dev_desc$"
+nsc_modmenu_setting_page_starbase_category_building_real_estate_dev_enabled_desc:0 "$sm_real_estate_dev$: §GHabilitado§!"
+nsc_modmenu_setting_page_starbase_category_building_real_estate_dev_disabled_desc:0 "$sm_real_estate_dev$: §RDesactivado§!"
+
+#tv_network
+nsc_modmenu_setting_page_starbase_category_building_tv_network_name_desc:0 "§H$sm_tv_network$§!\n$sm_tv_network_desc$"
+nsc_modmenu_setting_page_starbase_category_building_tv_network_enabled_desc:0 "$sm_tv_network$: §GHabilitado§!"
+nsc_modmenu_setting_page_starbase_category_building_tv_network_disabled_desc:0 "$sm_tv_network$: §RDesactivado§!"
+
+#tv_studio
+nsc_modmenu_setting_page_starbase_category_building_tv_studio_name_desc:0 "§H$sm_tv_studio$§!\n$sm_tv_studio_desc$"
+nsc_modmenu_setting_page_starbase_category_building_tv_studio_enabled_desc:0 "$sm_tv_studio$: §GHabilitado§!"
+nsc_modmenu_setting_page_starbase_category_building_tv_studio_disabled_desc:0 "$sm_tv_studio$: §RDesactivado§!"
+
+### Custom GUI Category: ETC Features ###
+#Common
+nsc_modmenu_setting_page_etc_category_feature_name:0 "$nsc_modmenu_setting_button_category_etc_name$ $nsc_modmenu_setting_button_etc_feature_name$"
+
+nsc_modmenu_megastructure_build_cost_down_effect_tooltip:0 "Haz clic para cambiar el Costo de Construcción de esta Megaestructura por §G-5%§!."
+nsc_modmenu_megastructure_build_cost_up_effect_tooltip:0 "Haz clic para cambiar el Costo de Construcción de esta Megaestructura por §R+5%§!."
+nsc_modmenu_megastructure_resource_produce_down_effect_tooltip:0 "Haz clic para cambiar la Producción de Recursos de esta Megaestructura por §R-5%§!."
+nsc_modmenu_megastructure_resource_produce_up_effect_tooltip:0 "Haz clic para cambiar la Producción de Recursos de esta Megaestructura por §G+5%§!."
+nsc_modmenu_megastructure_resource_upkeep_down_effect_tooltip:0 "Haz clic para cambiar el Mantenimiento de Recursos de esta Megaestructura por §G-5%§!."
+nsc_modmenu_megastructure_resource_upkeep_up_effect_tooltip:0 "Haz clic para cambiar el Mantenimiento de Recursos de esta Megaestructura por §R+5%§!."
+
+nsc_modmenu_megastructure_build_cost_down_trigger_tooltip.fail:0 "$nsc_modmenu_megastructure_build_cost_down_effect_tooltip$\n£trigger_no£ §RLímite Mínimo Alcanzado§!"
+nsc_modmenu_megastructure_build_cost_up_trigger_tooltip.fail:0 "$nsc_modmenu_megastructure_build_cost_up_effect_tooltip$\n£trigger_no£ §RLímite Máximo Alcanzado§!"
+nsc_modmenu_megastructure_resource_produce_down_trigger_tooltip.fail:0 "$nsc_modmenu_megastructure_resource_produce_down_effect_tooltip$\n£trigger_no£ §RLímite Mínimo Alcanzado§!"
+nsc_modmenu_megastructure_resource_produce_up_trigger_tooltip.fail:0 "$nsc_modmenu_megastructure_resource_produce_up_effect_tooltip$\n£trigger_no£ §RLímite Máximo Alcanzado§!"
+nsc_modmenu_megastructure_resource_upkeep_down_trigger_tooltip.fail:0 "$nsc_modmenu_megastructure_resource_upkeep_down_effect_tooltip$\n£trigger_no£ §RLímite Mínimo Alcanzado§!"
+nsc_modmenu_megastructure_resource_upkeep_up_trigger_tooltip.fail:0 "$nsc_modmenu_megastructure_resource_upkeep_up_effect_tooltip$\n£trigger_no£ §RLímite Máximo Alcanzado§!"
+
+#mothball
+nsc_modmenu_setting_page_etc_category_feature_mothball_name_desc:0 "§H$decision_nsc_mothball_menu$§!\n$decision_nsc_mothball_menu_desc$"
+nsc_modmenu_setting_page_etc_category_feature_mothball_enabled_desc:0 "$decision_nsc_mothball_menu$: §GHabilitado§!"
+nsc_modmenu_setting_page_etc_category_feature_mothball_disabled_desc:0 "$decision_nsc_mothball_menu$: §RDesactivado§!"
+nsc_modmenu_setting_page_etc_category_feature_mothball_fleet_resource_upkeep_desc_neutral:0 "Mantenimiento de Recursos de la Flota: §Y[This.nsc_modmenu_etc_feature_mothball_fleet_resource_upkeep_var]%§!"
+nsc_modmenu_setting_page_etc_category_feature_mothball_fleet_resource_upkeep_desc_minus:0 "Mantenimiento de Recursos de la Flota: §G[This.nsc_modmenu_etc_feature_mothball_fleet_resource_upkeep_var]%§!"
+nsc_modmenu_setting_page_etc_category_feature_mothball_fleet_naval_capacity_upkeep_desc_neutral:0 "Uso de Capacidad Naval de la Flota: §Y[This.nsc_modmenu_etc_feature_mothball_fleet_naval_capacity_upkeep_var]%§!"
+nsc_modmenu_setting_page_etc_category_feature_mothball_fleet_naval_capacity_upkeep_desc_minus:0 "Uso de Capacidad Naval de la Flota: §G[This.nsc_modmenu_etc_feature_mothball_fleet_naval_capacity_upkeep_var]%§!"
+nsc_modmenu_setting_page_etc_category_feature_mothball_fleet_per_planet_desc_neutral:0 "Capacidad de Inactivación por Colonia: §Y[nsc_modmenu_data_storage.nsc_modmenu_etc_feature_mothball_fleet_per_planet_var]§!"
+nsc_modmenu_setting_page_etc_category_feature_mothball_fleet_restore_cost_desc_neutral:0 "Costo de Restauración de la Flota: §Y[nsc_modmenu_data_storage.nsc_modmenu_etc_feature_mothball_fleet_restore_cost_var]%§!"
+nsc_modmenu_setting_page_etc_category_feature_mothball_fleet_restore_time_desc_neutral:0 "Tiempo de Restauración de la Flota: §Y[nsc_modmenu_data_storage.nsc_modmenu_etc_feature_mothball_fleet_restore_time_var]%§!"
+
+nsc_modmenu_mothball_fleet_resource_upkeep_down_effect_tooltip:0 "Haz clic para cambiar el Mantenimiento de las Flotas Inactivas por §G-5%§!.\n§YCon la actualización v3.7, la reducción de costos de Vanilla está limitada al -90%.§!"
+nsc_modmenu_mothball_fleet_resource_upkeep_up_effect_tooltip:0 "Haz clic para cambiar el Mantenimiento de las Flotas Inactivas por §R+5%§!."
+nsc_modmenu_mothball_fleet_naval_capacity_upkeep_down_effect_tooltip:0 "Haz clic para cambiar el Uso de Capacidad Naval de las Flotas Inactivas por §G-5%§!."
+nsc_modmenu_mothball_fleet_naval_capacity_upkeep_up_effect_tooltip:0 "Haz clic para cambiar el Uso de Capacidad Naval de las Flotas Inactivas por §R+5%§!."
+nsc_modmenu_mothball_fleet_per_planet_down_effect_tooltip:0 "Haz clic para cambiar el Número de Flotas Inactivas que una Colonia puede contener por §R-1§!."
+nsc_modmenu_mothball_fleet_per_planet_up_effect_tooltip:0 "Haz clic para cambiar el Número de Flotas Inactivas que una Colonia puede contener por §G+1§!."
+nsc_modmenu_mothball_fleet_restore_cost_down_effect_tooltip:0 "Haz clic para cambiar el Costo de Restauración de las Flotas Inactivas por §G-5%§!.\n§YEl Costo de Restauración Actual = (Los Puntos de Casco Totales de las Naves en la Flota) X (Valor Porcentual del Costo de Restauración de la Flota establecido en el Menú Mod)§!"
+nsc_modmenu_mothball_fleet_restore_cost_up_effect_tooltip:0 "Haz clic para cambiar el Costo de Restauración de las Flotas Inactivas por §R+5%§!.\n§YEl Costo de Restauración Actual = (Los Puntos de Casco Totales de las Naves en la Flota) X (Valor Porcentual del Costo de Restauración de la Flota establecido en el Menú Mod)§!"
+nsc_modmenu_mothball_fleet_restore_time_down_effect_tooltip:0 "Haz clic para cambiar el Tiempo de Restauración de las Flotas Inactivas por §G-5%§!.\n§YEl Tiempo de Restauración Actual = (El Número Total de Naves en la Flota) X 30 X (Valor Porcentual del Tiempo de Restauración de la Flota establecido en el Menú Mod)§!"
+nsc_modmenu_mothball_fleet_restore_time_up_effect_tooltip:0 "Haz clic para cambiar el Tiempo de Restauración de las Flotas Inactivas por §R+5%§!.\n§YEl Tiempo de Restauración Actual = (El Número Total de Naves en la Flota) X 30 X (Valor Porcentual del Tiempo de Restauración de la Flota establecido en el Menú Mod)§!"
+
+nsc_modmenu_mothball_fleet_resource_upkeep_down_trigger_tooltip.fail:0 "$nsc_modmenu_mothball_fleet_resource_upkeep_down_effect_tooltip$\n£trigger_no£ §RLímite Mínimo Alcanzado§!"
+nsc_modmenu_mothball_fleet_resource_upkeep_up_trigger_tooltip.fail:0 "$nsc_modmenu_mothball_fleet_resource_upkeep_up_effect_tooltip$\n£trigger_no£ §RLímite Máximo Alcanzado§!"
+nsc_modmenu_mothball_fleet_naval_capacity_upkeep_down_trigger_tooltip.fail:0 "$nsc_modmenu_mothball_fleet_naval_capacity_upkeep_down_effect_tooltip$\n£trigger_no£ §RLímite Mínimo Alcanzado§!"
+nsc_modmenu_mothball_fleet_naval_capacity_upkeep_up_trigger_tooltip.fail:0 "$nsc_modmenu_mothball_fleet_naval_capacity_upkeep_up_effect_tooltip$\n£trigger_no£ §RLímite Máximo Alcanzado§!"
+nsc_modmenu_mothball_fleet_per_planet_down_trigger_tooltip.fail:0 "$nsc_modmenu_mothball_fleet_per_planet_down_effect_tooltip$\n£trigger_no£ §RLímite Mínimo Alcanzado§!"
+nsc_modmenu_mothball_fleet_per_planet_up_trigger_tooltip.fail:0 "$nsc_modmenu_mothball_fleet_per_planet_up_effect_tooltip$\n£trigger_no£ §RLímite Máximo Alcanzado§!"
+nsc_modmenu_mothball_fleet_restore_cost_down_trigger_tooltip.fail:0 "$nsc_modmenu_mothball_fleet_restore_cost_down_effect_tooltip$\n£trigger_no£ §RLímite Mínimo Alcanzado§!"
+nsc_modmenu_mothball_fleet_restore_cost_up_trigger_tooltip.fail:0 "$nsc_modmenu_mothball_fleet_restore_cost_up_effect_tooltip$\n£trigger_no£ §RLímite Máximo Alcanzado§!"
+nsc_modmenu_mothball_fleet_restore_time_down_trigger_tooltip.fail:0 "$nsc_modmenu_mothball_fleet_restore_time_down_effect_tooltip$\n£trigger_no£ §RLímite Mínimo Alcanzado§!"
+nsc_modmenu_mothball_fleet_restore_time_up_trigger_tooltip.fail:0 "$nsc_modmenu_mothball_fleet_restore_time_up_effect_tooltip$\n£trigger_no£ §RLímite Máximo Alcanzado§!"
+
+#hyperlane_generation
+nsc_modmenu_setting_page_etc_category_feature_hyperlane_generation_name_desc:0 "$TECH_UNLOCK_HYPERLANE_GENERATION_DESC$"
+nsc_modmenu_setting_page_etc_category_feature_hyperlane_generation_enabled_desc:0 "$tech_hyperlane_generation$: §GHabilitado§!"
+nsc_modmenu_setting_page_etc_category_feature_hyperlane_generation_disabled_desc:0 "$tech_hyperlane_generation$: §RDesactivado§!"
+nsc_modmenu_setting_page_etc_category_feature_hyperlane_generation_build_cost_desc_neutral:0 "Costo de Construcción de la Megaestructura: §Y[This.nsc_modmenu_etc_feature_hyperlane_generation_build_cost_var]%§!"
+nsc_modmenu_setting_page_etc_category_feature_hyperlane_generation_build_cost_desc_minus:0 "Costo de Construcción de la Megaestructura: §G[This.nsc_modmenu_etc_feature_hyperlane_generation_build_cost_var]%§!"
+nsc_modmenu_setting_page_etc_category_feature_hyperlane_generation_build_cost_desc_plus:0 "Costo de Construcción de la Megaestructura: §R+[This.nsc_modmenu_etc_feature_hyperlane_generation_build_cost_var]%§!"
+
+#matterenergy
+nsc_modmenu_setting_page_etc_category_feature_matterenergy_name_desc:0 "§H$ap_nsc_matterenergy$§!\n$ap_nsc_matterenergy_desc$"
+nsc_modmenu_setting_page_etc_category_feature_matterenergy_enabled_desc:0 "$ap_nsc_matterenergy$: §GHabilitado§!"
+nsc_modmenu_setting_page_etc_category_feature_matterenergy_disabled_desc:0 "$ap_nsc_matterenergy$: §RDesactivado§!"
+nsc_modmenu_setting_page_etc_category_feature_matterenergy_build_cost_desc_neutral:0 "Costo de Construcción de la Megaestructura: §Y[This.nsc_modmenu_etc_feature_matterenergy_build_cost_var]%§!"
+nsc_modmenu_setting_page_etc_category_feature_matterenergy_build_cost_desc_minus:0 "Costo de Construcción de la Megaestructura: §G[This.nsc_modmenu_etc_feature_matterenergy_build_cost_var]%§!"
+nsc_modmenu_setting_page_etc_category_feature_matterenergy_build_cost_desc_plus:0 "Costo de Construcción de la Megaestructura: §R+[This.nsc_modmenu_etc_feature_matterenergy_build_cost_var]%§!"
+nsc_modmenu_setting_page_etc_category_feature_matterenergy_resource_produce_desc_neutral:0 "Producción de la Megaestructura: §Y[This.nsc_modmenu_etc_feature_matterenergy_resource_produce_var]%§!"
+nsc_modmenu_setting_page_etc_category_feature_matterenergy_resource_produce_desc_minus:0 "Producción de la Megaestructura: §R[This.nsc_modmenu_etc_feature_matterenergy_resource_produce_var]%§!"
+nsc_modmenu_setting_page_etc_category_feature_matterenergy_resource_produce_desc_plus:0 "Producción de la Megaestructura: §G+[This.nsc_modmenu_etc_feature_matterenergy_resource_produce_var]%§!"
+nsc_modmenu_setting_page_etc_category_feature_matterenergy_resource_upkeep_desc_neutral:0 "Mantenimiento de la Megaestructura: §Y[This.nsc_modmenu_etc_feature_matterenergy_resource_upkeep_var]%§!"
+nsc_modmenu_setting_page_etc_category_feature_matterenergy_resource_upkeep_desc_minus:0 "Mantenimiento de la Megaestructura: §G[This.nsc_modmenu_etc_feature_matterenergy_resource_upkeep_var]%§!"
+nsc_modmenu_setting_page_etc_category_feature_matterenergy_resource_upkeep_desc_plus:0 "Mantenimiento de la Megaestructura: §R+[This.nsc_modmenu_etc_feature_matterenergy_resource_upkeep_var]%§!"
+
+#galactic_mall
+nsc_modmenu_setting_page_etc_category_feature_galactic_mall_name_desc:0 "§H$TECH_UNLOCK_GALACTIC_MALL_TITLE$§!\n$TECH_UNLOCK_GALACTIC_MALL_DESC$"
+nsc_modmenu_setting_page_etc_category_feature_galactic_mall_enabled_desc:0 "$tech_galactic_mall$: §GHabilitado§!"
+nsc_modmenu_setting_page_etc_category_feature_galactic_mall_disabled_desc:0 "$tech_galactic_mall$: §RDesactivado§!"
+nsc_modmenu_setting_page_etc_category_feature_galactic_mall_build_cost_desc_neutral:0 "Costo de Construcción de la Megaestructura: §Y[This.nsc_modmenu_etc_feature_galactic_mall_build_cost_var]%§!"
+nsc_modmenu_setting_page_etc_category_feature_galactic_mall_build_cost_desc_minus:0 "Costo de Construcción de la Megaestructura: §G[This.nsc_modmenu_etc_feature_galactic_mall_build_cost_var]%§!"
+nsc_modmenu_setting_page_etc_category_feature_galactic_mall_build_cost_desc_plus:0 "Costo de Construcción de la Megaestructura: §R+[This.nsc_modmenu_etc_feature_galactic_mall_build_cost_var]%§!"
+nsc_modmenu_setting_page_etc_category_feature_galactic_mall_resource_produce_desc_neutral:0 "Producción de la Megaestructura: §Y[This.nsc_modmenu_etc_feature_galactic_mall_resource_produce_var]%§!"
+nsc_modmenu_setting_page_etc_category_feature_galactic_mall_resource_produce_desc_minus:0 "Producción de la Megaestructura: §R[This.nsc_modmenu_etc_feature_galactic_mall_resource_produce_var]%§!"
+nsc_modmenu_setting_page_etc_category_feature_galactic_mall_resource_produce_desc_plus:0 "Producción de la Megaestructura: §G+[This.nsc_modmenu_etc_feature_galactic_mall_resource_produce_var]%§!"
+nsc_modmenu_setting_page_etc_category_feature_galactic_mall_resource_upkeep_desc_neutral:0 "Mantenimiento de la Megaestructura: §Y[This.nsc_modmenu_etc_feature_galactic_mall_resource_upkeep_var]%§!"
+nsc_modmenu_setting_page_etc_category_feature_galactic_mall_resource_upkeep_desc_minus:0 "Mantenimiento de la Megaestructura: §G[This.nsc_modmenu_etc_feature_galactic_mall_resource_upkeep_var]%§!"
+nsc_modmenu_setting_page_etc_category_feature_galactic_mall_resource_upkeep_desc_plus:0 "Mantenimiento de la Megaestructura: §R+[This.nsc_modmenu_etc_feature_galactic_mall_resource_upkeep_var]%§!"
+
+#hospital
+nsc_modmenu_setting_page_etc_category_feature_hospital_name_desc:0 "§H$TECH_UNLOCK_HOPSITAL_TITLE$§!\n$TECH_UNLOCK_HOSPITAL_DESC$"
+nsc_modmenu_setting_page_etc_category_feature_hospital_enabled_desc:0 "$tech_hospital$: §GHabilitado§!"
+nsc_modmenu_setting_page_etc_category_feature_hospital_disabled_desc:0 "$tech_hospital$: §RDesactivado§!"
+nsc_modmenu_setting_page_etc_category_feature_hospital_build_cost_desc_neutral:0 "Costo de Construcción de la Megaestructura: §Y[This.nsc_modmenu_etc_feature_hospital_build_cost_var]%§!"
+nsc_modmenu_setting_page_etc_category_feature_hospital_build_cost_desc_minus:0 "Costo de Construcción de la Megaestructura: §G[This.nsc_modmenu_etc_feature_hospital_build_cost_var]%§!"
+nsc_modmenu_setting_page_etc_category_feature_hospital_build_cost_desc_plus:0 "Costo de Construcción de la Megaestructura: §R+[This.nsc_modmenu_etc_feature_hospital_build_cost_var]%§!"
+nsc_modmenu_setting_page_etc_category_feature_hospital_resource_produce_desc_neutral:0 "Producción de la Megaestructura: §Y[This.nsc_modmenu_etc_feature_hospital_resource_produce_var]%§!"
+nsc_modmenu_setting_page_etc_category_feature_hospital_resource_produce_desc_minus:0 "Producción de la Megaestructura: §R[This.nsc_modmenu_etc_feature_hospital_resource_produce_var]%§!"
+nsc_modmenu_setting_page_etc_category_feature_hospital_resource_produce_desc_plus:0 "Producción de la Megaestructura: §G+[This.nsc_modmenu_etc_feature_hospital_resource_produce_var]%§!"
+nsc_modmenu_setting_page_etc_category_feature_hospital_resource_upkeep_desc_neutral:0 "Mantenimiento de la Megaestructura: §Y[This.nsc_modmenu_etc_feature_hospital_resource_upkeep_var]%§!"
+nsc_modmenu_setting_page_etc_category_feature_hospital_resource_upkeep_desc_minus:0 "Mantenimiento de la Megaestructura: §G[This.nsc_modmenu_etc_feature_hospital_resource_upkeep_var]%§!"
+nsc_modmenu_setting_page_etc_category_feature_hospital_resource_upkeep_desc_plus:0 "Mantenimiento de la Megaestructura: §R+[This.nsc_modmenu_etc_feature_hospital_resource_upkeep_var]%§!"
+
+### Custom GUI Category: ETC AI Difficulities ###
+#Common
+nsc_modmenu_setting_page_etc_category_ai_difficulty_name:0 "$nsc_modmenu_setting_button_category_etc_name$ $nsc_modmenu_setting_button_etc_ai_difficulty_name$"
+
+#Presets
+nsc_modmenu_setting_page_etc_category_ai_difficulty_preset_name:0 "Preajustes de Dificultad de IA"
+
+nsc_modmenu_setting_page_etc_category_ai_difficulty_preset_none_name:0 "Ninguno"
+nsc_modmenu_setting_page_etc_category_ai_difficulty_preset_very_easy_name:0 "Muy Fácil"
+nsc_modmenu_setting_page_etc_category_ai_difficulty_preset_easy_name:0 "Fácil"
+nsc_modmenu_setting_page_etc_category_ai_difficulty_preset_normal_name:0 "Normal"
+nsc_modmenu_setting_page_etc_category_ai_difficulty_preset_hard_name:0 "Difícil"
+nsc_modmenu_setting_page_etc_category_ai_difficulty_preset_very_hard_name:0 "Muy Difícil"
+nsc_modmenu_setting_page_etc_category_ai_difficulty_preset_custom_name:0 "Personalizado"
+
+nsc_modmenu_setting_page_etc_category_ai_difficulty_preset_none_effect_tooltip:0 "§YEstablecer los Bonos de IA de la siguiente manera:§!\n$mod_country_produces_mult$: §Y0%§!\n$MOD_COUNTRY_ALL_TECH_RESEARCH_SPEED$: §Y0%§!\n$MOD_SHIP_WEAPON_DAMAGE$: §Y0%§!"
+nsc_modmenu_setting_page_etc_category_ai_difficulty_preset_very_easy_effect_tooltip:0 "§YEstablecer los Bonos de IA de la siguiente manera:§!\n$mod_country_produces_mult$: §G+20%§!\n$MOD_COUNTRY_ALL_TECH_RESEARCH_SPEED$: §G+20%§!\n$MOD_SHIP_WEAPON_DAMAGE$: §G+20%§!"
+nsc_modmenu_setting_page_etc_category_ai_difficulty_preset_easy_effect_tooltip:0 "§YEstablecer los Bonos de IA de la siguiente manera:§!\n$mod_country_produces_mult$: §G+40%§!\n$MOD_COUNTRY_ALL_TECH_RESEARCH_SPEED$: §G+40%§!\n$MOD_SHIP_WEAPON_DAMAGE$: §G+40%§!"
+nsc_modmenu_setting_page_etc_category_ai_difficulty_preset_normal_effect_tooltip:0 "§YEstablecer los Bonos de IA de la siguiente manera:§!\n$mod_country_produces_mult$: §G+60%§!\n$MOD_COUNTRY_ALL_TECH_RESEARCH_SPEED$: §G+60%§!\n$MOD_SHIP_WEAPON_DAMAGE$: §G+60%§!"
+nsc_modmenu_setting_page_etc_category_ai_difficulty_preset_hard_effect_tooltip:0 "§YEstablecer los Bonos de IA de la siguiente manera:§!\n$mod_country_produces_mult$: §G+80%§!\n$MOD_COUNTRY_ALL_TECH_RESEARCH_SPEED$: §G+80%§!\n$MOD_SHIP_WEAPON_DAMAGE$: §G+80%§!"
+nsc_modmenu_setting_page_etc_category_ai_difficulty_preset_very_hard_effect_tooltip:0 "§YEstablecer los Bonos de IA de la siguiente manera:§!\n$mod_country_produces_mult$: §G+100%§!\n$MOD_COUNTRY_ALL_TECH_RESEARCH_SPEED$: §G+100%§!\n$MOD_SHIP_WEAPON_DAMAGE$: §G+100%§!"
+nsc_modmenu_setting_page_etc_category_ai_difficulty_preset_custom_effect_tooltip:0 "§YUsa los deslizadores a continuación para personalizar los Bonos de IA.§!"
+
+nsc_modmenu_setting_page_etc_category_ai_difficulty_preset_none_trigger_tooltip.fail:0 "$nsc_modmenu_setting_page_etc_category_ai_difficulty_preset_none_effect_tooltip$\n£trigger_no£ §REste preajuste ya está aplicado.§!"
+nsc_modmenu_setting_page_etc_category_ai_difficulty_preset_very_easy_trigger_tooltip.fail:0 "$nsc_modmenu_setting_page_etc_category_ai_difficulty_preset_very_easy_effect_tooltip$\n£trigger_no£ §REste preajuste ya está aplicado.§!"
+nsc_modmenu_setting_page_etc_category_ai_difficulty_preset_easy_trigger_tooltip.fail:0 "$nsc_modmenu_setting_page_etc_category_ai_difficulty_preset_easy_effect_tooltip$\n£trigger_no£ §REste preajuste ya está aplicado.§!"
+nsc_modmenu_setting_page_etc_category_ai_difficulty_preset_normal_trigger_tooltip.fail:0 "$nsc_modmenu_setting_page_etc_category_ai_difficulty_preset_normal_effect_tooltip$\n£trigger_no£ §REste preajuste ya está aplicado.§!"
+nsc_modmenu_setting_page_etc_category_ai_difficulty_preset_hard_trigger_tooltip.fail:0 "$nsc_modmenu_setting_page_etc_category_ai_difficulty_preset_hard_effect_tooltip$\n£trigger_no£ §REste preajuste ya está aplicado.§!"
+nsc_modmenu_setting_page_etc_category_ai_difficulty_preset_very_hard_trigger_tooltip.fail:0 "$nsc_modmenu_setting_page_etc_category_ai_difficulty_preset_very_hard_effect_tooltip$\n£trigger_no£ §REste preajuste ya está aplicado.§!"
+nsc_modmenu_setting_page_etc_category_ai_difficulty_preset_custom_trigger_tooltip.fail:0 "$nsc_modmenu_setting_page_etc_category_ai_difficulty_preset_custom_effect_tooltip$\n£trigger_no£ §REste preajuste ya está aplicado.§!"
+
+#economy_bonus slider
+nsc_modmenu_setting_page_etc_category_ai_difficulty_slider_economy_bonus_name:0 "Bono $mod_country_produces_mult$: [nsc_modmenu_data_storage.Get_nsc_etc_ai_difficulty_current_economy_bonus]"
+nsc_modmenu_setting_page_etc_category_ai_difficulty_slider_economy_bonus_neutral:0 "§Y[This.nsc_modmenu_etc_feature_ai_difficulty_economy_bonus_var]%§!"
+nsc_modmenu_setting_page_etc_category_ai_difficulty_slider_economy_bonus_plus:0 "§G+[This.nsc_modmenu_etc_feature_ai_difficulty_economy_bonus_var]%§!"
+
+nsc_modmenu_setting_page_etc_category_ai_difficulty_slider_economy_bonus_down_effect_tooltip:0 "Haz clic para cambiar el Bono $mod_country_produces_mult$ para los Imperios de IA por §R-5%§!."
+nsc_modmenu_setting_page_etc_category_ai_difficulty_slider_economy_bonus_up_effect_tooltip:0 "Haz clic para cambiar el Bono $mod_country_produces_mult$ para los Imperios de IA por §G+5%§!."
+nsc_modmenu_setting_page_etc_category_ai_difficulty_slider_track_economy_bonus_1_effect_tooltip:0 "Haz clic para establecer el Bono $mod_country_produces_mult$ para los Imperios de IA a §G+0%§!."
+nsc_modmenu_setting_page_etc_category_ai_difficulty_slider_track_economy_bonus_2_effect_tooltip:0 "Haz clic para establecer el Bono $mod_country_produces_mult$ para los Imperios de IA a §G+5%§!."
+nsc_modmenu_setting_page_etc_category_ai_difficulty_slider_track_economy_bonus_3_effect_tooltip:0 "Haz clic para establecer el Bono $mod_country_produces_mult$ para los Imperios de IA a §G+10%§!."
+nsc_modmenu_setting_page_etc_category_ai_difficulty_slider_track_economy_bonus_4_effect_tooltip:0 "Haz clic para establecer el Bono $mod_country_produces_mult$ para los Imperios de IA a §G+15%§!."
+nsc_modmenu_setting_page_etc_category_ai_difficulty_slider_track_economy_bonus_5_effect_tooltip:0 "Haz clic para establecer el Bono $mod_country_produces_mult$ para los Imperios de IA a §G+20%§!."
+nsc_modmenu_setting_page_etc_category_ai_difficulty_slider_track_economy_bonus_6_effect_tooltip:0 "Haz clic para establecer el Bono $mod_country_produces_mult$ para los Imperios de IA a §G+25%§!."
+nsc_modmenu_setting_page_etc_category_ai_difficulty_slider_track_economy_bonus_7_effect_tooltip:0 "Haz clic para establecer el Bono $mod_country_produces_mult$ para los Imperios de IA a §G+30%§!."
+nsc_modmenu_setting_page_etc_category_ai_difficulty_slider_track_economy_bonus_8_effect_tooltip:0 "Haz clic para establecer el Bono $mod_country_produces_mult$ para los Imperios de IA a §G+35%§!."
+nsc_modmenu_setting_page_etc_category_ai_difficulty_slider_track_economy_bonus_9_effect_tooltip:0 "Haz clic para establecer el Bono $mod_country_produces_mult$ para los Imperios de IA a §G+40%§!."
+nsc_modmenu_setting_page_etc_category_ai_difficulty_slider_track_economy_bonus_10_effect_tooltip:0 "Haz clic para establecer el Bono $mod_country_produces_mult$ para los Imperios de IA a §G+45%§!."
+nsc_modmenu_setting_page_etc_category_ai_difficulty_slider_track_economy_bonus_11_effect_tooltip:0 "Haz clic para establecer el Bono $mod_country_produces_mult$ para los Imperios de IA a §G+50%§!."
+nsc_modmenu_setting_page_etc_category_ai_difficulty_slider_track_economy_bonus_12_effect_tooltip:0 "Haz clic para establecer el Bono $mod_country_produces_mult$ para los Imperios de IA a §G+55%§!."
+nsc_modmenu_setting_page_etc_category_ai_difficulty_slider_track_economy_bonus_13_effect_tooltip:0 "Haz clic para establecer el Bono $mod_country_produces_mult$ para los Imperios de IA a §G+60%§!."
+nsc_modmenu_setting_page_etc_category_ai_difficulty_slider_track_economy_bonus_14_effect_tooltip:0 "Haz clic para establecer el Bono $mod_country_produces_mult$ para los Imperios de IA a §G+65%§!."
+nsc_modmenu_setting_page_etc_category_ai_difficulty_slider_track_economy_bonus_15_effect_tooltip:0 "Haz clic para establecer el Bono $mod_country_produces_mult$ para los Imperios de IA a §G+70%§!."
+nsc_modmenu_setting_page_etc_category_ai_difficulty_slider_track_economy_bonus_16_effect_tooltip:0 "Haz clic para establecer el Bono $mod_country_produces_mult$ para los Imperios de IA a §G+75%§!."
+nsc_modmenu_setting_page_etc_category_ai_difficulty_slider_track_economy_bonus_17_effect_tooltip:0 "Haz clic para establecer el Bono $mod_country_produces_mult$ para los Imperios de IA a §G+80%§!."
+nsc_modmenu_setting_page_etc_category_ai_difficulty_slider_track_economy_bonus_18_effect_tooltip:0 "Haz clic para establecer el Bono $mod_country_produces_mult$ para los Imperios de IA a §G+85%§!."
+nsc_modmenu_setting_page_etc_category_ai_difficulty_slider_track_economy_bonus_19_effect_tooltip:0 "Haz clic para establecer el Bono $mod_country_produces_mult$ para los Imperios de IA a §G+90%§!."
+nsc_modmenu_setting_page_etc_category_ai_difficulty_slider_track_economy_bonus_20_effect_tooltip:0 "Haz clic para establecer el Bono $mod_country_produces_mult$ para los Imperios de IA a §G+95%§!."
+nsc_modmenu_setting_page_etc_category_ai_difficulty_slider_track_economy_bonus_21_effect_tooltip:0 "Haz clic para establecer el Bono $mod_country_produces_mult$ para los Imperios de IA a §G+100%§!."
+
+nsc_modmenu_setting_page_etc_category_ai_difficulty_slider_economy_bonus_down_trigger_tooltip.fail:0 "$nsc_modmenu_setting_page_etc_category_ai_difficulty_slider_economy_bonus_down_effect_tooltip$\n£trigger_no£ §RLímite Mínimo Alcanzado§!"
+nsc_modmenu_setting_page_etc_category_ai_difficulty_slider_economy_bonus_up_trigger_tooltip.fail:0 "$nsc_modmenu_setting_page_etc_category_ai_difficulty_slider_economy_bonus_up_effect_tooltip$\n£trigger_no£ §RLímite Máximo Alcanzado§!"
+
+nsc_modmenu_setting_page_etc_category_ai_difficulty_slider_button_economy_bonus_desc:0 "Bono $mod_country_produces_mult$ actual para los Imperios de IA: [nsc_modmenu_data_storage.Get_nsc_etc_ai_difficulty_current_economy_bonus]"
+
+#technology_bonus slider
+nsc_modmenu_setting_page_etc_category_ai_difficulty_slider_technology_bonus_name:0 "Bono $MOD_COUNTRY_ALL_TECH_RESEARCH_SPEED$ para IA: [nsc_modmenu_data_storage.Get_nsc_etc_ai_difficulty_current_technology_bonus]"
+nsc_modmenu_setting_page_etc_category_ai_difficulty_slider_technology_bonus_neutral:0 "§Y[This.nsc_modmenu_etc_feature_ai_difficulty_technology_bonus_var]%§!"
+nsc_modmenu_setting_page_etc_category_ai_difficulty_slider_technology_bonus_plus:0 "§G+[This.nsc_modmenu_etc_feature_ai_difficulty_technology_bonus_var]%§!"
+
+nsc_modmenu_setting_page_etc_category_ai_difficulty_slider_technology_bonus_down_effect_tooltip:0 "Haz clic para cambiar el Bono $MOD_COUNTRY_ALL_TECH_RESEARCH_SPEED$ para los Imperios de IA por §R-5%§!."
+nsc_modmenu_setting_page_etc_category_ai_difficulty_slider_technology_bonus_up_effect_tooltip:0 "Haz clic para cambiar el Bono $MOD_COUNTRY_ALL_TECH_RESEARCH_SPEED$ para los Imperios de IA por §G+5%§!."
+nsc_modmenu_setting_page_etc_category_ai_difficulty_slider_track_technology_bonus_1_effect_tooltip:0 "Haz clic para establecer el Bono $MOD_COUNTRY_ALL_TECH_RESEARCH_SPEED$ para los Imperios de IA a §G+0%§!."
+nsc_modmenu_setting_page_etc_category_ai_difficulty_slider_track_technology_bonus_2_effect_tooltip:0 "Haz clic para establecer el Bono $MOD_COUNTRY_ALL_TECH_RESEARCH_SPEED$ para los Imperios de IA a §G+5%§!."
+nsc_modmenu_setting_page_etc_category_ai_difficulty_slider_track_technology_bonus_3_effect_tooltip:0 "Haz clic para establecer el Bono $MOD_COUNTRY_ALL_TECH_RESEARCH_SPEED$ para los Imperios de IA a §G+10%§!."
+nsc_modmenu_setting_page_etc_category_ai_difficulty_slider_track_technology_bonus_4_effect_tooltip:0 "Haz clic para establecer el Bono $MOD_COUNTRY_ALL_TECH_RESEARCH_SPEED$ para los Imperios de IA a §G+15%§!."
+nsc_modmenu_setting_page_etc_category_ai_difficulty_slider_track_technology_bonus_5_effect_tooltip:0 "Haz clic para establecer el Bono $MOD_COUNTRY_ALL_TECH_RESEARCH_SPEED$ para los Imperios de IA a §G+20%§!."
+nsc_modmenu_setting_page_etc_category_ai_difficulty_slider_track_technology_bonus_6_effect_tooltip:0 "Haz clic para establecer el Bono $MOD_COUNTRY_ALL_TECH_RESEARCH_SPEED$ para los Imperios de IA a §G+25%§!."
+nsc_modmenu_setting_page_etc_category_ai_difficulty_slider_track_technology_bonus_7_effect_tooltip:0 "Haz clic para establecer el Bono $MOD_COUNTRY_ALL_TECH_RESEARCH_SPEED$ para los Imperios de IA a §G+30%§!."
+nsc_modmenu_setting_page_etc_category_ai_difficulty_slider_track_technology_bonus_8_effect_tooltip:0 "Haz clic para establecer el Bono $MOD_COUNTRY_ALL_TECH_RESEARCH_SPEED$ para los Imperios de IA a §G+35%§!."
+nsc_modmenu_setting_page_etc_category_ai_difficulty_slider_track_technology_bonus_9_effect_tooltip:0 "Haz clic para establecer el Bono $MOD_COUNTRY_ALL_TECH_RESEARCH_SPEED$ para los Imperios de IA a §G+40%§!."
+nsc_modmenu_setting_page_etc_category_ai_difficulty_slider_track_technology_bonus_10_effect_tooltip:0 "Haz clic para establecer el Bono $MOD_COUNTRY_ALL_TECH_RESEARCH_SPEED$ para los Imperios de IA a §G+45%§!."
+nsc_modmenu_setting_page_etc_category_ai_difficulty_slider_track_technology_bonus_11_effect_tooltip:0 "Haz clic para establecer el Bono $MOD_COUNTRY_ALL_TECH_RESEARCH_SPEED$ para los Imperios de IA a §G+50%§!."
+nsc_modmenu_setting_page_etc_category_ai_difficulty_slider_track_technology_bonus_12_effect_tooltip:0 "Haz clic para establecer el Bono $MOD_COUNTRY_ALL_TECH_RESEARCH_SPEED$ para los Imperios de IA a §G+55%§!."
+nsc_modmenu_setting_page_etc_category_ai_difficulty_slider_track_technology_bonus_13_effect_tooltip:0 "Haz clic para establecer el Bono $MOD_COUNTRY_ALL_TECH_RESEARCH_SPEED$ para los Imperios de IA a §G+60%§!."
+nsc_modmenu_setting_page_etc_category_ai_difficulty_slider_track_technology_bonus_14_effect_tooltip:0 "Haz clic para establecer el Bono $MOD_COUNTRY_ALL_TECH_RESEARCH_SPEED$ para los Imperios de IA a §G+65%§!."
+nsc_modmenu_setting_page_etc_category_ai_difficulty_slider_track_technology_bonus_15_effect_tooltip:0 "Haz clic para establecer el Bono $MOD_COUNTRY_ALL_TECH_RESEARCH_SPEED$ para los Imperios de IA a §G+70%§!."
+nsc_modmenu_setting_page_etc_category_ai_difficulty_slider_track_technology_bonus_16_effect_tooltip:0 "Haz clic para establecer el Bono $MOD_COUNTRY_ALL_TECH_RESEARCH_SPEED$ para los Imperios de IA a §G+75%§!."
+nsc_modmenu_setting_page_etc_category_ai_difficulty_slider_track_technology_bonus_17_effect_tooltip:0 "Haz clic para establecer el Bono $MOD_COUNTRY_ALL_TECH_RESEARCH_SPEED$ para los Imperios de IA a §G+80%§!."
+nsc_modmenu_setting_page_etc_category_ai_difficulty_slider_track_technology_bonus_18_effect_tooltip:0 "Haz clic para establecer el Bono $MOD_COUNTRY_ALL_TECH_RESEARCH_SPEED$ para los Imperios de IA a §G+85%§!."
+nsc_modmenu_setting_page_etc_category_ai_difficulty_slider_track_technology_bonus_19_effect_tooltip:0 "Haz clic para establecer el Bono $MOD_COUNTRY_ALL_TECH_RESEARCH_SPEED$ para los Imperios de IA a §G+90%§!."
+nsc_modmenu_setting_page_etc_category_ai_difficulty_slider_track_technology_bonus_20_effect_tooltip:0 "Haz clic para establecer el Bono $MOD_COUNTRY_ALL_TECH_RESEARCH_SPEED$ para los Imperios de IA a §G+95%§!."
+nsc_modmenu_setting_page_etc_category_ai_difficulty_slider_track_technology_bonus_21_effect_tooltip:0 "Haz clic para establecer el Bono $MOD_COUNTRY_ALL_TECH_RESEARCH_SPEED$ para los Imperios de IA a §G+100%§!."
+
+nsc_modmenu_setting_page_etc_category_ai_difficulty_slider_technology_bonus_down_trigger_tooltip.fail:0 "$nsc_modmenu_setting_page_etc_category_ai_difficulty_slider_technology_bonus_down_effect_tooltip$\n£trigger_no£ §RLímite Mínimo Alcanzado§!"
+nsc_modmenu_setting_page_etc_category_ai_difficulty_slider_technology_bonus_up_trigger_tooltip.fail:0 "$nsc_modmenu_setting_page_etc_category_ai_difficulty_slider_technology_bonus_up_effect_tooltip$\n£trigger_no£ §RLímite Máximo Alcanzado§!"
+
+nsc_modmenu_setting_page_etc_category_ai_difficulty_slider_button_technology_bonus_desc:0 "Bonificación actual de $MOD_COUNTRY_ALL_TECH_RESEARCH_SPEED$ para los Imperios de IA: [nsc_modmenu_data_storage.Get_nsc_etc_ai_difficulty_current_technology_bonus]"
+
+#military_bonus slider
+nsc_modmenu_setting_page_etc_category_ai_difficulty_slider_military_bonus_name:0 "Bonificación de $MOD_SHIP_WEAPON_DAMAGE$: [nsc_modmenu_data_storage.Get_nsc_etc_ai_difficulty_current_military_bonus]"
+nsc_modmenu_setting_page_etc_category_ai_difficulty_slider_military_bonus_neutral:0 "§Y[This.nsc_modmenu_etc_feature_ai_difficulty_military_bonus_var]%§!"
+nsc_modmenu_setting_page_etc_category_ai_difficulty_slider_military_bonus_plus:0 "§G+[This.nsc_modmenu_etc_feature_ai_difficulty_military_bonus_var]%§!"
+
+nsc_modmenu_setting_page_etc_category_ai_difficulty_slider_military_bonus_down_effect_tooltip:0 "Haz clic para cambiar la bonificación de $MOD_SHIP_WEAPON_DAMAGE$ para los Imperios de IA por §R-5%§!."
+nsc_modmenu_setting_page_etc_category_ai_difficulty_slider_military_bonus_up_effect_tooltip:0 "Haz clic para cambiar la bonificación de $MOD_SHIP_WEAPON_DAMAGE$ para los Imperios de IA por §G+5%§!."
+nsc_modmenu_setting_page_etc_category_ai_difficulty_slider_track_military_bonus_1_effect_tooltip:0 "Haz clic para establecer la bonificación de $MOD_SHIP_WEAPON_DAMAGE$ para los Imperios de IA a §G+0%§!."
+nsc_modmenu_setting_page_etc_category_ai_difficulty_slider_track_military_bonus_2_effect_tooltip:0 "Haz clic para establecer la bonificación de $MOD_SHIP_WEAPON_DAMAGE$ para los Imperios de IA a §G+5%§!."
+nsc_modmenu_setting_page_etc_category_ai_difficulty_slider_track_military_bonus_3_effect_tooltip:0 "Haz clic para establecer la bonificación de $MOD_SHIP_WEAPON_DAMAGE$ para los Imperios de IA a §G+10%§!."
+nsc_modmenu_setting_page_etc_category_ai_difficulty_slider_track_military_bonus_4_effect_tooltip:0 "Haz clic para establecer la bonificación de $MOD_SHIP_WEAPON_DAMAGE$ para los Imperios de IA a §G+15%§!."
+nsc_modmenu_setting_page_etc_category_ai_difficulty_slider_track_military_bonus_5_effect_tooltip:0 "Haz clic para establecer la bonificación de $MOD_SHIP_WEAPON_DAMAGE$ para los Imperios de IA a §G+20%§!."
+nsc_modmenu_setting_page_etc_category_ai_difficulty_slider_track_military_bonus_6_effect_tooltip:0 "Haz clic para establecer la bonificación de $MOD_SHIP_WEAPON_DAMAGE$ para los Imperios de IA a §G+25%§!."
+nsc_modmenu_setting_page_etc_category_ai_difficulty_slider_track_military_bonus_7_effect_tooltip:0 "Haz clic para establecer la bonificación de $MOD_SHIP_WEAPON_DAMAGE$ para los Imperios de IA a §G+30%§!."
+nsc_modmenu_setting_page_etc_category_ai_difficulty_slider_track_military_bonus_8_effect_tooltip:0 "Haz clic para establecer la bonificación de $MOD_SHIP_WEAPON_DAMAGE$ para los Imperios de IA a §G+35%§!."
+nsc_modmenu_setting_page_etc_category_ai_difficulty_slider_track_military_bonus_9_effect_tooltip:0 "Haz clic para establecer la bonificación de $MOD_SHIP_WEAPON_DAMAGE$ para los Imperios de IA a §G+40%§!."
+nsc_modmenu_setting_page_etc_category_ai_difficulty_slider_track_military_bonus_10_effect_tooltip:0 "Haz clic para establecer la bonificación de $MOD_SHIP_WEAPON_DAMAGE$ para los Imperios de IA a §G+45%§!."
+nsc_modmenu_setting_page_etc_category_ai_difficulty_slider_track_military_bonus_11_effect_tooltip:0 "Haz clic para establecer la bonificación de $MOD_SHIP_WEAPON_DAMAGE$ para los Imperios de IA a §G+50%§!."
+nsc_modmenu_setting_page_etc_category_ai_difficulty_slider_track_military_bonus_12_effect_tooltip:0 "Haz clic para establecer la bonificación de $MOD_SHIP_WEAPON_DAMAGE$ para los Imperios de IA a §G+55%§!."
+nsc_modmenu_setting_page_etc_category_ai_difficulty_slider_track_military_bonus_13_effect_tooltip:0 "Haz clic para establecer la bonificación de $MOD_SHIP_WEAPON_DAMAGE$ para los Imperios de IA a §G+60%§!."
+nsc_modmenu_setting_page_etc_category_ai_difficulty_slider_track_military_bonus_14_effect_tooltip:0 "Haz clic para establecer la bonificación de $MOD_SHIP_WEAPON_DAMAGE$ para los Imperios de IA a §G+65%§!."
+nsc_modmenu_setting_page_etc_category_ai_difficulty_slider_track_military_bonus_15_effect_tooltip:0 "Haz clic para establecer la bonificación de $MOD_SHIP_WEAPON_DAMAGE$ para los Imperios de IA a §G+70%§!."
+nsc_modmenu_setting_page_etc_category_ai_difficulty_slider_track_military_bonus_16_effect_tooltip:0 "Haz clic para establecer la bonificación de $MOD_SHIP_WEAPON_DAMAGE$ para los Imperios de IA a §G+75%§!."
+nsc_modmenu_setting_page_etc_category_ai_difficulty_slider_track_military_bonus_17_effect_tooltip:0 "Haz clic para establecer la bonificación de $MOD_SHIP_WEAPON_DAMAGE$ para los Imperios de IA a §G+80%§!."
+nsc_modmenu_setting_page_etc_category_ai_difficulty_slider_track_military_bonus_18_effect_tooltip:0 "Haz clic para establecer la bonificación de $MOD_SHIP_WEAPON_DAMAGE$ para los Imperios de IA a §G+85%§!."
+nsc_modmenu_setting_page_etc_category_ai_difficulty_slider_track_military_bonus_19_effect_tooltip:0 "Haz clic para establecer la bonificación de $MOD_SHIP_WEAPON_DAMAGE$ para los Imperios de IA a §G+90%§!."
+nsc_modmenu_setting_page_etc_category_ai_difficulty_slider_track_military_bonus_20_effect_tooltip:0 "Haz clic para establecer la bonificación de $MOD_SHIP_WEAPON_DAMAGE$ para los Imperios de IA a §G+95%§!."
+nsc_modmenu_setting_page_etc_category_ai_difficulty_slider_track_military_bonus_21_effect_tooltip:0 "Haz clic para establecer la bonificación de $MOD_SHIP_WEAPON_DAMAGE$ para los Imperios de IA a §G+100%§!."
+
+nsc_modmenu_setting_page_etc_category_ai_difficulty_slider_military_bonus_down_trigger_tooltip.fail:0 "$nsc_modmenu_setting_page_etc_category_ai_difficulty_slider_military_bonus_down_effect_tooltip$\n£trigger_no£ §RLímite Mínimo Alcanzado§!"
+nsc_modmenu_setting_page_etc_category_ai_difficulty_slider_military_bonus_up_trigger_tooltip.fail:0 "$nsc_modmenu_setting_page_etc_category_ai_difficulty_slider_military_bonus_up_effect_tooltip$\n£trigger_no£ §RLímite Máximo Alcanzado§!"
+
+nsc_modmenu_setting_page_etc_category_ai_difficulty_slider_button_military_bonus_desc:0 "Bonificación actual de $MOD_SHIP_WEAPON_DAMAGE$ para los Imperios de IA: [nsc_modmenu_data_storage.Get_nsc_etc_ai_difficulty_current_military_bonus]"

@@ -1,0 +1,58 @@
+﻿l_spanish:
+
+
+##################################################################################################################################################################################################################
+### ADVANCED BEHAVIORS ###
+##########################
+
+ai_behaviour: "Táctica de IA"
+ai_behaviour_DESC: "Ranura de táctica de IA."
+
+ai_behaviour_default: "Comportamiento por defecto"
+ai_behaviour_default_DESC: "Utiliza el comportamiento táctico establecido en la computadora original. Para usar con las computadoras de combate vainilla.\n\n§GCómo usar:§! §BElija esta computadora si desea usar un comportamiento vainilla en la ranura de arriba y NO usar una táctica avanzada. Si desea usar una táctica avanzada para esta clase de nave, elija una computadora vainilla en la ranura de arriba primero, y luego elija una táctica para esta ranura.§!\n\n"
+
+ai_behaviour_follow: "Táctica de escolta"
+ai_behaviour_follow_DESC: "Las naves seguirán al resto de la flota. Comportamiento predeterminado equilibrado."
+
+ai_behaviour_charge: "Táctica de carga"
+ai_behaviour_charge_DESC: "Las naves intentarán acercarse a la flota enemiga de la manera más directa posible y participarán en el rango de punto en blanco."
+
+ai_behaviour_stationary_30: "Táctica de artillería (Rango: 30)"
+ai_behaviour_stationary_30_DESC: "Las naves se moverán hasta la distancia mostrada (30) y luego mantendrán la posición mientras disparan al enemigo."
+ai_behaviour_stationary_50: "Táctica de artillería (Rango: 50)"
+ai_behaviour_stationary_50_DESC: "Las naves se moverán hasta la distancia mostrada (50) y luego mantendrán la posición mientras disparan al enemigo."
+ai_behaviour_stationary_60: "Táctica de artillería (Rango: 60)"
+ai_behaviour_stationary_60_DESC: "Las naves se moverán hasta la distancia mostrada (60) y luego mantendrán la posición mientras disparan al enemigo."
+ai_behaviour_stationary_70: "Táctica de artillería (Rango: 70)"
+ai_behaviour_stationary_70_DESC: "Las naves se moverán hasta la distancia mostrada (70) y luego mantendrán la posición mientras disparan al enemigo."
+ai_behaviour_stationary_80: "Táctica de artillería (Rango: 80)"
+ai_behaviour_stationary_80_DESC: "Las naves se moverán hasta la distancia mostrada (80) y luego mantendrán la posición mientras disparan al enemigo."
+ai_behaviour_stationary_90: "Táctica de artillería (Rango: 90)"
+ai_behaviour_stationary_90_DESC: "Las naves se moverán hasta la distancia mostrada (90) y luego mantendrán la posición mientras disparan al enemigo."
+ai_behaviour_stationary_100: "Táctica de artillería (Rango: 100)"
+ai_behaviour_stationary_100_DESC: "Las naves se moverán hasta la distancia mostrada (100) y luego mantendrán la posición mientras disparan al enemigo."
+ai_behaviour_stationary_110: "Táctica de artillería (Rango: 110)"
+ai_behaviour_stationary_110_DESC: "Las naves se moverán hasta la distancia mostrada (110) y luego mantendrán la posición mientras disparan al enemigo."
+ai_behaviour_stationary_120: "Táctica de artillería (Rango: 120)"
+ai_behaviour_stationary_120_DESC: "Las naves se moverán hasta la distancia mostrada (120) y luego mantendrán la posición mientras disparan al enemigo."
+
+ai_behaviour_stationary_200: "Táctica de enfrentamiento (Rango: 200)"
+ai_behaviour_stationary_200_DESC: "Las naves se moverán hasta la distancia mostrada (200) y luego mantendrán la posición. NOTA: Esta configuración hará que la nave se mantenga fuera del alcance normal de las armas, protegiéndolas de la mayoría del fuego enemigo pero también impidiéndoles disparar al enemigo. Ideal para naves que quieres que permanezcan fuera de combate tanto como sea posible."
+
+ai_behaviour_flank_30: "Táctica de flanqueo (30)"
+ai_behaviour_flank_30_DESC: "Las naves rodearán la flota enemiga a una distancia establecida (30) mientras disparan sus armas."
+ai_behaviour_flank_60: "Táctica de flanqueo (60)"
+ai_behaviour_flank_60_DESC: "Las naves rodearán la flota enemiga a una distancia establecida (60) mientras disparan sus armas."
+ai_behaviour_flank_80: "Táctica de flanqueo (80)"
+ai_behaviour_flank_80_DESC: "Las naves rodearán la flota enemiga a una distancia establecida (80) mientras disparan sus armas."
+ai_behaviour_flank_100: "Táctica de flanqueo (100)"
+ai_behaviour_flank_100_DESC: "Las naves rodearán la flota enemiga a una distancia establecida (100) mientras disparan sus armas."
+
+ai_behaviour_hitnrun_30: "Táctica de golpe y fuga (30)"
+ai_behaviour_hitnrun_30_DESC: "Las naves se moverán hasta la distancia mostrada (30) y luego retrocederán antes de su próximo ataque."
+ai_behaviour_hitnrun_60: "Táctica de golpe y fuga (60)"
+ai_behaviour_hitnrun_60_DESC: "Las naves se moverán hasta la distancia mostrada (60) y luego retrocederán antes de su próximo ataque."
+ai_behaviour_hitnrun_80: "Táctica de golpe y fuga (80)"
+ai_behaviour_hitnrun_80_DESC: "Las naves se moverán hasta la distancia mostrada (80) y luego retrocederán antes de su próximo ataque."
+ai_behaviour_hitnrun_100: "Táctica de golpe y fuga (100)"
+ai_behaviour_hitnrun_100_DESC: "Las naves se moverán hasta la distancia mostrada (100) y luego retrocederán antes de su próximo ataque."

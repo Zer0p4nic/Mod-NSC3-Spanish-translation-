@@ -1,0 +1,82 @@
+﻿l_spanish:
+
+##################################################################################################################################################################################################################
+### Explorer EVENTS ###
+##################################
+
+EXPLORATION_CRUISER_UPGRADE_PROJECT: "Proyecto de Mejora de la Nave Científica"
+EXPLORATION_CRUISER_UPGRADE_PROJECT_DESC: "Nuestros ingenieros de flota están listos para comenzar la monumental tarea de modernizar una de nuestras Naves Científicas existentes a la nueva clase Explorador. Se espera que este proyecto tome aproximadamente 250 días para completarse. Cuando termine, el Líder Científico de la nave se transferirá a su nueva nave automáticamente."
+
+nsc_events_exploration_ship.3.name: "Explorador Prototipo"
+nsc_events_exploration_ship.3.desc: "Nuestros intrépidos Oficiales de Ciencia han enfrentado un peligro increíble en su búsqueda para explorar la galaxia y descubrir todos los secretos que tiene para ofrecer. Nuestros ingenieros de naves han estado trabajando junto con nuestros científicos para encontrar una solución a este problema. Creemos que finalmente tenemos la respuesta.\n\nEl Explorador es una Nave Científica grande y capaz de combate dedicada a explorar nuevos mundos y buscar nueva vida y nuevas civilizaciones. ¡Nuestros científicos ya no tendrán que temer a los terrores del vacío!"
+
+nsc_events_exploration_ship.3.a: "Excelente, iremos audazmente donde nadie ha ido antes!"
+
+nsc_events_exploration_ship.10.name: "Mejora de la Flota Científica"
+nsc_events_exploration_ship.10.desc: "Ahora que hemos finalizado el diseño permanente del Explorador, nuestro equipo de logística de flota quisiera saber si quieres mejorar nuestra flota de Naves Científicas a este nuevo diseño mejorado. Realizar la mejora para cada nave tomará aproximadamente §G250 días§! y requerirá una inversión de §B400 Aleaciones§! y §Y50 Energía§! por nave, pero daría a nuestros principales científicos de exploración una mejor oportunidad de supervivencia en un universo cada vez más hostil. Podemos mejorar hasta 8 Naves Científicas a la nueva clase. Se creará un Proyecto Especial para cada nave que quieras mejorar, lo que requerirá mover esa nave a nuestro sistema natal para comenzar el proyecto. No hay límite de tiempo en cuánto tiempo completas los proyectos. Esperamos tu decisión."
+
+nsc_events_exploration_ship.10.1: "Elige mejorar §Y1§! nave. (§Y50 Energía§! & §B400 Aleaciones§!)"
+nsc_events_exploration_ship.10.2: "Elige mejorar §Y2§! naves. (§Y100 Energía§! & §B800 Aleaciones§!)"
+nsc_events_exploration_ship.10.3: "Elige mejorar §Y3§! naves. (§Y150 Energía§! & §B1200 Aleaciones§!)"
+nsc_events_exploration_ship.10.4: "Elige mejorar §Y4§! naves. (§Y200 Energía§! & §B1600 Aleaciones§!)"
+nsc_events_exploration_ship.10.5: "Elige mejorar §Y5§! naves. (§Y250 Energía§! & §B2000 Aleaciones§!)"
+nsc_events_exploration_ship.10.6: "Elige mejorar §Y6§! naves. (§Y300 Energía§! & §B2400 Aleaciones§!)"
+nsc_events_exploration_ship.10.7: "Elige mejorar §Y7§! naves. (§Y350 Energía§! & §B2800 Aleaciones§!)"
+nsc_events_exploration_ship.10.8: "Elige mejorar §Y8§! naves. (§Y400 Energía§! & §B3200 Aleaciones§!)"
+nsc_events_exploration_ship.10.end: "Elige no mejorar ninguna nave en absoluto. (§M+25 Influencia§!)"
+
+nsc_events_exploration_ship.11.name: "Mejora de la Nave Científica Completa"
+nsc_events_exploration_ship.11.desc: "Hemos completado un proyecto de Mejora de la Nave Científica. El líder Científico ha tomado su estación y la nueva nave ahora está esperando tus órdenes."
+
+##################################################################################################################################################################################################################
+### FLAGSHIP EVENT CHAIN ###
+############################
+
+nsc_flagship_cannot_be_acquired_by_conventional_means.tooltip.fail: "§R$TRIGGER_FAIL$§! Debido a su tamaño y complejidad, solo la Megaestructura $nsc_flagship_shipyard$ es capaz de producir una nave de clase Nave Insignia."
+
+nsc_flagship_shipyard: "Astillero Grande"
+nsc_flagship_shipyard_DESC: "Esta estación espacial masiva es necesaria para construir la nave de guerra más grande y mortífero que la galaxia jamás haya visto."
+
+nsc_flagship_shipyard_MEGASTRUCTURE_DETAILS: "$nsc_flagship_shipyard_DESC$"
+requires_no_existing_nsc_grand_shipyard:0 "$TRIGGER_FAIL$No se puede construir más de un $nsc_flagship_shipyard$."
+requires_no_existing_nsc_flagship: "£trigger_no£ No se puede construir más de una Nave Insignia."
+can_not_start_another_nsc_flagship_building: "£trigger_no£ No se puede iniciar otro proyecto de construcción de Nave Insignia."
+
+nsc_flagship_shipyard_complete: "Astillero Grande"
+nsc_flagship_shipyard_complete_DESC: "Este astillero masivo es el hogar de la poderosa Nave Insignia de nuestro Imperio."
+
+nsc_events_flagship.1.name: "Astillero Grande Listo Para la Construcción"
+nsc_events_flagship.1.desc: "Nuestros diseños para el astillero masivo necesario para construir la Nave Insignia están completos. Podemos comenzar la construcción de la instalación de ensamblaje, pero nuestros ingenieros navales necesitan finalizar un - y solo un - diseño para la nave absolutamente gigantesco que se va a construir. Solo podremos construir una Nave Insignia, por lo que, aunque podremos modernizar y mejorar la nave después de que se haya construido, necesitamos tener un solo diseño antes de la construcción."
+nsc_events_flagship.1.a: "Una nave para cambiar la marea..."
+
+nsc_events_flagship.3.name: "Ya No Es Un Secreto"
+nsc_events_flagship.3.desc: "La construcción de nuestra poderosa Nave Insignia se otorga naturalmente al nivel de clasificación más alto que tenemos, y hemos dedicado mucho tiempo, esfuerzo y recursos para mantener el proyecto envuelto en secreto.\n\nSin embargo, a pesar de nuestros esfuerzos heroicos para mantener su construcción como un secreto bien guardado, un proyecto tan masivo es prácticamente imposible de ocultar, y las potencias extranjeras de la galaxia han estado al tanto de él durante algún tiempo, y no están quedándose de brazos cruzados mientras cambiamos la cara de la guerra interestelar por nuestra cuenta. Nuestros agentes de inteligencia informan que muchos imperios ya han comenzado la construcción de sus propias Naves Insignia, con la esperanza de mantener el equilibrio de poder en la galaxia.\n\nAhora está en marcha una nueva carrera armamentista."
+nsc_events_flagship.3.a: "Decepcionante, pero no inesperado."
+
+nsc_events_flagship.4.name: "El Poder Definitivo En El Universo"
+nsc_events_flagship.4.desc: "Después de años de trabajo, el consumo de vastas cantidades de recursos, la construcción de un astillero increíble y el gasto de una cantidad considerable de capital político, la Nave Insignia finalmente está completa y totalmente operativa. Es la nave de guerra definitivo, capaz de aniquilar flotas enemigas y cambiar el rumbo de guerras enteras.\n\nLa presentación de este nuevo nave masivo ha sido un shock para los ciudadanos de nuestro propio imperio, y también para las masas de xenos extranjeros, pero, como lo han indicado informes de inteligencia anteriores, sus gobiernos no han sido sorprendidos, y han estado haciendo sus preparativos para contrarrestar nuestra poderosa nueva arma. Los informes de inteligencia indican que varios imperios están bien encaminados para apresurar sus propias Naves Insignia en producción."
+nsc_events_flagship.4.a: "Excelente."
+
+nsc_events_flagship.6.name: "Nivelando El Campo De Juego"
+nsc_events_flagship.6.desc: "Nuestros agentes ahora informan que varias potencias extranjeras han lanzado sus propias Naves Insignia, completamente operativas, en un intento de mantenerse al día en la carrera armamentista naval. La galaxia ahora alberga varias de estas barcazas gigantescas, cada una de las cuales lleva suficiente potencia de fuego para aplastar una flota entera. Si bien el enorme gasto de construir y mantener estas naves evitará que cualquier nación construya más de una Nave Insignia, su increíble poder seguramente dará forma a cualquier conflicto armado futuro en el que participen."
+nsc_events_flagship.6.a: "Entendido."
+
+nsc_events_flagship.7.name: "Un Desastre Épico"
+nsc_events_flagship.7.desc: "¡Nuestra Nave Insignia, el orgullo de nuestra Marina, el glorioso símbolo del poderío de nuestro imperio, ha sido destruida!\n\nEl impacto de tal calamidad bruta no puede ser subestimado. El público ha depositado mucha fe en la capacidad de nuestra Nave Insignia para defendernos, y nuestra propaganda ha presentado en gran medida nuestra Nave Insignia para mantener inspirados a nuestros ciudadanos. En los días, semanas y años venideros, muchos seguramente cuestionarán las decisiones de mando que llevaron a la destrucción dla nave de guerra más poderoso que nuestro imperio jamás haya producido.\n\nAhora que ya no tenemos que gastar los recursos significativos necesarios para mantener la Nave Insignia, será posible construir una nueva, aunque requerirá el mismo tipo de Proyecto Especial en profundidad que antes, y debemos tener cuidado de no perder nuestra próxima Nave Insignia también. Ciertamente, es necesario revisar nuestras estrategias navales."
+nsc_events_flagship.7.a: "Entendido, comenzaremos el proyecto pronto."
+
+nsc_events_flagship.8.name: "Desarme Voluntario"
+nsc_events_flagship.8.desc: "La existencia de superarmas poderosas como la Nave Insignia tiene efectos poderosos. Los costos de mantenimiento de estas naves de guerra increíbles son significativos, y su mera existencia sirve como un símbolo de la disposición marcial de una nación, y puede aumentar las tensiones internacionales y acelerar la carrera armamentista naval.\n\nYa sea por economía o política, usted, nuestro [Root.GetRulerTitle] honrado, ha decidido desmantelar su Nave Insignia, aunque el Astillero permanece operativo. Es posible invertir los recursos significativos para comenzar inmediatamente la construcción de una nueva Nave Insignia, aunque será difícil mantener un proyecto tan masivo en secreto, más fácil esta vez, al menos, ya que los astilleros masivos ya existen, y la justificación para desmantelar y luego reconstruir un proyecto tan masivo es dudosa en el mejor de los casos. En cualquier caso, hacerlo requerirá un Proyecto Especial.\n\nPor otro lado, si es más prudente esperar y mantener abiertas nuestras opciones para una fecha posterior, ahora hay disponible un Edicto de Reconstrucción de la Nave Insignia, para el momento en que sea necesario o deseable construir otra Nave Insignia."
+nsc_events_flagship.8.a: "Reconstruiremos la Nave Insignia cuando sea necesario."
+
+nsc_events_flagship.9.name: "Nueva Nave Insignia Completa"
+nsc_events_flagship.9.desc: "Nuestra nueva Nave Insignia finalmente está completa y lista para el lanzamiento. Esperemos que esta no tenga el mismo destino sombrío que la anterior, estas naves no son baratos ni rápidos de reemplazar, después de todo, y perderlos es un golpe masivo a nuestra moral y nuestro poder militar. La Nave Insignia es el arma más poderosa de nuestro arsenal, debe ser manejada con cuidado.\n\nDebemos tratar de no defraudar a nuestro pueblo."
+nsc_events_flagship.9.a: "No fallaremos de nuevo."
+
+##################################################################################################################################################################################################################
+### FLAGSHIP DUEL EVENT ###
+###########################
+
+nsc_events_flagship.10.name: "Una Batalla Legendaria"
+nsc_events_flagship.10.desc: "Desde la concepción del Proyecto de la Nave Insignia, incluso antes de que se construyera el colosal astillero para construir el barco, muchos teóricos navales han planteado que, al igual que los desarrollos anteriores llevaron a un enfoque en los choques de naves capitales, la nueva fase de la carrera armamentista naval podría algún día llevar a que las Naves Insignia enemigas se encuentren en el campo de batalla. Algunos incluso plantearon que la única forma factible de contrarrestar una Nave Insignia sería con otra Nave Insignia, lo que hace inevitables tales enfrentamientos.\n\nEse día finalmente ha llegado. Nuestra Nave Insignia está a punto de enfrentarse a una Nave Insignia enemiga, y los cielos retumbarán con su poder. Ambas naciones han invertido enormes recursos en el desarrollo de sus Naves Insignia, y han diseñado sus doctrinas al menos parcialmente en torno a los poderosos barcos. Ahora, toda la galaxia verá los resultados, con el equilibrio del poder galáctico y el futuro del combate y el pensamiento naval en juego."
+nsc_events_flagship.10.a: "¡Hacia la Gloria!"

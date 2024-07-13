@@ -1,0 +1,304 @@
+﻿l_spanish:
+
+##################################################################################################################################################################################################################
+### TECHNOLOGIES ###
+####################
+
+tech_pd_frigate_1: "Actualización de Fragata de Escolta"
+tech_pd_frigate_1_desc: "Los misiles, torpedos y naves de ataque representan una grave amenaza para nuestras flotas. Nuestros ingenieros navales sugieren rediseñar nuestras Fragatas para montar un conjunto de numerosas armas de defensa de punto para derribar estos objetivos antes de que puedan alcanzar nuestras naves."
+
+tech_StrikeCruiser_1: "Actualización de Crucero de Ataque"
+tech_StrikeCruiser_1_desc: "La experiencia de batalla y los extensos ejercicios de guerra muestran que el combate de flotas a menudo termina sin un resultado decisivo, porque el bando perdedor realiza un salto inmediato de emergencia a UL. Nuestros mejores científicos han miniaturizado la Trampa de Subespacio utilizada en las bases estelares para su despliegue en un barco. Estos naves serán increíblemente rápidos, para atrapar a las flotas enemigas en sus Trampas, lo suficientemente maniobrables para evitar que las naves enemigas se desvinculen del combate, y lo suficientemente resistentes para resistir un castigo significativo para asegurar que el enemigo esté inmovilizado durante el mayor tiempo posible."
+
+tech_Battlecruiser_1: "Acorazado"
+tech_Battlecruiser_1_desc: "A medida que los buques de mayor tamaño se vuelven más comunes, el combate se está llevando a cabo a mayores distancias, y el poder de fuego ofensivo se está convirtiendo en un factor cada vez más decisivo en la batalla. Nuestros teóricos navales sugieren construir un buque largo y potente capaz de montar emplazamientos de armas grandes, medianas y, sobre todo, guiadas, para especializarse en lanzar la mayor cantidad de armamento posible al enemigo, ya sea en combate a media o larga distancia."
+
+tech_escortcarrier_1: "Actualización de Portanaves Ligero"
+tech_escortcarrier_1_desc: "La clase Destructor puede ser reutilizada como una plataforma ligera de Naves de Ataque, permitiendo a nuestras flotas llevar el muy necesario poder de fuego a las líneas del frente."
+
+tech_Carrier_1: "Portanaves"
+tech_Carrier_1_desc: "Las Naves de Ataque han demostrado ser armas altamente exitosas en el combate naval. Es hora de diseñar un buque de guerra especializado con el propósito expreso de llevar estas armas a la batalla, y albergar al gran personal de apoyo y las bahías de mantenimiento que requieren. Hacerlo permitirá a estos nuevos Portanaves llevar muchas más naves de ataque que sus predecesores más improvisados."
+
+tech_heavycarrier_1: "Actualización de Portanaves Pesado"
+tech_heavycarrier_1_desc: "A medida que nuestras capacidades de construcción de naves continúan aumentando, seguimos buscando nuevas formas de avanzar en nuestros diseños actuales de clases de barcos. Combinado con nuevos avances en la miniaturización de muchas de las instalaciones de apoyo necesarias para el mantenimiento de las naves de ataque, creemos que podemos alterar nuestros diseños existentes de Portanaves en Portanaves Pesados, con la capacidad de soportar más bahías de hangares."
+
+tech_supercarrier_1: "Actualización de Supercarrier"
+tech_supercarrier_1_desc: "Los esfuerzos adicionales en la construcción de naves y la miniaturización de las instalaciones de apoyo para las naves de ataque nos permitirán exprimir un número absolutamente increíble de bahías de hangares en nuestros Portanaves. Estos Supercarriers podrán soportar enjambres de naves de ataque, mejor para defender nuestras flotas del ataque, y para abrumar al enemigo con nuestros mejores pilotos."
+
+tech_spitfire_1: "Especialización de Acorazado Spitfire"
+tech_spitfire_1_desc: "Mientras que los buques capitales son mucho más poderosos que cualquier buque que haya venido antes que ellos, también son mucho más caros, y representan objetivos jugosos para enjambres de buques más pequeños y más baratos que pueden abrumar a los buques capitales con pura cantidad. Para contrarrestar esto, nuestros ingenieros están trabajando en algunos planos que podrían adaptar el Acorazado en una potencia anti-Corbeta-y-Destructor, junto con armas específicamente diseñadas para ese propósito. Estos nuevos diseños harán que estos 'Acorazados Spitfire' tengan un costo de producción aún más alto, pero tales sacrificios valen la pena, si eso significa proteger nuestros vulnerables buques capitales."
+
+tech_Dreadnought_1: "Acorazado"
+tech_Dreadnought_1_desc: "El Acorazado marcó una nueva era de diseño de naves y combate naval. La capacidad de entregar y recibir daño masivo a larga distancia, y la llegada de armas XL devastadoras, han cambiado completamente la naturaleza de la guerra. Nuestros ingenieros navales creen que deberíamos desarrollar una versión aún mejor de estos poderosos barcos. Sus propuestos 'Acorazados' serían capaces de montar defensas más pesadas, más armas, e incluso dos de las increíbles armas XL que han tenido tanto éxito en el campo de batalla."
+
+tech_Flagship_1: "El Buque Insignia"
+tech_Flagship_1_desc: "La carrera armamentista naval ha visto la producción de buques de guerra cada vez más grandes sin fin a la vista. Nuestros ingenieros navales han sugerido saltar a la conclusión lógica de esta escalada serial construyendo una nave tan masivo y poderoso, que ningún imperio será capaz de soportar más de uno de ellos a la vez. Este Buque Insignia propuesto será el último buque de guerra. Diseñado para la máxima versatilidad, cada sección tendrá muchas posibles configuraciones, permitiéndonos diseñar nuestro Buque Insignia para adaptarse a nuestros propósitos. Montando muchas más propulsores por tonelada que cualquier otro barco, el Buque Insignia será capaz de tomar cualquier posición en la flota, desde una batería de largo alcance en la retaguardia, hasta un luchador masivo en la punta de la lanza de una flota.\n\nEste poder y versatilidad vendrán a un alto costo, sin embargo. Meramente construir el Buque Insignia será un enorme esfuerzo, requiriendo un colosal acopio de recursos y una inversión significativa de tiempo y mano de obra. Una vez completado, tomará todo el PIB de una pequeña nación estelar para mantenerlo; como resultado, requerirá una cantidad masiva de influencia política para obtener la aprobación para el proyecto."
+
+tech_supportcruiser_1: "Actualización de Destructor de Apoyo"
+tech_supportcruiser_1_desc: "A medida que nuestras flotas crecen en tamaño, y la distancia que recorren desde casa aumenta, se hace necesario apoyarlas internamente en lugar de intentar mantener líneas de suministro a larga distancia. El Destructor de Apoyo es la respuesta a este problema, añadiendo nuevas capacidades de apoyo a nuestros Destructores a través de la adición de módulos avanzados." 
+
+tech_explorationship_1: "Explorador (Nivel 1)"
+tech_explorationship_1_desc: "Nuestros intrépidos Oficiales de Ciencia han enfrentado un peligro increíble en su búsqueda por explorar la galaxia y descubrir todos los secretos que tiene para ofrecer. Nuestros ingenieros navales sugieren el desarrollo de una gran Nave Científica capaz de combatir dedicada a explorar nuevos mundos, buscar nueva vida y nuevas civilizaciones, y audazmente ir donde nadie ha ido antes."
+
+tech_explorationship_2: "Explorador (Nivel 2)"
+tech_explorationship_2_desc: "Nuestros intrépidos Oficiales de Ciencia han enfrentado un peligro increíble en su búsqueda por explorar la galaxia y descubrir todos los secretos que tiene para ofrecer. Nuestros ingenieros navales, complacidos con el rendimiento del Explorador, sugieren desarrollar una variante más potente para aumentar aún más la protección disponible para nuestros mejores y más brillantes Oficiales de Ciencia."
+
+tech_explorationship_3: "Explorador (Nivel 3)"
+tech_explorationship_3_desc: "Nuestros intrépidos Oficiales de Ciencia han enfrentado un peligro increíble en su búsqueda por explorar la galaxia y descubrir todos los secretos que tiene para ofrecer. Nuestros ingenieros navales, complacidos con el rendimiento de la forma mejorada del Explorador, sugieren desarrollar una variante aún más potente para aumentar aún más la protección disponible para nuestros mejores y más brillantes Oficiales de Ciencia."
+
+tech_explorationship_4: "Explorador (Nivel 4)"
+tech_explorationship_4_desc: "Nuestros intrépidos Oficiales de Ciencia han enfrentado un peligro increíble en su búsqueda por explorar la galaxia y descubrir todos los secretos que tiene para ofrecer. Nuestros ingenieros navales, complacidos con el rendimiento de la forma mejorada del Explorador, sugieren desarrollar una variante aún más potente para aumentar aún más la protección disponible para nuestros mejores y más brillantes Oficiales de Ciencia."
+
+tech_drydock_1: "Dique Seco de la Base Estelar"
+tech_drydock_1_desc: "Esta instalación especialmente diseñada utiliza tecnología avanzada para mantener las presiones atmosféricas dentro de los Astilleros, permitiendo a los trabajadores construir, mantener, mejorar y reparar muchas naves de guerra a la vez."
+
+tech_sensorstation_1: "Estación de Sensores"
+tech_sensorstation_1_desc: "La estación de sensores de la base estelar utiliza matrices de sensores avanzados para extender nuestras capacidades de recolección de inteligencia a través de varios sistemas estelares, dándonos una advertencia avanzada de cualquier posible amenaza cerca de nuestras fronteras."
+
+tech_starbase_6: "Base Estelar Gran Ciudadela"
+tech_starbase_6_desc: "A medida que las flotas crecen más grandes y más poderosas, se hace necesario que nuestras bases estelares e instalaciones defensivas crezcan en fuerza, también. La Gran Ciudadela es una estación de defensa del sistema poderosa y altamente avanzada, una mejora masiva a las bases estelares de clase Ciudadela existentes. Estas valiosas y altamente desarrolladas bases estelares son instalaciones importantes para nuestro imperio, y pueden soportar una amplia gama de instalaciones."
+
+tech_starbase_7: "Base Estelar Fortaleza Solar"
+tech_starbase_7_desc: "La última mejora en la cadena de bases estelares, la Fortaleza Solar es la estación de comando y defensa definitiva, la clase más grande de base estelar que es posible construir. Las flotas enemigas se romperán en estos macizos baluartes, y cada uno es un activo vital para nuestro imperio, defendiendo las ubicaciones más críticas en el mapa galáctico."
+
+tech_space_defense_station_2: "Defensas Espaciales Profundas 2"
+tech_space_defense_station_2_desc: "A medida que las flotas crecen más grandes y más poderosas, se hace necesario que nuestras instalaciones defensivas crezcan en fuerza, también. Estas Estaciones de Defensa expandidas, una mejora a las Plataformas de Defensa básicas que actualmente usamos, nos permitirán defender mejor nuestro territorio de los ataques enemigos."
+
+tech_space_defense_station_3: "Defensas Espaciales Profundas 3"
+tech_space_defense_station_3_desc: "A medida que las flotas crecen más grandes y más poderosas, se hace necesario que nuestras instalaciones defensivas crezcan en fuerza, también. Estas instalaciones defensivas de nivel Fortaleza expandidas, una mejora a las Estaciones de Defensa actualmente en uso, nos permitirán defender mejor nuestro territorio de los ataques enemigos."
+
+tech_specialcomponents_1: "Componentes Avanzados de Naves de Guerra"
+tech_specialcomponents_1_desc: "Nuestros científicos han ideado una amplia gama de nuevos módulos poderosos que permiten la mejora y la especialización adicional de nuestras naves de guerra. Ahora sólo tenemos que miniaturizarlos, para hacerlos lo suficientemente pequeños para llevar a bordo de nuestros buques."
+
+tech_ship_upkeep_1: "Líneas de Suministro de Flota Eficientes"
+tech_ship_upkeep_1_desc: "Los avances en tecnología y logística nos permiten operar líneas de suministro mucho más eficientes a nuestras flotas, reduciendo significativamente nuestros costos de mantenimiento de naves."
+
+tech_starbase_upkeep_1: "Mantenimiento Eficiente de la Base Estelar"
+tech_starbase_upkeep_1_desc: "Los avances en tecnología y formación nos permiten enseñar a nuestro personal de apoyo de la base estelar métodos de mantenimiento mucho más eficientes, reduciendo significativamente nuestros costos de mantenimiento de la base estelar."
+
+tech_singularity_power: "Poder de Singularidad"
+tech_singularity_power_desc: "Reactor alimentado por una singularidad cuántica."
+
+tech_bh_power_3: "Reactores Avanzados de Buque Insignia"
+tech_bh_power_3_desc: "Reactor alimentado por un agujero negro artificial."
+
+tech_bh_power_2: "Reactores Mejorados de Buque Insignia"
+tech_bh_power_2_desc: "Reactor alimentado por un agujero negro artificial."
+
+tech_optimized_enigmatic_power: "Reactor de Materia Oscura Optimizado"
+tech_optimized_enigmatic_power_desc: "Reactor de Materia Oscura Mejorado"
+
+tech_graviton_power: "Reactor Gravitónico"
+tech_graviton_power_desc: "La adición de partículas basadas en gravitones y gravitacionales para reforzar una reacción de antimateria aumenta enormemente la producción de energía de nuestros reactores."
+
+tech_multidimensional_power: "Reactor Multidimensional"
+tech_multidimensional_power_desc: "Crear un puente de materia entre diferentes dimensiones y realidades alternativas permite un flujo constante, aunque algo limitado, de energía de vacío para alimentar nuestra próxima generación de reactores."
+
+tech_naquadria_power: "Reactor Naquadria"
+tech_naquadria_power_desc: "Reactor especializado alimentado por cristales antiguos y raros."
+
+nsc_sec_power_core: "Reactor Secundario"
+nsc_sec_power_core_desc: "Ranura de Reactor Secundario para Estaciones y Fortalezas"
+
+tech_nsc_reactor_boosters_1: "Potenciadores Gravitónicos"
+tech_nsc_reactor_boosters_1_desc: "El descubrimiento de la energía Gravitónica permite la instalación de mejores potenciadores de reactor en nuestras naves."
+tech_nsc_reactor_boosters_2: "Potenciadores Naquadria"
+tech_nsc_reactor_boosters_2_desc: "El descubrimiento de la energía Naquadria permite la instalación de mejores potenciadores de reactor en nuestras naves."
+tech_nsc_reactor_boosters_3: "Potenciadores de Singularidad"
+tech_nsc_reactor_boosters_3_desc: "El descubrimiento de la energía de Singularidad permite la instalación de mejores potenciadores de reactor en nuestras naves."
+
+tech_nsc_dlc_check: "¿Apocalipsis Ahora?"
+tech_nsc_dlc_check_desc: "Esta es una tecnología de inicio automático para comprobar el DLC del Apocalipsis."
+
+tech_strikecruiser_build_speed: "Patrones Estandarizados de Cruceros de Ataque"
+tech_strikecruiser_build_speed_desc: "Establecer nuevos estándares para el modelado y la construcción de Cruceros de Ataque mejora enormemente la eficiencia de la cadena de producción."
+tech_strikecruiser_hull_1: "Cascos Mejorados de Cruceros de Ataque"
+tech_strikecruiser_hull_1_desc: "Los avances en las técnicas de construcción permitirán la construcción de Cruceros de Ataque más robustos y duraderos."
+tech_strikecruiser_hull_2: "Cascos Avanzados de Cruceros de Ataque"
+tech_strikecruiser_hull_2_desc: "La última generación de cascos de Cruceros de Ataque han optimizado los campos de integridad estructural y los mamparos mejorados."
+
+tech_battlecruiser_build_speed: "Patrones Estandarizados de Cruceros de Batalla"
+tech_battlecruiser_build_speed_desc: "Establecer nuevos estándares para el modelado y la construcción de Cruceros de Batalla mejora enormemente la eficiencia de la cadena de producción."
+tech_battlecruiser_hull_1: "Cascos Mejorados de Cruceros de Batalla"
+tech_battlecruiser_hull_1_desc: "Los avances en las técnicas de construcción permitirán la construcción de Cruceros de Batalla más robustos y duraderos."
+tech_battlecruiser_hull_2: "Cascos Avanzados de Cruceros de Batalla"
+tech_battlecruiser_hull_2_desc: "La última generación de cascos de Cruceros de Batalla han optimizado los campos de integridad estructural y los mamparos mejorados."
+
+tech_carrier_build_speed: "Patrones Estandarizados de Portanaves"
+tech_carrier_build_speed_desc: "Establecer nuevos estándares para el modelado y la construcción de Portanaves mejora enormemente la eficiencia de la cadena de producción."
+tech_carrier_hull_1: "Cascos Mejorados de Portanaves"
+tech_carrier_hull_1_desc: "Los avances en las técnicas de construcción permitirán la construcción de Portanaves más robustos y duraderos."
+tech_carrier_hull_2: "Cascos Avanzados de Portanaves"
+tech_carrier_hull_2_desc: "La última generación de cascos de Portanaves han optimizado los campos de integridad estructural y los mamparos mejorados."
+
+tech_dreadnought_build_speed: "Patrones Estandarizados de Acorazados"
+tech_dreadnought_build_speed_desc: "Establecer nuevos estándares para el modelado y la construcción de Acorazados mejora enormemente la eficiencia de la cadena de producción."
+tech_dreadnought_hull_1: "Cascos Mejorados de Acorazados"
+tech_dreadnought_hull_1_desc: "Los avances en las técnicas de construcción permitirán la construcción de Acorazados más robustos y duraderos."
+tech_dreadnought_hull_2: "Cascos Avanzados de Acorazados"
+tech_dreadnought_hull_2_desc: "La última generación de cascos de Acorazados han optimizado los campos de integridad estructural y los mamparos mejorados."
+
+tech_flagship_build_speed: "Patrones Estandarizados de Buques Insignia"
+tech_flagship_build_speed_desc: "Establecer nuevos estándares para el modelado y la construcción del Buque Insignia mejora enormemente la eficiencia de la cadena de producción."
+tech_flagship_hull_1: "Cascos Mejorados de Buques Insignia"
+tech_flagship_hull_1_desc: "Los avances en las técnicas de construcción permitirán la construcción de Buques Insignia más robustos y duraderos."
+tech_flagship_hull_2: "Cascos Avanzados de Buques Insignia"
+tech_flagship_hull_2_desc: "La última generación de cascos de Buques Insignia han optimizado los campos de integridad estructural y los mamparos mejorados."
+
+tech_stronghold_upgrades: "Bases Estelares Mejoradas"
+tech_stronghold_upgrades_desc: "Establecer nuevos estándares para el modelado y la construcción de todas las bases estelares mejora enormemente la eficiencia de la cadena de producción."
+
+tech_mining_base: "Refinería de Minerales del Sistema"
+tech_mining_base_desc: "A medida que nos expandimos entre las estrellas, requerimos cada vez más recursos para sostener nuestra civilización. Crear refinerías de minerales especializadas y basadas en el espacio podría ayudar a centralizar la producción y aumentar la eficiencia, lo que llevaría a rendimientos minerales más altos."
+
+tech_power_station: "Red de Energía del Sistema"
+tech_power_station_desc: "Un imperio estelar en expansión requiere una producción de Energía cada vez mayor para sostenerlo. Crear instalaciones de creación de Energía especializadas y basadas en el espacio nos permitirá centralizar nuestra producción de Energía en sistemas clave para satisfacer mejor las necesidades de Energía de nuestra nación."
+
+tech_defense_platforms_1: "Aumento de Plataforma de Defensa - Nivel 1"
+tech_defense_platforms_1_desc: "Las tecnologías mejoradas nos permiten construir más plataformas de defensa para nuestras bases estelares."
+
+tech_defense_platforms_2: "Aumento de Plataforma de Defensa - Nivel 2"
+tech_defense_platforms_2_desc: "Las tecnologías mejoradas nos permiten construir más plataformas de defensa para nuestras bases estelares."
+
+tech_defense_platforms_3: "Aumento de Plataforma de Defensa - Nivel 3"
+tech_defense_platforms_3_desc: "Las tecnologías mejoradas nos permiten construir más plataformas de defensa para nuestras bases estelares."
+
+tech_defense_platforms_4: "Aumento de Plataforma de Defensa - Nivel 4"
+tech_defense_platforms_4_desc: "Las tecnologías mejoradas nos permiten construir más plataformas de defensa para nuestras bases estelares."
+
+tech_nsc_ai_computer_1: "Sistema de Combate de Inteligencia Artificial"
+tech_nsc_ai_computer_1_desc: "Este sistema de computadora extremadamente avanzado puede ejecutar inteligentemente todos los sistemas de combate en una nave sin tomar el timón, permitiendo un control de movimiento completo durante el combate. Disponible para Portanaves, Naves de Apoyo de Flota, y el Buque Insignia."
+
+tech_tomahawk_cruise_missile_1: "Misiles de Crucero Avanzados"
+tech_tomahawk_cruise_missile_1_desc: "Con el desarrollo del combate a distancias cada vez más largas, así como la aparición de masivas naves capitales e instalaciones defensivas, hay una clara necesidad de misiles más grandes y poderosos capaces de enfrentar estas nuevas amenazas, y ser lanzados desde nuestras propias naves. Estos Misiles de Crucero Avanzados son la respuesta a esta necesidad emergente."
+
+tech_nsc_disabled_sections: "Secciones de Naves NSC Deshabilitadas"
+tech_nsc_disabled_sections_desc: "Si estás viendo esta tecnología, algo está mal o usaste la consola."
+
+tech_hospital: "Hospital General Galáctico"
+tech_hospital_desc: "Un hospital espacial absolutamente gigantesco y de última generación, dedicado al estudio de las diversas xenorazas en la galaxia, y al análisis y tratamiento de todas las enfermedades y condiciones que las afligen."
+
+tech_galactic_mall: "Centro Comercial Galáctico"
+tech_galactic_mall_desc: "El centro comercial y centro de compras más grande de la galaxia, capaz de producir grandes cantidades de bienes de consumo, y el viaje de compras definitivo para los más dedicados compradores de la galaxia."
+
+tech_hyperlane_generation: "Generación de Hipervías"
+tech_hyperlane_generation_desc: "Los recientes avances tanto en el diseño de hiperimpulsores como en la activación de Portales en ruinas pueden permitirnos desarrollar la forma de crear nuevas Hipervías y eliminar las existentes, permitiéndonos finalmente remodelar la geografía galáctica para nuestras necesidades y propósitos."
+requires_tech_hyperlane_generation: "§RRequiere £physics£ §Y$tech_hyperlane_generation$§! tecnología.§!"
+
+
+
+
+##################################################################################################################################################################################################################
+### TECH UNLOCKS ###
+####################
+
+TECH_UNLOCK_HYPERLANE_GENERATION_TITLE: "§HDesbloquea Característica:§! Generación de Hipervías"
+TECH_UNLOCK_HYPERLANE_GENERATION_DESC: "§HGeneración de Hipervías§!\nPermite la creación y eliminación de Hipervías."
+
+TECH_UNLOCK_GRAVITON_POWER_TITLE: "§HDesbloquea Componente:§! $GRAVITON_REACTOR$"
+TECH_UNLOCK_GRAVITON_POWER_DESC: "§H$GRAVITON_REACTOR$§!\n$GRAVITON_REACTOR_DESC$"
+ 
+TECH_UNLOCK_NAQUADRIA_POWER_TITLE: "§HDesbloquea Componente:§! $NAQUADRIA_REACTOR$"
+TECH_UNLOCK_NAQUADRIA_POWER_DESC: "§H$NAQUADRIA_REACTOR$§!\n$NAQUADRIA_REACTOR_DESC$"
+
+TECH_UNLOCK_SINGULARITY_POWER_TITLE: "§HDesbloquea Componente:§! $SINGULARITY_REACTOR$"
+TECH_UNLOCK_SINGULARITY_POWER_DESC: "§H$SINGULARITY_REACTOR$§!\n$SINGULARITY_REACTOR_DESC$"
+
+TECH_UNLOCK_MULTIDIMENSIONAL_POWER_TITLE: "§HDesbloquea Componente:§! $MULTIDIMENSIONAL_REACTOR$"
+TECH_UNLOCK_MULTIDIMENSIONAL_POWER_DESC: "§H$MULTIDIMENSIONAL_REACTOR$§!\n$MULTIDIMENSIONAL_REACTOR_DESC$"
+
+TECH_UNLOCK_OPTIMIZED_ENIGMATIC_POWER_TITLE: "§HDesbloquea Componente:§! $OPTIMIZED_ENIGMATIC_REACTOR$"
+TECH_UNLOCK_OPTIMIZED_ENIGMATIC_POWER_DESC: "§H$OPTIMIZED_ENIGMATIC_REACTOR$§!\n$OPTIMIZED_ENIGMATIC_REACTOR_DESC$"
+
+TECH_UNLOCK_OPTIMIZED_ENIGMATIC_POWER_TITLE: "§HDesbloquea Componente:§! $OPTIMIZED_ENIGMATIC_REACTOR$"
+TECH_UNLOCK_OPTIMIZED_ENIGMATIC_POWER_DESC: "§H$OPTIMIZED_ENIGMATIC_REACTOR$§!\n$OPTIMIZED_ENIGMATIC_REACTOR_DESC$"
+
+TECH_UNLOCK_BH_POWER_TITLE: "§HDesbloquea Componente:§! $FLAGSHIP_BLACK_HOLE_REACTOR_1$"
+TECH_UNLOCK_BH_POWER_DESC: "§H$FLAGSHIP_BLACK_HOLE_REACTOR_1$§!\n$FLAGSHIP_BLACK_HOLE_REACTOR_1_DESC$"
+
+TECH_UNLOCK_PD_FRIGATE_CONSTRUCTION_TITLE: "§HDesbloquea Tipo de Sección:§! Fragata de Escolta"
+TECH_UNLOCK_PD_FRIGATE_CONSTRUCTION_DESC: "§HFragata PD§!\nLos misiles, torpedos y naves de ataque representan una grave amenaza para nuestras flotas. Nuestros ingenieros navales sugieren rediseñar nuestras Fragatas para montar un conjunto de numerosas armas de defensa de punto para derribar estos objetivos antes de que puedan alcanzar nuestras naves."
+
+TECH_UNLOCK_STRIKECRUISER_CONSTRUCTION_TITLE: "§HDesbloquea Tipo de Sección:§! Crucero de Ataque"
+TECH_UNLOCK_STRIKECRUISER_CONSTRUCTION_DESC: "§HCrucero de Ataque§!\nLa experiencia de batalla y los extensos ejercicios de guerra muestran que el combate de flotas a menudo termina sin un resultado decisivo, porque el bando perdedor realiza un salto inmediato y de emergencia a UL. Nuestros mejores científicos han miniaturizado la Trampa de Subespacio utilizada en las bases estelares para su despliegue en una nave. Estos buques serán increíblemente rápidos, para atrapar a las flotas enemigas en sus Trampas, lo suficientemente maniobrables para evitar que las naves enemigas se desenganchen del combate, y lo suficientemente resistentes para resistir un castigo significativo para asegurar que el enemigo esté retenido el mayor tiempo posible."
+
+TECH_UNLOCK_BATTLECRUISER_CONSTRUCTION_TITLE: "§HDesbloquea Tipo de Nave:§! Crucero de Batalla"
+TECH_UNLOCK_BATTLECRUISER_CONSTRUCTION_DESC: "§HCrucero de Batalla§!\nA medida que los buques cada vez más grandes se vuelven más comunes, el combate se está llevando a cabo a distancias más largas, y el poder de fuego ofensivo se está convirtiendo en un factor cada vez más decisivo en la batalla. Nuestros teóricos navales sugieren construir un buque largo y potente capaz de montar emplazamientos de armas grandes, medianas y, sobre todo, guiadas, para especializarse en lanzar la mayor cantidad de armamento posible al enemigo, ya sea en combate a media o larga distancia."
+
+TECH_UNLOCK_ESCORTCARRIER_CONSTRUCTION_TITLE: "§HDesbloquea Mejora de Nave:§! Portanaves Ligero"
+TECH_UNLOCK_ESCORTCARRIER_CONSTRUCTION_DESC: "§HPortanaves de Escolta§!\nLa clase Destructor puede ser reutilizada como una plataforma dedicada de Naves de Ataque ligeras, permitiendo a nuestras flotas llevar el muy necesario poder de fuego a las líneas del frente."
+
+TECH_UNLOCK_CARRIER_CONSTRUCTION_TITLE: "§HDesbloquea Tipo de Nave:§! Portanaves"
+TECH_UNLOCK_CARRIER_CONSTRUCTION_DESC: "§HPortanaves§!\nLas Naves de Ataque han demostrado ser armas altamente exitosas en el combate naval. Es hora de diseñar un buque de guerra especializado con el propósito expreso de llevar estas armas a la batalla, y albergar el gran personal de apoyo y las bahías de mantenimiento que requieren. Hacerlo permitirá a estos nuevos buques Portanaves llevar muchas más naves de ataque que sus predecesores más improvisados."
+
+TECH_UNLOCK_HEAVYCARRIER_CONSTRUCTION_TITLE: "§HDesbloquea Tipo de Sección:§! Portanaves Pesado"
+TECH_UNLOCK_HEAVYCARRIER_CONSTRUCTION_DESC: "§HPortanaves Pesado§!\nA medida que nuestras capacidades de construcción de naves continúan aumentando, seguimos buscando nuevas formas de avanzar en nuestros diseños actuales de clases de naves. Combinado con nuevos avances en la miniaturización de muchas de las instalaciones de apoyo necesarias para el mantenimiento de las naves de ataque, creemos que podemos alterar nuestros diseños existentes de Portanaves en Portanaves Pesados, con la capacidad de soportar más bahías de hangares."
+
+TECH_UNLOCK_SUPERCARRIER_CONSTRUCTION_TITLE: "§HDesbloquea Tipo de Sección:§! Supercarguero"
+TECH_UNLOCK_SUPERCARRIER_CONSTRUCTION_DESC: "§HSupercarguero§!\nLos esfuerzos adicionales tanto en la construcción de naves como en la miniaturización de las instalaciones de apoyo para las naves de ataque nos permitirán introducir un número absolutamente increíble de bahías de hangares en nuestros Portanaves. Estos Supercargueros serán capaces de soportar enjambres de naves de ataque, mejor para defender nuestras flotas del ataque, y para abrumar al enemigo con nuestros mejores pilotos."
+
+TECH_UNLOCK_SPITFIRE_CONSTRUCTION_TITLE: "§HActualización de Acorazado Spitfire§!"
+TECH_UNLOCK_SPITFIRE_CONSTRUCTION_DESC: "Mientras que los buques capitales son mucho más poderosos que cualquier nave que haya existido antes, también son mucho más caros, y representan objetivos jugosos para enjambres de naves más pequeñas y baratas que pueden abrumar a los buques capitales con números puros. Para contrarrestar esto, nuestros ingenieros están trabajando en algunos planos que podrían adaptar el Acorazado en una potencia anti-Corbeta-y-Destructor, junto con armas específicamente diseñadas para ese propósito. Estos nuevos diseños harán que estos 'Acorazados Spitfire' tengan un costo de producción aún más alto, pero tales sacrificios valen la pena, si significa proteger nuestros vulnerables buques capitales."
+
+TECH_UNLOCK_DREADNOUGHT_CONSTRUCTION_TITLE: "§HDesbloquea Tipo de Nave:§! Acorazado"
+TECH_UNLOCK_DREADNOUGHT_CONSTRUCTION_DESC: "§HDreadnought§!\nEl Acorazado marcó una nueva era de diseño de naves y combate naval. La capacidad de entregar y recibir daño masivo a larga distancia, y la llegada de armas XL devastadoras, han cambiado completamente la naturaleza de la guerra. Nuestros ingenieros navales creen que deberíamos desarrollar una versión aún mejor de estas poderosas naves. Sus propuestos "Acorazados" serían capaz de montar defensas más pesadas, más cañones e incluso dos de las increíbles armas XL que tanto éxito han tenido en el campo de batalla."
+
+TECH_UNLOCK_FLAGSHIP_CONSTRUCTION_TITLE: "§HDesbloquea Tipo de Nave:§! Buque insignia"
+TECH_UNLOCK_FLAGSHIP_CONSTRUCTION_DESC: "§HBuque insignia§!\nLa carrera armamentista naval ha visto la producción de buques de guerra cada vez más grandes sin fin a la vista. Nuestros ingenieros navales han sugerido saltar a la conclusión lógica de esta escalada serial construyendo una nave tan masiva y poderosa, que ningún imperio será capaz de soportar más de una de ellas a la vez. Este Buque insignia propuesto será el buque de guerra definitivo. Diseñado para la máxima versatilidad, cada sección tendrá muchas configuraciones posibles, permitiéndonos diseñar nuestro Buque insignia para adaptarse a nuestros propósitos. Montando muchos más propulsores por tonelada que cualquier otra nave, el Buque insignia será capaz de tomar cualquier posición en la flota, desde una batería de largo alcance en la retaguardia, hasta un luchador masivo en la punta de la lanza de una flota.\n\nEste poder y versatilidad vendrán a un alto costo, sin embargo. Meramente construir el Buque insignia será un enorme esfuerzo, requiriendo un colosal acopio de recursos y una inversión significativa de tiempo y mano de obra. Una vez completado, tomará todo el PIB de una pequeña nación estelar para mantenerlo; como resultado, requerirá una cantidad masiva de influencia política para obtener la aprobación para el proyecto."
+
+TECH_UNLOCK_SUPPORTSHIP_CONSTRUCTION_TITLE: "§HDesbloquea Mejora de Nave:§! Destructor de Apoyo"
+TECH_UNLOCK_SUPPORTSHIP_CONSTRUCTION_DESC: "§HNave de Apoyo de Flota§!\nA medida que nuestras flotas crecen en tamaño, y la distancia que recorren desde casa aumenta, se hace necesario apoyarlas internamente en lugar de tratar de mantener líneas de suministro de largo alcance. El Destructor de Apoyo es la respuesta a este problema, añadiendo nuevas capacidades de apoyo a nuestros Cruceros a través de la adición de módulos avanzados." 
+
+TECH_UNLOCK_EXPLORATIONSHIP_CONSTRUCTION_TITLE: "§HDesbloquea Tipo de Nave:§! Explorador"
+TECH_UNLOCK_EXPLORATIONSHIP_CONSTRUCTION_DESC: "§HExplorador§!\nNuestros intrépidos Oficiales de Ciencia han enfrentado un peligro increíble en su búsqueda por explorar la galaxia y descubrir todos los secretos que tiene para ofrecer. Nuestros ingenieros navales sugieren el desarrollo de una gran Nave de Ciencia capaz de combatir dedicada a explorar nuevos mundos, buscar nueva vida y nuevas civilizaciones, y atreverse a ir donde nadie ha ido antes."
+
+TECH_UNLOCK_EXPLORATIONSHIP2_CONSTRUCTION_TITLE: "§HDesbloquea Mejora de Nave:§! Explorador - Nivel 2"
+TECH_UNLOCK_EXPLORATIONSHIP2_CONSTRUCTION_DESC: "§HExplorador - Nivel 2§!\nNuestros intrépidos Oficiales de Ciencia han enfrentado un peligro increíble en su búsqueda por explorar la galaxia y descubrir todos los secretos que tiene para ofrecer. Nuestros ingenieros navales, satisfechos con el rendimiento del Explorador, sugieren desarrollar una variante más potente para aumentar aún más la protección disponible para nuestros mejores y más brillantes Oficiales de Ciencia."
+
+TECH_UNLOCK_EXPLORATIONSHIP3_CONSTRUCTION_TITLE: "§HDesbloquea Mejora de Nave:§! Explorador - Nivel 3"
+TECH_UNLOCK_EXPLORATIONSHIP3_CONSTRUCTION_DESC: "§HExplorador - Nivel 3§!\nNuestros intrépidos Oficiales de Ciencia han enfrentado un peligro increíble en su búsqueda por explorar la galaxia y descubrir todos los secretos que tiene para ofrecer. Nuestros ingenieros navales, satisfechos con el rendimiento de la forma mejorada del Explorador, sugieren desarrollar una variante aún más potente para aumentar aún más la protección disponible para nuestros mejores y más brillantes Oficiales de Ciencia."
+
+TECH_UNLOCK_EXPLORATIONSHIP4_CONSTRUCTION_TITLE: "§HDesbloquea Mejora de Nave:§! Explorador - Nivel 4"
+TECH_UNLOCK_EXPLORATIONSHIP4_CONSTRUCTION_DESC: "§HExplorador - Nivel 4§!\nNuestros intrépidos Oficiales de Ciencia han enfrentado un peligro increíble en su búsqueda por explorar la galaxia y descubrir todos los secretos que tiene para ofrecer. Nuestros ingenieros navales, satisfechos con el rendimiento de la forma mejorada del Explorador, sugieren desarrollar una variante aún más potente para aumentar aún más la protección disponible para nuestros mejores y más brillantes Oficiales de Ciencia."
+
+TECH_UNLOCK_DRYDOCK_CONSTRUCTION_TITLE: "§HDesbloquea Edificio de Base Estelar:§! Astillero Seco"
+TECH_UNLOCK_DRYDOCK_CONSTRUCTION_DESC: "§HAstillero Seco§!\nEsta instalación especialmente diseñada utiliza tecnología avanzada para mantener las presiones atmosféricas dentro de los Astilleros, permitiendo a los trabajadores construir, mantener, mejorar y reparar muchas naves de guerra a la vez con mayor facilidad."
+
+TECH_UNLOCK_SENSORSTATION_CONSTRUCTION_TITLE: "§HDesbloquea Edificio de Base Estelar:§! Estación de Sensores"
+TECH_UNLOCK_SENSORSTATION_CONSTRUCTION_DESC: "§HEstación de Sensores§!\nLa estación de sensores de la base estelar utiliza matrices de sensores avanzados para extender nuestras capacidades de recopilación de inteligencia a través de varios sistemas estelares, dándonos una advertencia avanzada de cualquier posible amenaza cerca de nuestras fronteras."
+
+TECH_UNLOCK_STRONGHOLD_CONSTRUCTION_TITLE: "§HDesbloquea Mejora de Base Estelar:§! Gran Ciudadela"
+TECH_UNLOCK_STRONGHOLD_CONSTRUCTION_DESC: "§HFuerte§!\nA medida que las flotas se vuelven más grandes y poderosas, se hace necesario que nuestras bases estelares e instalaciones defensivas crezcan en fuerza también. La Gran Ciudadela es una estación de defensa del sistema poderosa y altamente avanzada, una mejora masiva a las bases estelares de clase Ciudadela existentes. Estas valiosas y altamente desarrolladas bases estelares son instalaciones importantes para nuestro imperio, y pueden soportar una amplia gama de instalaciones."
+
+TECH_UNLOCK_HEADQUARTERS_CONSTRUCTION_TITLE: "§HDesbloquea Mejora de Base Estelar:§! Fuerte Solar"
+TECH_UNLOCK_HEADQUARTERS_CONSTRUCTION_DESC: "§HFuerte Solar§!\nLa última mejora en la cadena de bases estelares, el Fuerte Solar es la estación de comando y defensa definitiva, la clase más grande de base estelar que es posible construir. Las flotas enemigas se romperán en estos baluartes masivos, y cada uno es un activo vital para nuestro imperio, defendiendo las ubicaciones más críticas en el mapa galáctico."
+
+TECH_UNLOCK_DEFENSESTATION_CONSTRUCTION_TITLE: "§HDesbloquea Estación:§! Estación de Defensa de Base Estelar"
+TECH_UNLOCK_DEFENSESTATION_CONSTRUCTION_DESC: "§HEstación de Defensa de Base Estelar§!\nA medida que las flotas se vuelven más grandes y poderosas, se hace necesario que nuestras instalaciones defensivas crezcan en fuerza también. Estas Estaciones de Defensa ampliadas, una mejora a las Plataformas de Defensa básicas que usamos actualmente, nos permitirán defender mejor nuestro territorio del ataque enemigo."
+
+TECH_UNLOCK_DEFENSEFORTRESS_CONSTRUCTION_TITLE: "§HDesbloquea Estación:§! Fortaleza de Defensa de Base Estelar"
+TECH_UNLOCK_DEFENSEFORTRESS_CONSTRUCTION_DESC: "§HFortaleza de Defensa de Base Estelar§!\nA medida que las flotas se vuelven más grandes y poderosas, se hace necesario que nuestras instalaciones defensivas crezcan en fuerza también. Estas instalaciones defensivas de nivel Fortaleza ampliadas, una mejora a las Estaciones de Defensa actualmente en uso, nos permitirán defender mejor nuestro territorio del ataque enemigo."
+
+TECH_UNLOCK_SPECIALCOMPONENTS_CONSTRUCTION_TITLE: "§HDesbloquea Conjunto de Componentes:§! Componentes Avanzados de Naves de Guerra"
+TECH_UNLOCK_SPECIALCOMPONENTS_CONSTRUCTION_DESC: "§HComponentes Avanzados de Naves de Guerra§!\nNuestros científicos han ideado una amplia gama de nuevos módulos potentes que permiten la mejora y la especialización adicional de nuestras naves de guerra. Ahora sólo tenemos que miniaturizarlos, para hacerlos lo suficientemente pequeños para llevar a bordo de nuestras naves."
+
+TECH_UNLOCK_NSC_DLC_CONSTRUCTION_TITLE: "Esta es una tecnología de inicio automático para comprobar el DLC Apocalypse."
+TECH_UNLOCK_NSC_DLC_CONSTRUCTION_DESC: "Esta es una tecnología de inicio automático para comprobar el DLC Apocalypse."
+
+TECH_UNLOCK_MINING_BASE_CONSTRUCTION_TITLE: "§HDesbloquea Edificio de Base Estelar:§! Refinería de Minerales del Sistema"
+TECH_UNLOCK_MINING_BASE_CONSTRUCTION_DESC: "§HBase Minera§!\nCentro de procesamiento de minerales a nivel de sistema que mejora la producción de minerales para todo el sistema."
+
+TECH_UNLOCK_POWER_STATON_CONSTRUCTION_TITLE: "§HDesbloquea Edificio de Base Estelar:§! Red de Energía del Sistema"
+TECH_UNLOCK_POWER_STATON_CONSTRUCTION_DESC: "§HEstación de Energía§!\nRed de energía a nivel de sistema que mejora la producción de energía para todo el sistema."
+
+TECH_UNLOCK_AICOMPUTER_CONSTRUCTION_TITLE: "§HDesbloquea Computadora de Combate:§! Sistema de Combate de Inteligencia Artificial"
+TECH_UNLOCK_AICOMPUTER_CONSTRUCTION_DESC: "§HSistema de Combate IA§!\nEste sistema de computadora extremadamente avanzado puede ejecutar inteligentemente todos los sistemas de combate en una nave sin tomar el control del timón, permitiendo un control completo del movimiento durante el combate. Disponible para Portanaves, Naves de Apoyo de Flota y el Buque insignia."
+
+TECH_UNLOCK_CRUISEMISSILE_CONSTRUCTION_TITLE: "§HDesbloquea Arma:§! Misil de Crucero Avanzado Tomahawk\n§HDesbloquea Arma:§! Misil de Crucero Avanzado Harpoon"
+TECH_UNLOCK_CRUISEMISSILE_CONSTRUCTION_DESC: "§HMisiles de Crucero Avanzados§!\nCon la llegada de los Cruceros de Batalla, que están diseñados para ser capaces de desplegar un gran número de lanzadores de misiles, y el desarrollo del combate a distancias cada vez más largas, así como la aparición de masivas naves capitales e instalaciones defensivas, hay una clara necesidad de misiles más grandes y poderosos capaces de enfrentar estas nuevas amenazas, y ser lanzados desde nuestros Cruceros de Batalla. Estos Misiles de Crucero Avanzados son la respuesta a esta necesidad emergente."
+
+TECH_UNLOCK_GALACTIC_MALL_TITLE: "§HDesbloquea Megaestructura:§! Centro Comercial Galáctico"
+TECH_UNLOCK_GALACTIC_MALL_DESC: "El centro comercial y centro de compras más grande de la galaxia, capaz de producir grandes cantidades de bienes de consumo, y el viaje de compras definitivo para los más dedicados compradores de la galaxia."
+
+TECH_UNLOCK_HOPSITAL_TITLE: "§HDesbloquea Megaestructura:§! Hospital General Galáctico"
+TECH_UNLOCK_HOSPITAL_DESC: "Un hospital espacial absolutamente gigantesco y de última generación, dedicado al estudio de las diversas xenorazas en la galaxia, y al análisis y tratamiento de todas las enfermedades y condiciones que las afligen."

@@ -1,0 +1,188 @@
+﻿l_spanish:
+
+##################################################################################################################################################################################################################
+### POLICIES ###
+################
+
+policy_tech_options_policy:0 "Iniciativa de Diversidad de Investigación"
+policy_tech_options_policy_desc:0 "Esta política permitirá a nuestro imperio gastar puntos de investigación en proporcionar a nuestros científicos más opciones al elegir su próximo proyecto de investigación."
+
+defaulttech_option_name: "Investigación Predeterminada"
+defaulttech_option:0 "Investigación Predeterminada"
+defaulttech_option_desc:0 "Esta opción mantendrá las alternativas de investigación en el número normal - nada cambiará."
+
+tech5_option_name: "Iniciativa de Investigación 5"
+tech5_option:0 "Iniciativa de Investigación 5"
+tech5_option_desc:0 "Esta opción aumentará el número de alternativas de investigación a 5 y costará aproximadamente el 10% de nuestra producción mensual de investigación."
+
+tech10_option_name: "Iniciativa de Investigación 10"
+tech10_option:0 "Iniciativa de Investigación 10"
+tech10_option_desc:0 "Esta opción aumentará el número de alternativas de investigación a 10 y costará aproximadamente el 15% de nuestra producción mensual de investigación."
+
+tech15_option_name: "Iniciativa de Investigación 15"
+tech15_option:0 "Iniciativa de Investigación 15"
+tech15_option_desc:0 "Esta opción aumentará el número de alternativas de investigación a 15 y costará aproximadamente el 20% de nuestra producción mensual de investigación."
+
+tech20_option_name: "Iniciativa de Investigación 20"
+tech20_option:0 "Iniciativa de Investigación 20"
+tech20_option_desc:0 "Esta opción aumentará el número de alternativas de investigación a 20 y costará aproximadamente el 30% de nuestra producción mensual de investigación."
+
+
+
+##################################################################################################################################################################################################################
+### DOCTRINES ###
+#################
+
+policy_armament_doctrine:0 "Doctrina de Armamento"
+policy_armament_doctrine_desc:0 "Esta Doctrina de Flota determina qué armamentos deben enfatizar nuestros diseños de naves, a expensas de una eficiencia reducida con otras armas."
+
+balanced_focus_name:0 "Armamento Estándar"
+balanced_focus:0 "Armamento Estándar"
+balanced_focus_desc:0 "Nos enfocaremos de manera uniforme en todos los tipos de armas; no hay necesidad de especializarse en uno en detrimento de los demás."
+
+brawler_name:0 "Enfoque Brawler"
+brawler:0 "Enfoque Brawler"
+brawler_desc:0 "Las armas cinéticas tienen una larga y destacada historia. Nuestras armas cinéticas desgarrarán los escudos y cascos enemigos y traerán gloria a nuestra nación."
+
+gunship_focus_name:0 "Enfoque Gunship"
+gunship_focus:0 "Enfoque Gunship"
+gunship_focus_desc:0 "Hay cierta majestuosidad en la manipulación de energía directa para destruir a los enemigos. Nuestras armas de Energía quemarán las naves enemigas y derretirán sus flotas."
+
+guided_munitions_focus_name:0 "Enfoque Misil"
+guided_munitions_focus:0 "Enfoque Misil"
+guided_munitions_focus_desc:0 "Armas explosivas. Nuestros poderosos misiles asegurarán la victoria para nuestro pueblo."
+
+strike_craft_focus_name:0 "Enfoque de Nave de Ataque"
+strike_craft_focus:0 "Enfoque de Nave de Ataque"
+strike_craft_focus_desc:0 "Nave de Ataque, nuestros valientes pilotos demostrarán ser victoriosos"
+
+policy_defense_doctrine:0 "Doctrina de Defensa"
+policy_defense_doctrine_desc:0 "Esta Doctrina de Flota determina qué tipo de defensas de naves deben enfatizar nuestras naves, a costa de una eficiencia reducida con la otra opción defensiva."
+
+uniform_focus_name:0 "Defensas Estándar"
+uniform_focus:0 "Defensas Estándar"
+uniform_focus_desc:0 "Nos enfocaremos en blindaje y escudos en igual medida; no hay necesidad de favorecer uno sobre el otro. Son más fuertes juntos."
+
+armor_focus_name:0 "Enfoque de Blindaje"
+armor_focus:0 "Enfoque de Blindaje"
+armor_focus_desc:0 "Confía en la fuerza de nuestra Blindaje. Gruesa e impenetrable, rodea nuestros cascos en su abrazo protector, y no puede ser ignorada por misiles o torpedos."
+
+hardening_focus_name:0 "Endurecimiento Defensivo"
+hardening_focus:0 "Endurecimiento Defensivo"
+hardening_focus_desc:0 "Si nos enfocamos en endurecer nuestros escudos y placas de blindaje podemos resistir sistemas de armas de penetración para hacer nuestras naves más resistentes"
+
+shield_focus_name:0 "Enfoque de Escudo"
+shield_focus:0 "Enfoque de Escudo"
+shield_focus_desc:0 "Los escudos brillantes son la opción defensiva superior. A diferencia de la blindaje, se recargan sin necesidad de reparaciones, permitiendo campañas extendidas sin necesidad de detener nuestro ritmo de operaciones."
+
+policy_composition_doctrine:0 "Doctrina de Composición de Flota"
+policy_composition_doctrine_desc:0 "Esta Doctrina de Flota determina qué tipos de naves deben componer la mayor parte de nuestras fuerzas navales, permitiéndonos construir nuestras naves favoritas más rápidamente a un costo menor, a expensas de tardar más y costar más construir naves que no estamos enfatizando."
+
+standard_composition_name:0 "Composición Estándar"
+standard_composition:0 "Composición Estándar"
+standard_composition_desc:0 "Cada nave tiene su lugar; no deberíamos reajustar nuestros astilleros para favorecer un tipo de construcción sobre otro. Una flota de amplio alcance es la mejor opción."
+
+light_ship_focus_name:0 "Enfoque en Naves Ligeras"
+light_ship_focus:0 "Enfoque en Naves Ligeras"
+light_ship_focus_desc:0 "Las naves ligeras son baratas y rápidas, tanto en construcción como en el espacio. Son perfectas para aplastar piratas, proteger el comercio, defender amplias extensiones de espacio, proteger naves más grandes y defender nuestra nación con un presupuesto limitado. Necesitamos priorizar la construcción de estos valiosos buques."
+
+versatility_focus_name:0 "Enfoque en Cruceros"
+versatility_focus:0 "Enfoque en Cruceros"
+versatility_focus_desc:0 "Los cruceros, y sus primos mayores, los Cruceros de Ataque y los Cruceros de Batalla, son las naves más versátiles que podemos construir. Sobresalen en todas las distancias, con una amplia gama de armas, y son lo suficientemente resistentes para resistir un golpe, pero no tardan casi tanto en construirse, ni cuestan casi tanto en producir y mantener, como los buques capitales. Para una flota versátil, deberíamos centrarnos en los Cruceros para completar nuestra Marina."
+
+capital_focus_name:0 "Enfoque en Naves Capitales"
+capital_focus:0 "Enfoque en Naves Capitales"
+capital_focus_desc:0 "Las Naves Capitales son el orgullo de nuestras flotas. Con armamentos pesados para aniquilar al enemigo, y defensas pesadas para resistir cualquier ataque, estos poderosos buques de guerra son la mayor arma de nuestro arsenal. No son menos que el futuro de la guerra galáctica, y deberíamos construir nuestras flotas alrededor de ellas, y centrar nuestros esfuerzos en su construcción."
+
+carrier_focus_name:0 "Enfoque en Portanaves"
+carrier_focus:0 "Enfoque en Portanaves"
+carrier_focus_desc:0 "Nuestras Naves de Ataque son nuestras armas más grandes. Nuestros pilotos son los mejores y más brillantes de nuestro pueblo, y nuestros Portanaves son los buques que despliegan a nuestros valientes guerreros en batalla. Debemos centrar nuestros esfuerzos en producir tantos de estos poderosos buques como sea posible."
+
+policy_operations_doctrine:0 "Doctrina de Operaciones de Flota"
+policy_operations_doctrine_desc:0 "Una Marina tiene muchos deberes: Proyección de poder, defensa del territorio central, y protección del comercio interno. Nuestra Doctrina de Operaciones de Flota determina cuál de estas tareas enfatizar."
+
+standard_operations_name:0 "Operaciones Estándar"
+standard_operations:0 "Operaciones Estándar"
+standard_operations_desc:0 "No deberíamos especializar demasiado nuestras Operaciones de Flota. Debemos estar listos para cualquier y todos los deberes en todo momento, y nunca descuidar un aspecto de la planificación naval."
+
+blue_sky:0 "Operaciones Cielo Azul"
+blue_sky_name:0 "Operaciones Cielo Azul"
+blue_sky_desc:0 "Nada es más importante que la defensa de nuestros planetas y nuestra gente. Nuestra Marina existe puramente para defender nuestra nación, y deberíamos planear mantener nuestras campañas limitadas al espacio que controlamos, y luchar principalmente con nuestras poderosas Bases Estelares en apoyo de nuestras flotas."
+
+black_sky:0 "Operaciones Cielo Negro"
+black_sky_name:0 "Operaciones Cielo Negro"
+black_sky_desc:0 "Nuestra Marina debe ser capaz de proyectar poder lejos de casa, para proteger a nuestros aliados, castigar a nuestros enemigos, y responder a las crisis dondequiera que surjan. No podemos confiar en las Bases Estelares para apoyar nuestra flota; debemos ser capaces de luchar en cualquier lugar, incluso a través de la galaxia. Una flota de Cielo Negro es una herramienta de diplomacia, al igual que cualquier otra."
+
+privateer_operation:0 "Operaciones Anti-Piratería"
+privateer_operation_name:0 "Operaciones Anti-Piratería"
+privateer_operation_desc:0 "Nuestras flotas son más que suficientes para defendernos y nuestro modo de vida, pero también son instrumentales en la protección de nuestro comercio interno. El comercio es el sustento de nuestro Imperio, y debemos hacer todo lo posible para protegerlo."
+
+policy_crew_doctrine:0 "Doctrina de Entrenamiento de Tripulación"
+policy_crew_doctrine_desc:0 "El entrenamiento de las tripulaciones y oficiales de una Marina es uno de los aspectos más importantes que emprende. Deberíamos adaptar cuidadosamente nuestros programas de entrenamiento para ajustarnos a nuestras circunstancias; los programas de entrenamiento desactualizados o mal adaptados son peores que inútiles, y paralizarán nuestra Marina. Debemos decidir cómo entrenar a nuestras tripulaciones y oficiales."
+
+standard_crew:0 "Entrenamiento Estándar"
+standard_crew_name:0 "Entrenamiento Estándar"
+standard_crew_desc:0 "Un nivel de entrenamiento estándar, sin ningún enfoque especializado, nos permitirá mantener la preparación operacional de la mejor manera."
+
+excellent_crew:0 "Entrenamiento de la Academia Naval"
+excellent_crew_name:0 "Entrenamiento de la Academia Naval"
+excellent_crew_desc:0 "Debemos implementar un programa completo de entrenamiento de la Academia Naval. Las tripulaciones deben ser entrenadas durante años, con oficiales potenciales recibiendo entrenamiento especializado adicional. Sin embargo, muchos no cumplirán con los altos estándares que establecemos, reduciendo la cantidad de tripulaciones aceptables para nuestras naves."
+
+militia_crew:0 "Entrenamiento Rápido"
+militia_crew_name:0 "Entrenamiento Rápido"
+militia_crew_desc:0 "Debemos implementar un programa de entrenamiento rápido, centrado en preparar a las tripulaciones de las naves lo más pronto posible, sin ningún entrenamiento avanzado. Esto nos permitirá hinchar nuestras filas con muchos reclutas para llenar nuestras naves, pero resultará en un rendimiento de combate reducido."
+
+ai_crew:0 "Tripulaciones de Inteligencia Artificial"
+ai_crew_name:0 "Tripulaciones de Inteligencia Artificial"
+ai_crew_desc:0 "Tripularemos nuestras naves principalmente con unidades de IA. Esto tiene la ventaja de producir tripulaciones de naves a una velocidad impresionante. Sin embargo, las unidades de IA optimizadas para roles de tripulación tienen dificultades para adaptarse a situaciones que cambian rápidamente, lo que aumentará el número de bajas que tomamos en batalla."
+
+edict_nsc_doctrine_ai:0 "Sustitución de Doctrina de IA"
+edict_nsc_doctrine_ai_desc:0 "Solo para IA"
+
+policy_crew_doctrine_gestalt:0 "Doctrina de Tripulación de Drones"
+policy_crew_doctrine_gestalt_desc:0 "El entrenamiento de los drones de una Marina es uno de los aspectos más importantes que emprende. Deberíamos adaptar cuidadosamente nuestros programas de entrenamiento para ajustarnos a nuestras circunstancias; los programas de entrenamiento desactualizados o mal adaptados son peores que inútiles, y paralizarán nuestra Marina. Debemos decidir cómo entrenar a nuestros drones."
+
+standard_drones:0 "Drones Estándar"
+standard_drones_name:0 "Drones Estándar"
+standard_drones_desc:0 "Nuestros drones son suficientes en este momento; no requerimos drones de mayor calidad, drones independientes, o una multitud de drones navales."
+
+quality_protocol:0 "Protocolo de Calidad"
+quality_protocol_name:0 "Protocolo de Calidad"
+quality_protocol_desc:0 "Nuestros drones deben ser de la más alta calidad, para hacer que nuestras naves luchen con la máxima eficiencia. No podremos llenar tantas naves como podríamos haberlo hecho con estándares más laxos, pero este es el precio que pagamos por la excelencia."
+
+adaptive_protocol:0 "Protocolo Adaptativo"
+adaptive_protocol_name:0 "Protocolo Adaptativo"
+adaptive_protocol_desc:0 "Nuestros drones oficiales han sido diseñados con un pensamiento más independiente para adaptarse a diferentes situaciones. Esto significa que podemos desplegar más naves, con nuestros drones oficiales capaces de gestionar sus tripulaciones con más autonomía, pero el rendimiento general en combate sufrirá ligeramente por la falta de acción unificada."
+
+swarm_protocol:0 "Protocolo de Enjambre"
+swarm_protocol_name:0 "Protocolo de Enjambre"
+swarm_protocol_desc:0 "Nuestros drones requieren sólo un entrenamiento mínimo. Nuestras naves deben ser rápidas, y oscurecer las estrellas con sus números; no se necesita mucho entrenamiento para hacer esto. Cada nave es una pérdida insignificante; hay dos más para tomar su lugar. El Enjambre abrumará con puros números."
+
+
+
+##################################################################################################################################################################################################################
+### EDICTS ###
+##############
+
+edict_nsc_emergency_defenses:0 "Iniciativa de Defensa de Emergencia"
+edict_nsc_emergency_defenses_desc:0 "Una embestida es inminente, y nuestras defensas son débiles. Absolutamente debemos construir nuestras bases estelares, y convertirlas en emplazamientos defensivos erizados, pero tenemos muy poco tiempo.\n\nSin embargo, al echar todo lo que tenemos en el esfuerzo, podríamos ser capaces de fortificar nuestras defensas en una fracción del tiempo normal - será increíblemente costoso, pero probablemente no tan costoso como perder la guerra contra nuestros odiados enemigos."
+
+
+##################################################################################################################################################################################################################
+### TRADITIONS ###
+##############
+
+ tradition_nsc_fleet_doctrine:0 "Doctrina"
+ tradition_nsc_fleet_doctrine_desc:0 "A medida que continuamos nuestro viaje hacia las estrellas, debemos encontrar un enfoque en la composición de nuestras flotas."
+ tr_nsc_fleet_doctrine_adopt:0 "Tradición de Doctrina de Flota"
+ tr_nsc_fleet_doctrine_finish:0 "Tradición de Doctrina de Flota Terminada"
+ tr_nsc_fleet_doctrine_armament:0 "$policy_armament_doctrine$"
+ tr_nsc_fleet_doctrine_armament_desc:0 "§HDesbloquea Política:§! $policy_armament_doctrine$"
+ tr_nsc_fleet_doctrine_defense:0 "$policy_defense_doctrine$"
+ tr_nsc_fleet_doctrine_defense_desc:0 "§HDesbloquea Política:§! $policy_defense_doctrine$"
+ tr_nsc_fleet_doctrine_fleet:0 "$policy_composition_doctrine$"
+ tr_nsc_fleet_doctrine_fleet_desc:0 "§HDesbloquea Política:§! $policy_composition_doctrine$"
+ tr_nsc_fleet_doctrine_operations:0 "$policy_operations_doctrine$"
+ tr_nsc_fleet_doctrine_operations_desc:0 "§HDesbloquea Política:§! $policy_operations_doctrine$"
+ tr_nsc_fleet_doctrine_crew:0 "$policy_crew_doctrine$"
+ tr_nsc_fleet_doctrine_crew_desc:0 "§HDesbloquea Política:§! $policy_crew_doctrine$"

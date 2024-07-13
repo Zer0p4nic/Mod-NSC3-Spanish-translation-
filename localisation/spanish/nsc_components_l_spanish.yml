@@ -1,0 +1,501 @@
+﻿l_spanish:
+
+##################################################################################################################################################################################################################
+### COMPONENTS ###
+##################
+
+NSC_STRIKE_CRUISER_AURA_EMPTY: "Ranura vacía"
+NSC_TITAN_AURA_EMPTY: "Ranura vacía"
+NSC_FLAGSHIP_AURA_EMPTY: "Ranura vacía"
+SPECIAL_SLOT_EMPTY: "Ranura vacía"
+EXPLORATION_SLOT_EMPTY: "Ranura vacía"
+SPECIAL_NO_SEC_REACTOR: "Ranura vacía"
+NSC_SUPPORTSHIP_AURA_EMPTY: "Ranura vacía"
+
+nsc_supportship_aura: "Auras de destructor de soporte"
+nsc_supportship_aura_DESC: "Varias auras avanzadas diseñadas para el Crucero de Soporte."
+nsc_supportship_hull_aura: "Aura de destructor de soporte - Casco"
+NSC_SUPPORTSHIP_HULL_AURA: "Aura de destructor de soporte - Casco"
+nsc_supportship_upkeep_aura: "Aura de destructor de soporte - Mantenimiento"
+NSC_SUPPORTSHIP_UPKEEP_AURA: "Aura de destructor de soporte - Mantenimiento"
+nsc_supportship_ftl_aura: "Aura de destructor de soporte - UL"
+NSC_SUPPORTSHIP_FTL_AURA: "Aura de destructor de soporte - UL"
+nsc_supportship_armor_aura: "Aura de destructor de soporte - Blindaje"
+NSC_SUPPORTSHIP_ARMOR_AURA: "Aura de destructor de soporte - Blindaje"
+nsc_supportship_shield_aura: "Aura de destructor de soporte - Escudo"
+NSC_SUPPORTSHIP_SHIELD_AURA: "Aura de destructor de soporte - Escudo"
+nsc_supportship_invasion_aura: "Aura de destructor de soporte - Invasión"
+NSC_SUPPORTSHIP_INVASION_AURA: "Aura de destructor de soporte - Invasión"
+
+NSC_AI_COMBAT_COMPUTER: "Sistema de combate de inteligencia artificial"
+nsc_ai: "Sistema de combate de inteligencia artificial"
+NSC_AI_BEHAVIOR_DESC: "Este sistema informático extremadamente avanzado puede ejecutar de manera inteligente todos los sistemas de combate en una nave sin tomar el control del timón, permitiendo un control de movimiento completo durante el combate.\n\n§GCómo usar:§! §BEsta computadora solo está disponible en ciertas clases de naves. Permitirá al jugador controlar directamente el movimiento de estas naves mientras están en combate.\n\nLas naves equipadas con esta computadora§! §HDEBEN§! §Bestar en una flota por sí mismas o solo con otras naves que tienen la misma computadora: el control de movimiento no funcionará en flotas mixtas con otras naves que tienen diferentes computadoras de combate.\n\nUna vez equipada, la flota se moverá a la posición que designes y continuará disparando siempre que tengan un objetivo dentro del alcance de las armas.§! §HLa flota no se moverá de nuevo hasta que les digas que lo hagan.§!"
+
+nsc_strike_cruiser_aura: "Sistema de interdicción de combate avanzado"
+nsc_strike_cruiser_aura_DESC: "Las funciones avanzadas de los sistemas de combate funcionan como un Interdictor, bloqueando todas las naves hostiles dentro del rango y evitando que huyan o se desenganchen del combate. Un imprescindible para cualquier almirante que persiga una fuerza inferior o más evasiva."
+nsc_strike_cruiser_aura_2: "Sistema de interdicción de combate avanzado II"
+nsc_strike_cruiser_aura_2_desc: "Este módulo actualizado de los sistemas de combate avanzados es un Interdictor aún más efectivo que su predecesor. Todas las fuerzas hostiles dentro del rango se verán obligadas a resistir y luchar durante bastante tiempo antes de que puedan intentar escapar."
+nsc_strike_cruiser_upgrade: "Sistemas de actualización de crucero de ataque"
+nsc_strike_cruiser_upgrade_desc: "Este módulo contiene todos los sistemas necesarios para actualizar un crucero a un crucero de ataque."
+nsc_titan_aura: "Red de comando de flota"
+nsc_flagship_aura: "Red avanzada de comando de flota"
+
+NSC_STRIKE_CRUISER_AURA: "Sistema de interdicción de combate avanzado"
+NSC_STRIKE_CRUISER_AURA_2: "Sistema de interdicción de combate avanzado II"
+NSC_TITAN_AURA: "Red de comando de flota"
+NSC_FLAGSHIP_AURA: "Red avanzada de comando de flota"
+
+special_ship_slot: "Componente especial"
+special_ship_slot_DESC: "Una ranura de componente especial."
+
+exploration_ship_slot: "Componente de exploración"
+exploration_ship_slot_DESC: "Una ranura de componente especial de exploración."
+
+hq_ftl_components: "Propulsor de salto de cuartel general"
+hq_ftl_components_DESC: "Una ranura para el propulsor de salto de cuartel general."
+
+special_ship_slot: "Componente especial"
+special_ship_slot_DESC: "Una ranura de componente especial."
+
+SPECIAL_SLOT_MULTIPHASIC_SENSORS: "Sensores multiphásicos"
+SPECIAL_SLOT_MULTIPHASIC_SENSORS_DESC: "Estos sensores avanzados aumentan el rango del sensor utilizando generadores multiphase, actualizando y agregando a nuestro mapa de la galaxia mediante la realización de exploraciones preliminares de amplias franjas de espacio desde lejos."
+SPECIAL_SLOT_DAMAGE_CONTROL: "Equipos de control de daños"
+SPECIAL_SLOT_DAMAGE_CONTROL_DESC: "Estos miembros especializados de la tripulación están entrenados en la reparación rápida de naves bajo condiciones de campo de batalla para mantener la nave en funcionamiento durante más tiempo y reducir la necesidad de regresar a casa para reparaciones después de los compromisos de combate."
+SPECIAL_SLOT_READY_ROOM: "Sala de listos del capitán"
+SPECIAL_SLOT_READY_ROOM_DESC: "Comandar una nave de guerra es una carga pesada, e incluso los capitanes más capaces probablemente sentirán la tensión. Reservar un espacio privado para que el capitán del buque se relaje, mientras sigue estando disponible en caso de emergencias, mejorará la salud mental del capitán y mejorará su capacidad para comandar el buque cuando llegue el momento de participar en combate."
+SPECIAL_SLOT_CREW_LOUNGE: "Sala de descanso de la tripulación"
+SPECIAL_SLOT_CREW_LOUNGE_DESC: "Las largas implementaciones a bordo de naves de guerra espaciales pueden pasar factura a la tripulación de una nave. Tener áreas designadas de sala de descanso para la tripulación proporcionará a la tripulación un lugar para aliviar el estrés excesivo, mejorar la salud mental y, al final, mejorar el rendimiento en combate como resultado."
+SPECIAL_SLOT_FIRE_CONTROL: "Sistema de control de fuego"
+SPECIAL_SLOT_FIRE_CONTROL_DESC: "Este sistema de orientación avanzado permite que la nave adquiera soluciones de orientación más rápido y con mayor precisión, infligiendo un mayor daño a los buques enemigos en combate."
+SPECIAL_SLOT_STRUCTURAL_INTEGRITY: "Campo de integridad estructural"
+SPECIAL_SLOT_STRUCTURAL_INTEGRITY_DESC: "Este sistema avanzado de campos de fuerza fortalece la estructura del casco de la nave desde dentro, ayudando al buque a resistir el fuego enemigo durante períodos más largos antes de fallar."
+SPECIAL_SLOT_AUXILIARY_SHIELDS: "Sistema de escudo auxiliar"
+SPECIAL_SLOT_AUXILIARY_SHIELDS_DESC: "Esta serie secundaria de generadores de escudo de respaldo refuerza los escudos de la nave durante el combate, haciendo que los escudos sean más resistentes contra el fuego enemigo."
+SPECIAL_SLOT_QUANTUM_THRUSTERS: "Propulsores cuánticos"
+SPECIAL_SLOT_QUANTUM_THRUSTERS_DESC: "Incluso las flotas más poderosas son inútiles si no están donde necesitan estar, cuando necesitan estar allí. Aunque son muy caros de mantener y causan un desgaste aumentado en la nave en su conjunto, estos propulsores cuánticos proporcionarán un impulso significativo a la velocidad sublumínica, permitiendo que nuestras flotas viajen más rápido para responder a cualquier situación que pueda surgir."
+SPECIAL_SLOT_DEFLECTOR_ARRAY: "Matriz de deflector"
+SPECIAL_SLOT_DEFLECTOR_ARRAY_DESC: "Estas matrices de deflector alivian la tensión en los generadores de escudo, permitiendo que los escudos de la nave se regeneren más rápido después del combate, para prepararse para el próximo compromiso. En campañas donde se pueden luchar varias batallas en el mismo sistema en rápida sucesión, esto puede significar la diferencia entre la victoria y la derrota."
+SPECIAL_SLOT_KITCHEN_SINK: "Fregadero de cocina"
+SPECIAL_SLOT_KITCHEN_SINK_DESC: "Una tripulación limpia es una tripulación feliz. Una tripulación feliz hace explotar cosas. Y no, todavía no sabemos por qué usa energía."
+SPECIAL_SLOT_STELLAR_CARTOGRAPHY: "Cartografía estelar"
+SPECIAL_SLOT_STELLAR_CARTOGRAPHY_DESC: "Este gran sistema se utiliza para mapear el espacio circundante, permitiendo que las computadoras de la nave calculen y se recuperen de los saltos UL con mayor velocidad."
+SPECIAL_SLOT_NAVIGATIONAL_ARRAY: "Matriz de navegación"
+SPECIAL_SLOT_NAVIGATIONAL_ARRAY_DESC: "Este sistema de navegación 3D avanzado cumple dos funciones: primero, aumentar la capacidad de las armas de la nave para rastrear buques enemigos en combate, y segundo, para aumentar el alcance de los propulsores de salto de la nave, si dichos propulsores están equipados."
+SPECIAL_SLOT_MARS_WEAPON_SYSTEM: "Sistema de armas MARS"
+SPECIAL_SLOT_MARS_WEAPON_SYSTEM_DESC: "Este sistema de armas de defensa de punto avanzado está específicamente diseñado para rastrear objetivos pequeños y altamente evasivos: misiles, torpedos y naves de ataque, y proporcionar soluciones de orientación extremadamente precisas a velocidades vertiginosas, aumentando la tasa de fuego y el potencial de daño de las armas de defensa de punto de la nave."
+SPECIAL_SLOT_STRIKE_CRAFT: "Red de comando y control de Portanaves"
+SPECIAL_SLOT_STRIKE_CRAFT_DESC: "Una red avanzada de radares y matrices de comunicación que facilitan el comando y control de un gran número de naves de ataque, aumentando su efectividad."
+
+SPECIAL_SLOT_MARS_WEAPON_SYSTEM: "Sistema de armas MARS"
+SPECIAL_SLOT_MARS_WEAPON_SYSTEM_DESC: "Este sistema de armas de defensa de punto avanzado está específicamente diseñado para rastrear objetivos pequeños y altamente evasivos: misiles, torpedos y naves de ataque, y proporcionar soluciones de orientación extremadamente precisas a velocidades vertiginosas, aumentando la tasa de fuego y el potencial de daño de las armas de defensa de punto de la nave."
+SPECIAL_SLOT_STRIKE_CRAFT: "Red de comando y control de Portanaves"
+SPECIAL_SLOT_STRIKE_CRAFT_DESC: "Una red avanzada de radares y matrices de comunicación que facilitan el comando y control de un gran número de naves de ataque, aumentando su efectividad."
+
+
+
+EXPLORATION_SLOT_ANOMALY_LAB: "Laboratorio de investigación de anomalías"
+EXPLORATION_SLOT_ANOMALY_LAB_DESC: "Este laboratorio está dedicado al estudio de anomalías, esas cosas extrañas y maravillosas en la galaxia que no parecen seguir las mismas reglas que todo lo demás. Cada uno merece un análisis completo y exhaustivo, pero hay tanto por descubrir y tan poco tiempo. Al optimizar el laboratorio para el estudio de estas deliciosas rarezas, podemos asegurarnos de que cada anomalía reciba la atención que merece, al tiempo que aceleramos dramáticamente el tiempo de investigación."
+EXPLORATION_SLOT_SURVEY_LAB: "Laboratorio de encuestas"
+EXPLORATION_SLOT_SURVEY_LAB_DESC: "Hay tantos planetas y sistemas allí afuera, esperando, rogando ser descubiertos, y cada uno podría ser la clave para nuevos descubrimientos. No hay tiempo que perder, y este laboratorio especializado nos permitirá realizar nuestras encuestas mucho, mucho más rápido, lo que significa que podremos encuestar más y más espacio en la misma cantidad de tiempo. Más encuestas significa más descubrimiento, más aventura y más conocimiento sobre la galaxia."
+EXPLORATION_SLOT_ANALYSIS_LAB: "Laboratorio de análisis avanzado"
+EXPLORATION_SLOT_ANALYSIS_LAB_DESC: "Cada anomalía, por su propia naturaleza, nos obliga a hacer preguntas, a desafiar suposiciones previamente sostenidas. No hay nada más valioso que esto, cuando se trata del avance de la ciencia. No podemos arriesgarnos a perder ninguna anomalía potencial, y los secretos que guardan. Este laboratorio especializado garantizará que encontremos hasta la última anomalía que la galaxia tiene para ofrecer."
+EXPLORATION_SLOT_DEBRIS_LAB: "Laboratorio de análisis de escombros"
+EXPLORATION_SLOT_DEBRIS_LAB_DESC: "Este laboratorio está dedicado a la investigación y análisis de los escombros de naves espaciales dejados atrás de las batallas espaciales. Los escombros espaciales, tanto modernos como antiguos, pueden ser la clave para desbloquear misterios incontables del universo."
+EXPLORATION_SLOT_ARCH_LAB: "Laboratorio de arqueología avanzada"
+EXPLORATION_SLOT_ARCH_LAB_DESC: "Este laboratorio está dedicado al estudio de sitios de investigación arqueológica. Estos sitios guardan misterios incontables que encienden la imaginación, y merecen un laboratorio dedicado donde todo sobre ellos pueda ser analizado en su totalidad."
+EXPLORATION_SLOT_STELLAR_CARTOGRAPHY: "Cartografía estelar"
+EXPLORATION_SLOT_STELLAR_CARTOGRAPHY_DESC: "Este gran sistema se utiliza para mapear el espacio circundante, permitiendo que las computadoras de la nave calculen y se recuperen de los saltos UL con una velocidad muy aumentada. Mucho más efectivos que el modelo utilizado en las naves de guerra regulares, estos módulos de Cartografía Estelar también son mucho más delicados, y requieren la mano firme de un Oficial de Ciencias altamente capacitado para mantener."
+EXPLORATION_SLOT_QUANTUM_THRUSTERS: "Propulsores cuánticos"
+EXPLORATION_SLOT_QUANTUM_THRUSTERS_DESC: "Con tanto por explorar, cada momento que se pasa viajando entre sitios de encuestas es un momento perdido. Estos Propulsores Cuánticos están diseñados para empujar nuestra nave a través del espacio a velocidades vertiginosas, siempre corriendo hacia el próximo planeta, la próxima estrella, el próximo gran misterio esperando ser resuelto." 
+EXPLORATION_SLOT_NAVIGATIONAL_ARRAY: "Matriz de navegación"
+EXPLORATION_SLOT_NAVIGATIONAL_ARRAY_DESC: "Estos sistemas de navegación 3D avanzados están especialmente diseñados para extender nuestro rango de sensores tanto como sea posible en la galaxia, actualizando rápidamente y agregando a nuestro mapa de la galaxia mediante la realización de exploraciones preliminares de amplias franjas de espacio desde lejos."
+EXPLORATION_SLOT_PHYSICS_LAB: "Laboratorio de física avanzada"
+EXPLORATION_SLOT_PHYSICS_LAB_DESC: "§HProduce:§! 10 Investigación de Física\nEste laboratorio avanzado está dedicado a producir una investigación de Física revolucionaria: exploración en los secretos de la materia y la energía, las computadoras y la manipulación de campos."
+EXPLORATION_SLOT_SOCIETY_LAB: "Laboratorio de sociedad avanzada"
+EXPLORATION_SLOT_SOCIETY_LAB_DESC: "§HProduce:§! 10 Investigación de Sociedad\nEste laboratorio avanzado está dedicado a producir una investigación de Sociedad revolucionaria: exploración en los secretos de la sociología, la biología, la filosofía y la teoría militar, las ciencias de la vida y la cultura."
+EXPLORATION_SLOT_ENGINEERING_LAB: "Laboratorio de ingeniería avanzada"
+EXPLORATION_SLOT_ENGINEERING_LAB_DESC: "§HProduce:§! 10 Investigación de Ingeniería\nEste laboratorio avanzado está dedicado a producir una investigación de Ingeniería revolucionaria: exploración en los secretos de los materiales, la industria, las naves espaciales, la propulsión y la robótica."
+
+EXPLORATION_SLOT_MINING_FACILITY: "Instalación de minería de asteroides"
+EXPLORATION_SLOT_MINING_FACILITY_DESC: "§HProduce:§! 7 Minerales\n§HMantenimiento:§! 5 Energía\nEsta instalación permite a un imperio convertir un antiguo Explorador en una plataforma de minería avanzada, capaz de producir una pequeña cantidad de minerales cada mes."
+
+EXPLORATION_SLOT_SOLAR_ARRAY: "Matriz de paneles solares"
+EXPLORATION_SLOT_SOLAR_ARRAY_DESC: "§HProduce:§! 7 Energía\n§HMantenimiento:§! 5 Minerales\nEsta instalación permite a un imperio convertir un antiguo Explorador en una gran matriz de paneles solares y sistema de baterías, capaz de producir una pequeña cantidad de energía cada mes."
+
+EXPLORATION_SLOT_ALLOY_REFINERY: "Refinería de aleaciones"
+EXPLORATION_SLOT_ALLOY_REFINERY_DESC: "§HProduce:§! 7 Aleaciones\n§HMantenimiento:§! 3 Minerales & 3 Energía\nEsta instalación permite a un imperio convertir un antiguo Explorador en una refinería de aleaciones moderna, capaz de producir una pequeña cantidad de aleaciones cada mes."
+
+FRIGATE_CLOAK: "Dispositivo de ocultación avanzado de fragata"
+FRIGATE_CLOAKING: "Dispositivo de ocultación avanzado de fragata"
+BATTLECRUISER_CLOAK: "Dispositivo de ocultación pesada de crucero de batalla"
+BATTLECRUISER_CLOAKING: "Dispositivo de ocultación pesada de crucero de batalla"
+
+FIGHTERS_HANGAR_PD_1: "Escuadrón de cazas básicos (PD)"
+FIGHTERS_HANGAR_PD_1_DESC: "Los cazas básicos de clase Fighter se desplegarán para enfrentar a los hostiles cercanos cuando la nave nodriza entra en batalla. Permanecerá cerca de su Portanaves para interceptar bombarderos y misiles."
+FIGHTERS_HANGAR_PD_2: "Escuadrón de cazas mejorados (PD)"
+FIGHTERS_HANGAR_PD_2_DESC: "Los cazas mejorados apuntan a naves enemigas más pequeñas, así como a bombarderos y naves de ataque en maniobras coordinadas. Permanecerá cerca de su Portanaves para interceptar bombarderos y misiles."
+FIGHTERS_HANGAR_PD_3: "Escuadrón de cazas avanzados (PD)"
+FIGHTERS_HANGAR_PD_3_DESC: "Un escuadrón de cazas avanzados es capaz de hacer un daño significativo a las naves enemigas más pequeñas y mantenerse por sí mismo contra las naves de ataque hostiles. Permanecerá cerca de su Portanaves para interceptar bombarderos y misiles."
+
+LARGE_FIGHTERS_HANGAR_PD_1: "Escuadrón de cazas básicos (PD)"
+LARGE_FIGHTERS_HANGAR_PD_2: "Escuadrón de cazas mejorados (PD)"
+LARGE_FIGHTERS_HANGAR_PD_3: "Escuadrón de cazas avanzados (PD)"
+
+NSC_REACTOR_BOOSTER_1: "Impulsores de Gravitón"
+NSC_REACTOR_BOOSTER_1_DESC: "Impulsores de reactor aumentados por Tecnología de Potencia de Gravitón"
+NSC_REACTOR_BOOSTER_2: "Impulsores de Naquadria"
+NSC_REACTOR_BOOSTER_2_DESC: "Impulsores de reactor aumentados por Tecnología de Potencia de Naquadria"
+NSC_REACTOR_BOOSTER_3: "Impulsores de singularidad"
+NSC_REACTOR_BOOSTER_3_DESC: "Impulsores de reactor aumentados por Tecnología de Potencia de Singularidad"
+
+CORVETTE_SENSOR: "Sensor de exploración de corbeta"
+CORVETTE_SENSOR_DESC: "Este paquete de sensores especial permitirá a una nave de clase Corbeta explorar sistemas en busca de amenazas antes de enviar a tus valiosos equipos de ciencia."
+
+NSC_BOMBARDMENT_1: "Bombardeo mejorado"
+NSC_BOMBARDMENT_1_DESC: "Ahora podemos equipar nuestras naves militares con un paquete de armas mejorado que aumentará el daño causado cuando bombardeamos planetas."
+NSC_BOMBARDMENT_2: "Bombardeo mejorado"
+NSC_BOMBARDMENT_2_DESC: "Ahora podemos equipar nuestras naves militares con un paquete de armas mejorado que aumentará el daño causado cuando bombardeamos planetas."
+NSC_BOMBARDMENT_3: "Bombardeo avanzado"
+NSC_BOMBARDMENT_3_DESC: "Ahora podemos equipar nuestras naves militares con un paquete de armas avanzado que aumentará el daño causado cuando bombardeamos planetas."
+
+NSC_NANITE_FIELD: "Dispensario de Nanites"
+nsc_nanite_aura: "Dispensario de Nanites"
+nsc_starbase_nanite_aura: "Dispensario de Nanites"
+nsc_starbase_nanite_aura_DESC: "Nanites avanzados que se comen la blindaje de las naves hostiles al interrumpir los enlaces moleculares."
+sm_nsc_nanite_field: "Campo de dispensario de nanites"
+sm_nsc_nanite_field_desc: "Esta instalación construye, alberga y despliega nanites avanzados que se comen la blindaje de las naves hostiles al interrumpir los enlaces moleculares."
+
+FLAGSHIP_JUMP_DRIVE: "Propulsor de salto de buque insignia"
+FLAGSHIP_JUMP_DRIVE_DESC: "El Propulsor de Salto del Buque Insignia desgarra agujeros del tamaño de una nave en la misma tela de la realidad, permitiendo un movimiento casi instantáneo entre sistemas. La naturaleza del espacio por el que pasa la nave en este viaje todavía se entiende poco."
+
+HEADQUARTERS_JUMP_DRIVE: "Propulsor de salto de cuartel general"
+HEADQUARTERS_JUMP_DRIVE_DESC: "El Propulsor de Salto del Cuartel General desgarra agujeros del tamaño de una nave en la misma tela de la realidad, permitiendo un movimiento casi instantáneo entre sistemas. Debido al tamaño y la masa de la estación, este propulsor tiene un tiempo de recarga extremadamente largo y solo se puede usar muy esporádicamente."
+
+EXPLORATION_HYPER_DRIVE: "Propulsor hiper de explorador"
+EXPLORATION_HYPER_DRIVE_DESC: "Las naves equipadas con Propulsores Hiper viajan rápidamente entre los bordes de los sistemas estelares a lo largo de Hipervías interestelares."
+
+# NSC_AMMO_CRYSTAL_1: "Cristal de enfoque"
+# NSC_AMMO_CRYSTAL_1_DESC: "Un cristal especial diseñado para enfocar los rayos láser para mejorar su poder destructivo. Debido a su extenso uso de energía, otros tipos de armas sufrirán una caída en su tasa de fuego."
+
+# NSC_AMMO_WARHEAD_1: "Ojiva avanzada"
+# NSC_AMMO_WARHEAD_1_DESC: ""
+
+##################################################################################################################################################################################################################
+### REACTORS ###
+################
+
+### FISSION REACTORS ###
+STRIKECRUISER_FISSION_REACTOR: "$FISSION_REACTOR$"
+BATTLECRUISER_FISSION_REACTOR: "$FISSION_REACTOR$"
+CARRIER_FISSION_REACTOR: "$FISSION_REACTOR$"
+DREADNOUGHT_FISSION_REACTOR: "$FISSION_REACTOR$"
+
+### FUSION REACTORS ###
+STRIKECRUISER_FUSION_REACTOR: "$FUSION_REACTOR$"
+BATTLECRUISER_FUSION_REACTOR: "$FUSION_REACTOR$"
+CARRIER_FUSION_REACTOR: "$FUSION_REACTOR$"
+DREADNOUGHT_FUSION_REACTOR: "$FUSION_REACTOR$"
+
+### COLD FUSION REACTORS ###
+STRIKECRUISER_COLD_FUSION_REACTOR: "$COLD_FUSION_REACTOR$"
+BATTLECRUISER_COLD_FUSION_REACTOR: "$COLD_FUSION_REACTOR$"
+CARRIER_COLD_FUSION_REACTOR: "$COLD_FUSION_REACTOR$"
+DREADNOUGHT_COLD_FUSION_REACTOR: "$COLD_FUSION_REACTOR$"
+
+### ANTIMATTER REACTORS ###
+STRIKECRUISER_ANTIMATTER_REACTOR: "$ANTIMATTER_REACTOR$"
+BATTLECRUISER_ANTIMATTER_REACTOR: "$ANTIMATTER_REACTOR$"
+CARRIER_ANTIMATTER_REACTOR: "$ANTIMATTER_REACTOR$"
+DREADNOUGHT_ANTIMATTER_REACTOR: "$ANTIMATTER_REACTOR$"
+
+### ZERO POINT REACTOR ###
+STRIKECRUISER_ZERO_POINT_REACTOR: "$ZERO_POINT_REACTOR$"
+BATTLECRUISER_ZERO_POINT_REACTOR: "$ZERO_POINT_REACTOR$"
+CARRIER_ZERO_POINT_REACTOR: "$ZERO_POINT_REACTOR$"
+DREADNOUGHT_ZERO_POINT_REACTOR: "$ZERO_POINT_REACTOR$"
+
+### DARK MATTER REACTOR ###
+STRIKECRUISER_DARK_MATTER_REACTOR: "$DARK_MATTER_REACTOR$"
+BATTLECRUISER_DARK_MATTER_REACTOR: "$DARK_MATTER_REACTOR$"
+CARRIER_DARK_MATTER_REACTOR: "$DARK_MATTER_REACTOR$"
+DREADNOUGHT_DARK_MATTER_REACTOR: "$DARK_MATTER_REACTOR$"
+
+### GRAVITON REACTORS ###
+CORVETTE_GRAVITON_REACTOR: "Reactor Gravitónico"
+DESTROYER_GRAVITON_REACTOR: "Reactor Gravitónico"
+CRUISER_GRAVITON_REACTOR: "Reactor Gravitónico"
+STRIKECRUISER_GRAVITON_REACTOR: "Reactor Gravitónico"
+BATTLECRUISER_GRAVITON_REACTOR: "Reactor Gravitónico"
+BATTLESHIP_GRAVITON_REACTOR: "Reactor Gravitónico"
+DREADNOUGHT_GRAVITON_REACTOR: "Reactor Gravitónico"
+TITAN_GRAVITON_REACTOR: "Reactor Gravitónico"
+JUGGERNAUT_GRAVITON_REACTOR: "Reactor Gravitónico"
+PLATFORM_GRAVITON_REACTOR: "Reactor Gravitónico"
+STATION_GRAVITON_REACTOR: "Reactor Gravitónico"
+FORTRESS_GRAVITON_REACTOR: "Reactor Gravitónico"
+
+GRAVITON_REACTOR: "Reactor Gravitónico"
+GRAVITON_REACTOR_DESC: "Añadir partículas gravitacionales y basadas en gravitones para reforzar una reacción de antimateria aumenta enormemente la producción de energía de nuestros reactores."
+
+### NAQUADRIA REACTORS ###
+CORVETTE_NAQUADRIA_REACTOR: "Reactor Naquadria"
+DESTROYER_NAQUADRIA_REACTOR: "Reactor Naquadria"
+CRUISER_NAQUADRIA_REACTOR: "Reactor Naquadria"
+STRIKECRUISER_NAQUADRIA_REACTOR: "Reactor Naquadria"
+BATTLECRUISER_NAQUADRIA_REACTOR: "Reactor Naquadria"
+BATTLESHIP_NAQUADRIA_REACTOR: "Reactor Naquadria"
+DREADNOUGHT_NAQUADRIA_REACTOR: "Reactor Naquadria"
+TITAN_NAQUADRIA_REACTOR: "Reactor Naquadria"
+JUGGERNAUT_NAQUADRIA_REACTOR: "Reactor Naquadria"
+PLATFORM_NAQUADRIA_REACTOR: "Reactor Naquadria"
+STATION_NAQUADRIA_REACTOR: "Reactor Naquadria"
+FORTRESS_NAQUADRIA_REACTOR: "Reactor Naquadria"
+
+NAQUADRIA_REACTOR: "Reactor Naquadria"
+NAQUADRIA_REACTOR_DESC: "Reactor especial alimentado por cristales de alta energía."
+
+### SINGULARITY REACTORS ###
+CORVETTE_SINGULARITY_REACTOR: "Reactor de Singularidad"
+DESTROYER_SINGULARITY_REACTOR: "Reactor de Singularidad"
+CRUISER_SINGULARITY_REACTOR: "Reactor de Singularidad"
+STRIKECRUISER_SINGULARITY_REACTOR: "Reactor de Singularidad"
+BATTLECRUISER_SINGULARITY_REACTOR: "Reactor de Singularidad"
+BATTLESHIP_SINGULARITY_REACTOR: "Reactor de Singularidad"
+DREADNOUGHT_SINGULARITY_REACTOR: "Reactor de Singularidad"
+TITAN_SINGULARITY_REACTOR: "Reactor de Singularidad"
+JUGGERNAUT_SINGULARITY_REACTOR: "Reactor de Singularidad"
+PLATFORM_SINGULARITY_REACTOR: "Reactor de Singularidad"
+STATION_SINGULARITY_REACTOR: "Reactor de Singularidad"
+FORTRESS_SINGULARITY_REACTOR: "Reactor de Singularidad"
+
+SINGULARITY_REACTOR: "Reactor de Singularidad"
+SINGULARITY_REACTOR_DESC: "Reactor especializado alimentado por un agujero negro artificial"
+
+### MULTI DIMENSIONAL REACTORS ###
+CORVETTE_MULTIDIMENSIONAL_REACTOR: "Reactor Multidimensional"
+DESTROYER_MULTIDIMENSIONAL_REACTOR: "Reactor Multidimensional"
+CRUISER_MULTIDIMENSIONAL_REACTOR: "Reactor Multidimensional"
+STRIKECRUISER_MULTIDIMENSIONAL_REACTOR: "Reactor Multidimensional"
+BATTLECRUISER_MULTIDIMENSIONAL_REACTOR: "Reactor Multidimensional"
+BATTLESHIP_MULTIDIMENSIONAL_REACTOR: "Reactor Multidimensional"
+DREADNOUGHT_MULTIDIMENSIONAL_REACTOR: "Reactor Multidimensional"
+TITAN_MULTIDIMENSIONAL_REACTOR: "Reactor Multidimensional"
+JUGGERNAUT_MULTIDIMENSIONAL_REACTOR: "Reactor Multidimensional"
+PLATFORM_MULTIDIMENSIONAL_REACTOR: "Reactor Multidimensional"
+STATION_MULTIDIMENSIONAL_REACTOR: "Reactor Multidimensional"
+FORTRESS_MULTIDIMENSIONAL_REACTOR: "Reactor Multidimensional"
+
+MULTIDIMENSIONAL_REACTOR: "Reactor Multidimensional"
+MULTIDIMENSIONAL_REACTOR_DESC: "La creación de un puente de materia entre diferentes dimensiones y realidades alternativas permite un flujo constante, aunque algo limitado, de energía del vacío para alimentar nuestra próxima generación de reactores."
+
+### OPTIMIZED DARK MATTER REACTORS ###
+CORVETTE_OPTIMIZED_ENIGMATIC_REACTOR: "Reactor de Materia Oscura Optimizado"
+DESTROYER_OPTIMIZED_ENIGMATIC_REACTOR: "Reactor de Materia Oscura Optimizado"
+CRUISER_OPTIMIZED_ENIGMATIC_REACTOR: "Reactor de Materia Oscura Optimizado"
+STRIKECRUISER_OPTIMIZED_ENIGMATIC_REACTOR: "Reactor de Materia Oscura Optimizado"
+BATTLECRUISER_OPTIMIZED_ENIGMATIC_REACTOR: "Reactor de Materia Oscura Optimizado"
+BATTLESHIP_OPTIMIZED_ENIGMATIC_REACTOR: "Reactor de Materia Oscura Optimizado"
+DREADNOUGHT_OPTIMIZED_ENIGMATIC_REACTOR: "Reactor de Materia Oscura Optimizado"
+TITAN_OPTIMIZED_ENIGMATIC_REACTOR: "Reactor de Materia Oscura Optimizado"
+JUGGERNAUT_OPTIMIZED_ENIGMATIC_REACTOR: "Reactor de Materia Oscura Optimizado"
+PLATFORM_OPTIMIZED_ENIGMATIC_REACTOR: "Reactor de Materia Oscura Optimizado"
+STATION_OPTIMIZED_ENIGMATIC_REACTOR: "Reactor de Materia Oscura Optimizado"
+FORTRESS_OPTIMIZED_ENIGMATIC_REACTOR: "Reactor de Materia Oscura Optimizado"
+
+OPTIMIZED_ENIGMATIC_REACTOR: "Reactor de Materia Oscura Optimizado"
+OPTIMIZED_ENIGMATIC_REACTOR_DESC: "Aprovechando el conocimiento descubierto de la Fortaleza Enigmática junto con nuestros propios descubrimientos, ahora podemos tomar energía de punto cero directamente del subespacio de nuestro propio universo sin el riesgo de crear partículas exóticas inestables, permitiendo energía continua limitada solo por nuestra capacidad para controlar el flujo de energía."
+ 
+### SPECIAL REACTORS ###
+FLAGSHIP_BLACK_HOLE_REACTOR_1: "Reactor de agujero negro"
+FLAGSHIP_BLACK_HOLE_REACTOR_1_DESC: "Reactor alimentado por un agujero negro artificial."
+FLAGSHIP_BLACK_HOLE_REACTOR_2: "Reactor de agujero negro II"
+FLAGSHIP_BLACK_HOLE_REACTOR_2_DESC: "Reactor alimentado por un agujero negro artificial."
+FLAGSHIP_BLACK_HOLE_REACTOR_3: "Reactor de agujero negro III"
+FLAGSHIP_BLACK_HOLE_REACTOR_3_DESC: "Reactor alimentado por un agujero negro artificial."
+CITADEL_DARK_MATTER_REACTOR: "Reactor de Materia Oscura"
+STARBASE_PRIMARY_REACTOR: "Reactor primario de base estelar"
+
+### DEFENSE STATION SECONDARY REACTORS ###
+STATION_FISSION_REACTOR: "Reactor de fisión"
+STATION_FUSION_REACTOR: "Reactor de fusión"
+STATION_COLD_FUSION_REACTOR: "Reactor de fusión en frío"
+STATION_ANTIMATTER_REACTOR: "Reactor de antimateria"
+STATION_ZERO_POINT_REACTOR: "Reactor de punto cero"
+STATION_DARK_MATTER_REACTOR: "Reactor de materia oscura"
+
+### DEFENSE FORTRESS SECONDARY REACTORS ###
+FORTRESS_FISSION_REACTOR: "Reactor de fisión"
+FORTRESS_FUSION_REACTOR: "Reactor de fusión"
+FORTRESS_COLD_FUSION_REACTOR: "Reactor de fusión en frío"
+FORTRESS_ANTIMATTER_REACTOR: "Reactor de antimateria"
+FORTRESS_ZERO_POINT_REACTOR: "Reactor de punto cero"
+FORTRESS_DARK_MATTER_REACTOR: "Reactor de materia oscura"
+
+
+##################################################################################################################################################################################################################
+### THRUSTERS ###
+#################
+
+### LEVEL 1 ###
+STRIKECRUISER_SHIP_THRUSTER_1: "$SHIP_THRUSTER_1$"
+STRIKECRUISE_SHIP_THRUSTER_1_DESC: "$SHIP_THRUSTER_1_DESC$"
+BATTLECRUISER_SHIP_THRUSTER_1: "$SHIP_THRUSTER_1$"
+BATTLECRUISER_SHIP_THRUSTER_1_DESC: "$SHIP_THRUSTER_1_DESC$"
+CARRIER_SHIP_THRUSTER_1: "$SHIP_THRUSTER_1$"
+CARRIER_SHIP_THRUSTER_1_DESC: "$SHIP_THRUSTER_1_DESC$"
+DREADNOUGHT_SHIP_THRUSTER_1: "$SHIP_THRUSTER_1$"
+DREADNOUGHT_SHIP_THRUSTER_1_DESC: "$SHIP_THRUSTER_1_DESC$"
+FLAGSHIP_SHIP_THRUSTER_1: "$SHIP_THRUSTER_1$"
+FLAGSHIP_SHIP_THRUSTER_1_DESC: "$SHIP_THRUSTER_1_DESC$"
+
+### LEVEL 2 ###
+STRIKECRUISER_SHIP_THRUSTER_2: "$SHIP_THRUSTER_2$"
+STRIKECRUISERSHIP_THRUSTER_2_DESC: "$SHIP_THRUSTER_2_DESC$"
+BATTLECRUISER_SHIP_THRUSTER_2: "$SHIP_THRUSTER_2$"
+BATTLECRUISER_SHIP_THRUSTER_2_DESC: "$SHIP_THRUSTER_2_DESC$"
+CARRIER_SHIP_THRUSTER_2: "$SHIP_THRUSTER_2$"
+CARRIER_SHIP_THRUSTER_2_DESC: "$SHIP_THRUSTER_2_DESC$"
+DREADNOUGHT_SHIP_THRUSTER_2: "$SHIP_THRUSTER_2$"
+DREADNOUGHT_SHIP_THRUSTER_2_DESC: "$SHIP_THRUSTER_2_DESC$"
+FLAGSHIP_SHIP_THRUSTER_2: "$SHIP_THRUSTER_2$"
+FLAGSHIP_SHIP_THRUSTER_2_DESC: "$SHIP_THRUSTER_2_DESC$"
+
+### LEVEL 3 ###
+STRIKECRUISER_SHIP_THRUSTER_3: "$SHIP_THRUSTER_3$"
+STRIKECRUISER_SHIP_THRUSTER_3_DESC: "$SHIP_THRUSTER_3_DESC$"
+BATTLECRUISER_SHIP_THRUSTER_3: "$SHIP_THRUSTER_3$"
+BATTLECRUISER_SHIP_THRUSTER_3_DESC: "$SHIP_THRUSTER_3_DESC$"
+CARRIER_SHIP_THRUSTER_3: "$SHIP_THRUSTER_3$"
+CARRIER_SHIP_THRUSTER_3_DESC: "$SHIP_THRUSTER_3_DESC$"
+DREADNOUGHT_SHIP_THRUSTER_3: "$SHIP_THRUSTER_3$"
+DREADNOUGHT_SHIP_THRUSTER_3_DESC: "$SHIP_THRUSTER_3_DESC$"
+FLAGSHIP_SHIP_THRUSTER_3: "$SHIP_THRUSTER_3$"
+FLAGSHIP_SHIP_THRUSTER_3_DESC: "$SHIP_THRUSTER_3_DESC$"
+
+### LEVEL 4 ###
+STRIKECRUISER_SHIP_THRUSTER_4: "$SHIP_THRUSTER_4$"
+STRIKECRUISER_SHIP_THRUSTER_4_DESC: "$SHIP_THRUSTER_4_DESC$"
+BATTLECRUISER_SHIP_THRUSTER_4: "$SHIP_THRUSTER_4$"
+BATTLECRUISER_SHIP_THRUSTER_4_DESC: "$SHIP_THRUSTER_4_DESC$"
+CARRIER_SHIP_THRUSTER_4: "$SHIP_THRUSTER_4$"
+CARRIER_SHIP_THRUSTER_4_DESC: "$SHIP_THRUSTER_4_DESC$"
+DREADNOUGHT_SHIP_THRUSTER_4: "$SHIP_THRUSTER_4$"
+DREADNOUGHT_SHIP_THRUSTER_4_DESC: "$SHIP_THRUSTER_4_DESC$"
+FLAGSHIP_SHIP_THRUSTER_4: "$SHIP_THRUSTER_4$"
+FLAGSHIP_SHIP_THRUSTER_4_DESC: "$SHIP_THRUSTER_4_DESC$"
+
+### LEVEL 5 ###
+STRIKECRUISER_SHIP_THRUSTER_5: "$SHIP_THRUSTER_5$"
+STRIKECRUISER_SHIP_THRUSTER_5_DESC: "$SHIP_THRUSTER_5_DESC$"
+BATTLECRUISER_SHIP_THRUSTER_5: "$SHIP_THRUSTER_5$"
+BATTLECRUISER_SHIP_THRUSTER_5_DESC: "$SHIP_THRUSTER_5_DESC$"
+CARRIER_SHIP_THRUSTER_5: "$SHIP_THRUSTER_5$"
+CARRIER_SHIP_THRUSTER_5_DESC: "$SHIP_THRUSTER_5_DESC$"
+DREADNOUGHT_SHIP_THRUSTER_5: "$SHIP_THRUSTER_5$"
+DREADNOUGHT_SHIP_THRUSTER_5_DESC: "$SHIP_THRUSTER_5_DESC$"
+FLAGSHIP_SHIP_THRUSTER_5: "$SHIP_THRUSTER_5$"
+FLAGSHIP_SHIP_THRUSTER_5_DESC: "$SHIP_THRUSTER_5_DESC$"
+
+
+##################################################################################################################################################################################################################
+### WEAPONS ###
+###############
+
+PERDITION_BEAM_FLAGSHIP: "El Embajador de Justicia"
+PERDITION_BEAM_FLAGSHIP_DESC: "El láser más grande en existencia, para la nave más grande en existencia, para compensar a un Líder no tan grande."
+
+PERDITION_BEAM_STARBASE: "Desintegrador de Fase Atómica"
+PERDITION_BEAM_STARBASE_DESC: "DakkaDakkaDakkaDakka."
+
+XL_BEAM_STARBASE: "Modulador de Electrones Polarizados"
+XL_BEAM_STARBASE_DESC: "El doble de Dakka, la mitad del tamaño."
+
+BASIC_XL_BEAM: "Lanza Prototipo Temprano"
+BASIC_XL_BEAM_DESC: "Un prototipo básico de los primeros días del desarrollo de armas de Lanza. Es débil en comparación con sus sucesores, pero no requiere recursos estratégicos para funcionar."
+
+BASIC_T_BEAM: "Prototipo de Rayo de Perdición"
+BASIC_T_BEAM_DESC: "El primer ejemplo funcional de un arma de clase Titánica, carece del poder devastador de un verdadero Rayo de Perdición. Dicho esto, no requiere recursos estratégicos para funcionar."
+
+TOMAHAWK_CRUISE_MISSILE: "Misil de Crucero Avanzado Tomahawk"
+TOMAHAWK_CRUISE_MISSILE_DESC: "Un misil anti-buque de capital extremadamente caro con un alcance muy largo y alto daño. Muy útil para estaciones de defensa o naves de artillería de largo alcance."
+
+NSC_PD_MISSILE: "Pod de Misiles Avanzados Harrington"
+NSC_PD_MISSILE_DESC: "Un pod avanzado de misiles de defensa de punto capaz de derribar objetivos rápidos y maniobrables."
+
+FRIGATE_TORPEDO_1: "Torpedo Harpoon"
+FRIGATE_TORPEDO_1_DESC: "Un torpedo especializado diseñado para encajar en los pequeños lanzadores de la clase Fragata, destinado a ser utilizado en ataques rápidos de sigilo en territorio enemigo."
+
+BATTLECRUISER_TORPEDO_1: "Torpedo Minuteman"
+BATTLECRUISER_TORPEDO_1_DESC: "Nombrado por su capacidad para disparar más rápidamente que la mayoría de los otros torpedos, el Minuteman es una variante especial diseñada para la clase Crucero de Batalla para ejecutar ataques devastadores en naves de capital enemigos más grandes. También puede ser equipado en bases estelares y plataformas de defensa para la defensa de naves de capital de largo alcance."
+
+BATTLESHIP_SNIPER_GUN_1: "Cañón de Flujo Electromagnético"
+BATTLESHIP_SNIPER_GUN_1_DESC: "Estas torretas de alta velocidad especializadas están diseñadas para enfrentar Corbetas ágiles. Tienen una gran precisión a largo alcance, pero luchan contra los cascos más gruesos de las naves más grandes."
+
+BATTLESHIP_SNIPER_GUN_2: "Cañón de Flujo de Fotones Atómicos"
+BATTLESHIP_SNIPER_GUN_2_DESC: "Estas torretas de alta velocidad especializadas están diseñadas para enfrentar Corbetas ágiles. Tienen una gran precisión a largo alcance, pero luchan contra los cascos más gruesos de las naves más grandes."
+
+NSC_BB_SNIPER: "Cañón de Flujo Electromagnético"
+NSC_BB_SNIPER_DESC: "Estas torretas de alta velocidad especializadas están diseñadas para enfrentar Corbetas ágiles. Tienen una gran precisión a largo alcance, pero luchan contra los cascos más gruesos de las naves más grandes."
+
+NSC_BB_SNIPER_2: "Cañón de Flujo de Fotones Atómicos"
+NSC_BB_SNIPER_2_DESC: "Estas torretas de alta velocidad especializadas están diseñadas para enfrentar Corbetas ágiles. Tienen una gran precisión a largo alcance, pero luchan contra los cascos más gruesos de las naves más grandes."
+
+##################################################################################################################################################################################################################
+### TAGS ###
+###############
+
+spitfire: "Spitfire"
+spitfire_Desc: "Los naves con la Configuración Spitfire están diseñados para contrarrestar las pantallas enemigas"
+heavy_carrier: "Portanaves Pesado"
+heavy_carrier_desc: "Configuración de Portanaves Pesado"
+super_carrier: "Súper Portanaves"
+super_carrier_desc: "Configuración de Súper Portanaves"
+interdictor: "Interdictor"
+interdictor_desc: "Configuración de Interceptor"
+
+
+##################################################################################################################################################################################################################
+### CLOAKS ###
+###############
+
+ STRIKECRUISER_CLOAKING_3: "Manto de Élite del Crucero de Ataque"
+ STRIKECRUISER_CLOAKING_3_DESC: "$CLOAKING_3_DESC$"
+ STRIKECRUISER_CLOAKING_DARK_MATTER: "Manto de Materia Oscura del Crucero de Ataque"
+ STRIKECRUISER_CLOAKING_DARK_MATTER_DESC: "$CLOAKING_DARK_MATTER_DESC$"
+ STRIKECRUISER_CLOAKING_PSI: "Manto de Fase Psi del Crucero de Ataque"
+ STRIKECRUISER_CLOAKING_PSI_DESC: "$CLOAKING_PSI_DESC$"
+ 
+ STRIKECRUISER_CLOAKING_3_TOOLTIP: "Mientras está Oculto:\n\nPuntos de Vida del Escudo: §R-100%§!\nVelocidad Subluz: §G+10%§!"
+ STRIKECRUISER_CLOAKING_DARK_MATTER_TOOLTIP: "Mientras está Oculto:\n\nPuntos de Vida del Escudo: §R-50%§!\nVelocidad Subluz: §G+15%§!"
+ STRIKECRUISER_CLOAKING_PSI_TOOLTIP: "Mientras está Oculto:\n\nVelocidad Subluz: §G+20%§!"
+ 
+ 
+ CARRIER_CLOAKING_3: "Manto de Élite del Portanaves"
+ CARRIER_CLOAKING_3_DESC: "$CLOAKING_3_DESC$"
+ CARRIER_CLOAKING_DARK_MATTER: "Manto de Materia Oscura del Portanaves"
+ CARRIER_CLOAKING_DARK_MATTER_DESC: "$CLOAKING_DARK_MATTER_DESC$"
+ CARRIER_CLOAKING_PSI: "Manto de Fase Psi del Portanaves"
+ CARRIER_CLOAKING_PSI_DESC: "$CLOAKING_PSI_DESC$"
+ 
+ CARRIER_CLOAKING_3_TOOLTIP: "Mientras está Oculto:\n\nPuntos de Vida del Escudo: §R-100%§!\nVelocidad Subluz: §R-50%§!\nDaño de las Naves de Ataque: §R-50%§!\nTasa de Fuego de las Naves de Ataque: §R-50%§!\nVelocidad de las Naves de Ataque: §R-50%§!"
+ CARRIER_CLOAKING_DARK_MATTER_TOOLTIP: "Mientras está Oculto:\n\nPuntos de Vida del Escudo: §R-80%§!\nVelocidad Subluz: §R-40%§!\nDaño de las Naves de Ataque: §R-35%§!\nTasa de Fuego de las Naves de Ataque: §R-35%§!\nVelocidad de las Naves de Ataque: §R-35%§!"
+ CARRIER_CLOAKING_PSI_TOOLTIP: "Mientras está Oculto:\n\nPuntos de Vida del Escudo: §R-60%§!\nVelocidad Subluz: §R-30%§!\nDaño de las Naves de Ataque: §R-20%§!\nTasa de Fuego de las Naves de Ataque: §R-20%§!\nVelocidad de las Naves de Ataque: §R-20%§!"
+ 
+ 
+ EXPLORATION_CLOAKING_3: "Manto de Élite del Explorador"
+ EXPLORATION_CLOAKING_3_DESC: "$CLOAKING_3_DESC$"
+ EXPLORATION_CLOAKING_DARK_MATTER: "Manto de Materia Oscura del Explorador"
+ EXPLORATION_CLOAKING_DARK_MATTER_DESC: "$CLOAKING_DARK_MATTER_DESC$"
+ EXPLORATION_CLOAKING_PSI: "Manto de Fase Psi del Explorador"
+ EXPLORATION_CLOAKING_PSI_DESC: "$CLOAKING_PSI_DESC$"
+ 
+ EXPLORATION_CLOAKING_3_TOOLTIP: "Mientras está Oculto:\n\nPuntos de Vida del Escudo: §R-50%§!\nVelocidad Subluz: §G+10%§!\nRango del Sensor: §G+1§!\nFuerza de Detección del Manto: §G1§!"
+ EXPLORATION_CLOAKING_DARK_MATTER_TOOLTIP: "Mientras está Oculto:\n\nPuntos de Vida del Escudo: §R-25%§!\nVelocidad Subluz: §G+20%§!\nRango del Sensor: §G+2§!\nFuerza de Detección del Manto: §G2§!"
+ EXPLORATION_CLOAKING_PSI_TOOLTIP: "Mientras está Oculto:\n\nVelocidad Subluz: §G+30%§!\nRango del Sensor: §G+3§!\nFuerza de Detección del Manto: §G3§!"
+ 
+ 
+ FLAGSHIP_CLOAKING_3: "Manto Especial de la Nave Insignia"
+ FLAGSHIP_CLOAKING_3_DESC: "$CLOAKING_3_DESC$"
+ FLAGSHIP_CLOAKING_3_TOOLTIP: "Mientras está Oculto:\n\nPuntos de Vida del Escudo: §R-75%§!\nTiempo de Enfriamiento del Salto: §G-50%§!\nVelocidad Subluz: §G+50%§!\nRango del Sensor: §G+3§!\nFuerza de Detección del Manto: §G5§!"
+ 
+ BATTLECRUISER_CLOAKING_DESC: "Un dispositivo de ocultamiento grande para el Crucero de Batalla."
